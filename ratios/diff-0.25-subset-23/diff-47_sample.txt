@@ -1,0 +1,47 @@
+#SampleID	survey_id	sex	age	age_cat	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR1074014	61a99ba08f9dbe8a	male	adult	60s	6801	Normal	USA	HC	heartD	ERR1074014	17829.0
+ERR1845958	8afeaf6794153808	female	adult	50s	41295	Overweight	USA	HC	heartD	ERR1845958	8055.0
+ERR2032503	7fcf241738773aa2	male	adult	50s	27824	Overweight	USA	disease	heartD	ERR2032503	12670.0
+ERR1075191	4ca6e10f70686cc8	male	adult	70+	13047	Overweight	USA	disease	heartD	ERR1075191	9770.0
+ERR2405151	087dca34460cd140	male	adult	20s	82924	Overweight	USA	HC	heartD	ERR2405151	9357.0
+ERR1090474	d99236d2bd926fd9	male	adult	60s	22601	Normal	USA	disease	heartD	ERR1090474	10997.0
+ERR1842268	0d03eb0f9f891e12	female	adult	70+	46290	Overweight	United Kingdom	disease	heartD	ERR1842268	9894.0
+ERR1250647	7c1efe590a3b303c	male	adult	50s	39909	Overweight	USA	HC	heartD	ERR1250647	13710.0
+ERR1091733	5b37cd39d8d50fdc	male	adult	50s	31342	Overweight	USA	disease	heartD	ERR1091733	58189.0
+ERR2309315	f8c34f6c7c016e4c	male	adult	50s	70852	Overweight	USA	disease	heartD	ERR2309315	28838.0
+ERR2057200	79f23737d8e0df06	male	adult	50s	69780	Overweight	USA	disease	heartD	ERR2057200	12413.0
+ERR1080370	ce976dfdc40fb23d	female	child	child	22340	Underweight	Australia	HC	heartD	ERR1080370	8022.0
+ERR2579836	61cfe470d0cd39b3	female	adult	40s	70818	Overweight	United Kingdom	HC	heartD	ERR2579836	24729.0
+ERR2309353	876a0ada5e091967	male	adult	60s	74212	Overweight	Switzerland	HC	heartD	ERR2309353	43272.0
+ERR1074841	05ad7fb1577f7327	female	adult	70+	9670	Normal	USA	disease	heartD	ERR1074841	19394.0
+ERR1073852	5790a11bf8aee2e1	female	adult	40s	4747	Not provided	USA	HC	heartD	ERR1073852	15192.0
+ERR2308874	002bb79bbb803634	male	adult	60s	84424	Normal	USA	HC	heartD	ERR2308874	35439.0
+ERR1459056	ed37e4a7865045fc	male	adult	50s	42679	Overweight	Norway	disease	heartD	ERR1459056	9749.0
+ERR1316102	efc899a58911ed7d	male	adult	30s	40055	Overweight	USA	disease	heartD	ERR1316102	2556.0
+ERR1678455	7061756b3f924133	male	adult	50s	49243	Overweight	USA	disease	heartD	ERR1678455	15106.0
+ERR2524145	0e0f9c4a52a3dd7a	female	adult	60s	89996	Normal	USA	disease	heartD	ERR2524145	10747.0
+ERR1077774	70a7203700e05644	male	adult	50s	2271	Overweight	USA	HC	heartD	ERR1077774	30623.0
+ERR1846025	535682e21e70ce5f	male	adult	50s	51109	Overweight	USA	disease	heartD	ERR1846025	12319.0
+ERR1091503	ef694e65e3b56f34	male	adult	70+	29579	Normal	United Kingdom	disease	heartD	ERR1091503	35534.0
+ERR2696738	5bc7c3d5d71729e7	male	adult	60s	98201	Overweight	USA	HC	heartD	ERR2696738	23822.0
+ERR1091410	f2d2f82ac2db65d1	female	adult	40s	28693	Overweight	USA	HC	heartD	ERR1091410	39522.0
+ERR1074402	2499f6841b996784	male	adult	30s	6047	Normal	USA	HC	heartD	ERR1074402	13930.0
+ERR1249957	3e032c04f57889b0	male	adult	60s	34232	Overweight	USA	disease	heartD	ERR1249957	12473.0
+ERR2405131	2bf014892fe004d5	male	adult	50s	82870	Normal	USA	disease	heartD	ERR2405131	8248.0
+ERR2309420	b8b2381a465e1502	male	child	teen	79451	Underweight	USA	disease	heartD	ERR2309420	52944.0
+ERR1249768	2a0c54414f0e3646	male	adult	30s	27879	Overweight	USA	HC	heartD	ERR1249768	16916.0
+ERR2579772	49d5fc51dd260628	female	child	child	66816	Normal	USA	HC	heartD	ERR2579772	23923.0
+ERR2698010	58620fa6427242e9	male	adult	60s	98787	Normal	United Kingdom	disease	heartD	ERR2698010	11512.0
+ERR1842537	63df0f4276b84b14	female	adult	60s	53344	Normal	United Kingdom	HC	heartD	ERR1842537	7344.0
+ERR1249907	01d8ceff709c715e	male	adult	40s	31222	Overweight	USA	HC	heartD	ERR1249907	10669.0
+ERR1080130	c30e0ace3a754ce7	male	adult	40s	20067	Normal	USA	HC	heartD	ERR1080130	4536.0
+ERR2319424	f5fdaa777ed61a53	male		Not provided	66801	Underweight	USA	HC	heartD	ERR2319424	31376.0
+ERR1841615	790aa37b2d1f14fb	male	adult	40s	40396	Normal	USA	disease	heartD	ERR1841615	6407.0
+ERR2308594	af9d5d8337281a15	male	adult	60s	69795	Overweight	USA	HC	heartD	ERR2308594	25829.0
+ERR1250096	f71f5fde03027b20	male	child	teen	36920	Normal	USA	HC	heartD	ERR1250096	7796.0
+ERR1250072	c1373cdbe4ee0b16	male	adult	70+	36670	Overweight	USA	HC	heartD	ERR1250072	12052.0
+ERR2697865	d1c6446f0ce46c81	male		Unspecified	97351	Unspecified	United Kingdom	disease	heartD	ERR2697865	13156.0
+ERR1841465	5437b117d14e09c4	male	adult	50s	23534	Normal	Australia	disease	heartD	ERR1841465	9014.0
+ERR2032546	5e611184d46ce946	male	adult	60s	39540	Overweight	USA	disease	heartD	ERR2032546	10728.0
+ERR1091807	f83d25c0f8fbc142	male	adult	30s	33785	Normal	USA	HC	heartD	ERR1091807	65625.0
+ERR1845788	221515cea40c3c3f	male	adult	60s	23394	Normal	USA	disease	heartD	ERR1845788	10727.0

@@ -1,0 +1,29 @@
+sampleid	disease	authors	dys_number	merged	study	Country	sample_source	updated	notes	2	3	4	5	_sample_id	_calour_original_abundance	_calour_merge_number	_calour_merge_ids
+12	Gastroenteritis	Braun	19	Gastroenteritis (Braun)	Braun	Israel	stool	V						12	-93.29099114156763	2	12;9
+62	Hypertension	UKtwins	29	Hypertension (Uktwins)	uktwins	UK	stool	V	females	adults				62	7.427558706247229	1	62
+50	Autism	Zurita	4	Autism (Zurita)	zurita	Ecuador	stool	V		children				50	10.461170848267638	2	50;48
+20	Obesity	Vangay	51	Obesity (Vangay)	vangay	Multi	stool	V		adults				20	-7.0587786259542105	4	20;7;44;60
+45	Irritable bowel syndrom	AGP	44	Irritable bowel syndrom (AGP)	AGP	USA	stool	V						45	-5.485929015503268	3	45;56;10
+4	Parkinson	Heintz_Buschart	53	Parkinson (Heintz-Buschart)	Heintz_Buschart	Germany	stool	V	No gender metadata	adults				4	8.263063063063058	3	4;5;3
+29	IBD_Crohn disease	Gevers	33	IBD_Crohn disease (Gevers)	gevers	USA	biposy	V		children				29	-21.385766844611133	6	29;25;26;24;41;27
+59	Gout	UKtwins	21	Gout (Uktwins)	uktwins	UK	stool	V	females	adults				59	-7.433823529411784	1	59
+40	C.difficile infection	AGP	8	C.difficile infection (AGP)	AGP	USA	stool	V						40	-13.48275862068966	1	40
+1	Schizophrenia	Nguyen	58	Schizophrenia (Nguyen)	nguyen	USA	stool	V	search for gender	11710:11710.10317.000084453	11710:11710.10317.000084288			1	-14.766666666666687	2	1;18
+8	HIV	Cathreine	27	HIV (Lozupone)	cathreine	USA	stool	V	gender not available	adults				8	12.367768595041326	4	8;16;34;51
+49	IBD_Inflammtory bowel disease	AGP	37	IBD_Inflammtory bowel disease (AGP)	AGP	USA	stool	V						49	0.2924812030075206	2	49;52
+39	Depression	AGP	12	Depression (AGP)	AGP	USA	stool	V						39	-0.5433093320025632	2	39;53
+17	Alzheimer	vogt	1	Alzheimer (Vogt)	vogt	USA	stool	V		adults				17	-27.415999999999997	1	17
+55	Rheumatoid arthritis	UKtwins	57	Rheumatoid arthritis (Uktwins)	uktwins	UK	stool	V	females	adults				55	-1.6955882352941187	1	55
+14	Pancreatitis	zhu	52	Pancreatitis (Zhu)	zhu	China	stool	V	No gender metadata	adults				14	-65.0042207792209	1	14
+33	Diabetes T2	Chang	17	Diabetes T2 (Li)	Chang	China	stool			adults				33	-6.103913630229415	4	33;43;61;6
+2	Bipolar	Evans	7	Bipolar (Evans)	Evans	USA	stool	V	good					2	-13.580570652173902	2	2;36
+46	Cancer	AGP	9	Cancer (AGP)	AGP	USA	stool	V						46	-4.5012868091399	2	46;58
+23	IBD_Ulcerative Colitis	Gevers	41	IBD_Ulcerative Colitis (Gevers)	gevers	USA	biopsy	V		children				23	-0.45679513184584086	5	23;28;22;42;32
+11	Anorexia	Mack	2	Anorexia (Mack)	Mack	Germany	stool	V	no age/gender metadata					11	0.7589225589225611	1	11
+54	Heart diseases	UKtwins	23	Heart diseases (Uktwins)	uktwins	UK	stool	V	females	adults				54	-12.376008064516133	2	54;47
+31	Chronic fatigue syndrome	Giloteaux	11	Chronic fatigue syndrome (Giloteaux)	Giloteaux	USA	stool	V						31	-27.98999999999998	1	31
+13	Lupus	Luo	47	Lupus (Luo)	Luo	China	stool	V	No gender metadata	adults				13	-32.49579831932778	1	13
+37	Autoimmun diseases	AGP	5	Autoimmun diseases (AGP)	AGP	USA	stool	V						37	-4.58275386984358	1	37
+19	Hepatitis B	Liu	24	Hepatitis B (Liu)	Liu	China	stool	V		adults				19	18.20519480519481	1	19
+15	Diabetes T1	Cinek	14	Diabetes T1 (Cinek)	Cinek	Multi	stool	V						15	-10.58578775128567	1	15
+57	Psoriasis	UKtwins	56	Psoriasis (Uktwins)	uktwins	UK	stool	V	females	adults				57	2.4330011074197158	1	57

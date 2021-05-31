@@ -1,0 +1,47 @@
+#SampleID	survey_id	sex	age	age_cat	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR1459124	1f9919eed5fb8c13	male	adult	60s	39902	Overweight	USA	disease	autoD	ERR1459124	4317.0
+ERR2314077	1f6dce622ca4f934	female	adult	40s	59988	Normal	United Kingdom	disease	autoD	ERR2314077	27660.0
+ERR2313987	23b1a859c5a5b8df	female	adult	60s	40336	Normal	USA	disease	autoD	ERR2313987	18722.0
+ERR2523960	fbdf4ecbcd96857c	male	adult	30s	76528	Normal	United Kingdom	HC	autoD	ERR2523960	12764.0
+ERR1075113	f0e53a1582e39a55	male	adult	60s	12105	Overweight	USA	HC	autoD	ERR1075113	17692.0
+ERR1080324	dad96568285b3936	female	adult	50s	21949	Overweight	USA	disease	autoD	ERR1080324	6385.0
+ERR1845805	eb0abb234a35cdc7	female	adult	50s	23591	Normal	Australia	HC	autoD	ERR1845805	11694.0
+ERR2303982	17a590545ac45b89	unspecified		Unspecified	71578	Unspecified	United Kingdom	HC	autoD	ERR2303982	13740.0
+ERR2308559	cb5bcbcabc1c6b6b	male	adult	60s	59189	Normal	USA	disease	autoD	ERR2308559	20502.0
+ERR1843842	58f08be2bde430b1	male	adult	50s	54095	Overweight	United Kingdom	disease	autoD	ERR1843842	12821.0
+ERR1846100	626bddcf01998466	male	adult	50s	58505	Normal	USA	disease	autoD	ERR1846100	9402.0
+ERR2696728	8663ae76812fc2a4	male	adult	50s	97614	Overweight	USA	disease	autoD	ERR2696728	14524.0
+ERR1091662	186281baf991f8a8	male	adult	40s	30989	Overweight	USA	HC	autoD	ERR1091662	27604.0
+ERR2304085	ba50ee7c3188807b	female	adult	40s	79419	Overweight	USA	disease	autoD	ERR2304085	27089.0
+ERR2580006	967f4283544bc000	male	child	teen	73567	Underweight	USA	HC	autoD	ERR2580006	4729.0
+ERR1073903	f932e655b8e3c152	male	adult	70+	5725	Overweight	Australia	HC	autoD	ERR1073903	15413.0
+ERR2405366	ae7ef48ceea465fa	female	adult	30s	90130	Normal	USA	disease	autoD	ERR2405366	16805.0
+ERR1074760	5191604effbd9e65	male	adult	30s	3844	Overweight	USA	HC	autoD	ERR1074760	18624.0
+ERR1080413	faf5c29410b0d52d	female	adult	40s	23857	Overweight	USA	disease	autoD	ERR1080413	8025.0
+ERR1842407	c08dbffa375547c0	female	adult	50s	50252	Overweight	United Kingdom	HC	autoD	ERR1842407	4824.0
+ERR1841477	e549b96718725018	female	adult	40s	28267	Normal	United Kingdom	HC	autoD	ERR1841477	9312.0
+ERR2032909	d8595c3b67fb2952	female		Not provided	66471	Not provided	USA	disease	autoD	ERR2032909	13187.0
+ERR1250615	e35cf6f7a5396d40	male		Not provided	36972	Normal	USA	disease	autoD	ERR1250615	10029.0
+ERR2696626	82798ec2e90d54a0	female	adult	50s	92997	Normal	United Kingdom	HC	autoD	ERR2696626	19808.0
+ERR2303841	9e01efbe9e4b443b	female	adult	40s	50210	Normal	United Kingdom	disease	autoD	ERR2303841	16776.0
+ERR2318006	ec1640df6b902243	female		Unspecified	38113	Unspecified	United Kingdom	disease	autoD	ERR2318006	24112.0
+ERR2404912	b6d453abfed1f99e	female	adult	50s	40344	Normal	USA	disease	autoD	ERR2404912	7185.0
+ERR1091785	4f4dbef0fa14f09b	female	adult	30s	31893	Normal	USA	disease	autoD	ERR1091785	27535.0
+ERR1842758	22b300267fae3c8f	female	adult	50s	47157	Normal	United Kingdom	disease	autoD	ERR1842758	2643.0
+ERR1250412	5e0dff13463b5916	Not provided	adult	30s	10566	Normal	USA	HC	autoD	ERR1250412	12074.0
+ERR2524208	5678186f16bf43d2	female	adult	60s	93080	Normal	USA	HC	autoD	ERR2524208	10316.0
+ERR2319405	647bd3b1cb9edad8	female	adult	50s	66437	Normal	USA	disease	autoD	ERR2319405	22647.0
+ERR1073999	8b12ff6df399bccb	female	adult	40s	6729	Normal	USA	HC	autoD	ERR1073999	18950.0
+ERR1076647	576ee5cd6d7a3cdc	female	adult	60s	10870	Overweight	USA	HC	autoD	ERR1076647	16151.0
+ERR1076786	98ecad52d1b5f745	female	adult	30s	15329	Normal	USA	HC	autoD	ERR1076786	27529.0
+ERR1389652	41b14610542ef7ad	female		Not provided	28347	Underweight	Switzerland	HC	autoD	ERR1389652	3950.0
+ERR2579942	10984a42907e9c41	male	adult	60s	72571	Overweight	USA	disease	autoD	ERR2579942	11446.0
+ERR1080091	c9b51b8a7a57c58f	female	adult	20s	18345	Normal	USA	HC	autoD	ERR1080091	6563.0
+ERR1080337	1941ab06039732d5	female	adult	40s	22026	Normal	Australia	HC	autoD	ERR1080337	4538.0
+ERR1842386	a612f040a130d746	male	adult	70+	50022	Normal	United Kingdom	HC	autoD	ERR1842386	1902.0
+ERR2579867	0ccf6bb8336b6ea5	female	adult	50s	71903	Normal	Italy	disease	autoD	ERR2579867	24802.0
+ERR1842270	53e0c655ff643ab0	female	adult	40s	46293	Overweight	United Kingdom	disease	autoD	ERR1842270	7498.0
+ERR2309417	5046f0415079ca59	male	child	teen	79447	Normal	USA	HC	autoD	ERR2309417	28946.0
+ERR1458999	12308b2e3ec3523d	male	adult	40s	41681	Normal	Spain	disease	autoD	ERR1458999	16160.0
+ERR2092082	f14da7de3d15208b	male	child	child	68548	Underweight	United Kingdom	HC	autoD	ERR2092082	20066.0
+ERR1075955	cff40613ccc66c6e	female	adult	40s	14330	Normal	USA	HC	autoD	ERR1075955	15420.0

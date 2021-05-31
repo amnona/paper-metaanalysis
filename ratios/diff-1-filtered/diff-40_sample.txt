@@ -1,0 +1,86 @@
+#SampleID	survey_id	sex	age	age_cat	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR2696667	6b088ec3bb948de8	male	adult	50s	94610	Normal	USA	HC	cdiff	ERR2696667	15494.0
+ERR2308597	bce12763ee5e3c4d	female		Unspecified	69806	Normal	USA	disease	cdiff	ERR2308597	14641.0
+ERR2697847	c714bf2332f502fe	male	adult	40s	97279	Overweight	United Kingdom	disease	cdiff	ERR2697847	13866.0
+ERR1075106	21f6b8f7758a7b70	female	adult	30s	12069	Underweight	USA	HC	cdiff	ERR1075106	10667.0
+ERR1074372	5550cc712cf51ac3	Not provided	adult	30s	5712	Overweight	Japan	HC	cdiff	ERR1074372	16100.0
+ERR1846186	91610581b2d2271f	female	adult	30s	63038	Normal	USA	disease	cdiff	ERR1846186	9532.0
+ERR2303837	016387da41167673	male	adult	30s	48368	Normal	USA	HC	cdiff	ERR2303837	13244.0
+ERR1389969	7be2fd1989b2dc4a	female	adult	20s	42586	Normal	USA	HC	cdiff	ERR1389969	16438.0
+ERR2579378	92e0aa1b5d1ddfe3	female	adult	50s	39835	Normal	USA	HC	cdiff	ERR2579378	20071.0
+ERR1250136	65db2fb826143254	male	adult	30s	37565	Normal	USA	HC	cdiff	ERR1250136	9072.0
+ERR2579376	fd34315219f4fdc5	female	adult	60s	27233	Normal	USA	disease	cdiff	ERR2579376	22331.0
+ERR1389966	d31fe263236f366e	male	adult	30s	42026	Normal	USA	HC	cdiff	ERR1389966	19961.0
+ERR2308544	dd44dd936fbe0074	male		Unspecified	52455	Underweight	USA	HC	cdiff	ERR2308544	23823.0
+ERR1316235	218b7d5925edba79	female		Not provided	41609	Normal	USA	HC	cdiff	ERR1316235	3177.0
+ERR1074163	051af48c2760588f	female	adult	40s	1401	Not provided	USA	HC	cdiff	ERR1074163	11052.0
+ERR1678489	8374acc328f62da2	male	adult	70+	52445	Overweight	USA	HC	cdiff	ERR1678489	9628.0
+ERR2580099	9fd72b8b9aadadac	female	adult	40s	74848	Normal	USA	HC	cdiff	ERR2580099	19385.0
+ERR2308540	dbbc8e1d3171fe81	female	adult	20s	47210	Normal	Germany	HC	cdiff	ERR2308540	11812.0
+ERR1080111	97618a8f887b2baf	male	adult	40s	18414	Overweight	USA	HC	cdiff	ERR1080111	3301.0
+ERR1075176	09d1a9f007e33ad6	female	adult	30s	12999	Overweight	USA	HC	cdiff	ERR1075176	2296.0
+ERR2697817	28f3c727dd097a10	female	adult	50s	93623	Normal	USA	HC	cdiff	ERR2697817	13716.0
+ERR2696649	3d092d6194857699	female	adult	20s	63128	Normal	USA	disease	cdiff	ERR2696649	13387.0
+ERR2314232	e729e1f5741942a2	female	adult	50s	69333	Normal	USA	HC	cdiff	ERR2314232	21373.0
+ERR1249693	83d9639b12f646af	female	adult	40s	23178	Normal	USA	disease	cdiff	ERR1249693	9974.0
+ERR2696546	ccaffb140359f4ee	male	adult	30s	90075	Overweight	USA	disease	cdiff	ERR2696546	18375.0
+ERR1091332	e2eeeb7e684b4790	male	adult	30s	27364	Normal	Japan	disease	cdiff	ERR1091332	33870.0
+ERR2238754	0b306195f607d904	male	adult	20s	71408	Normal	USA	HC	cdiff	ERR2238754	10420.0
+ERR2319324	8c16976218077152	female	adult	40s	47669	Overweight	United Kingdom	HC	cdiff	ERR2319324	30856.0
+ERR1852402	6aa482af6fa83408	male	adult	30s	7242	Not provided	USA	HC	cdiff	ERR1852402	19571.0
+ERR1846096	747a17afcbf0a523	male	adult	30s	58379	Normal	United Kingdom	HC	cdiff	ERR1846096	6670.0
+ERR2696682	6d95a690c20743bc	female	adult	50s	94711	Overweight	USA	HC	cdiff	ERR2696682	17938.0
+ERR2697589	81286aef25ad8ddc	female	adult	60s	72367	Normal	USA	disease	cdiff	ERR2697589	13162.0
+ERR2696714	2fc3ccdbbac515c5	male	adult	50s	97346	Normal	United Kingdom	HC	cdiff	ERR2696714	22466.0
+ERR2309338	78cb05d4835262d8	male	adult	60s	72596	Overweight	USA	disease	cdiff	ERR2309338	31047.0
+ERR1250119	efc4290384ed67ee	female	adult	70+	37499	Normal	USA	disease	cdiff	ERR1250119	19218.0
+ERR1842846	ba8e840c990b44fa	female	adult	20s	54035	Normal	Germany	HC	cdiff	ERR1842846	2822.0
+ERR1842476	7a85d80d093d8693	female	adult	60s	51999	Overweight	USA	disease	cdiff	ERR1842476	6518.0
+ERR2092200	379663a18251ca53	Not provided	adult	30s	67540	Overweight	USA	HC	cdiff	ERR2092200	11341.0
+ERR2319506	0d854cfb4bf94778	female	adult	40s	69259	Normal	USA	disease	cdiff	ERR2319506	17168.0
+ERR1091817	54388d787c3b4b24	female	adult	50s	33805	Normal	USA	disease	cdiff	ERR1091817	36499.0
+ERR2318213	131e22e7ae31e80b	female	adult	60s	72025	Normal	USA	disease	cdiff	ERR2318213	22012.0
+ERR2319580	23a4503a510e9d66	female	adult	30s	71405	Normal	USA	HC	cdiff	ERR2319580	21516.0
+ERR2032460	48c83b76031b7580	female	adult	60s	1000	Normal	USA	HC	cdiff	ERR2032460	7554.0
+ERR1458708	1cf125e4edceed72	female	adult	30s	13291	Normal	USA	disease	cdiff	ERR1458708	6545.0
+ERR2033630	ac95434439acf28d	female	adult	30s	69734	Overweight	USA	disease	cdiff	ERR2033630	15745.0
+ERR1854711	467a986455d616a2	male	adult	50s	58422	Normal	USA	HC	cdiff	ERR1854711	1285.0
+ERR1074756	7394492918e03868	female	adult	40s	3494	Not provided	USA	HC	cdiff	ERR1074756	14907.0
+ERR1846033	996b06c5965c0a32	female	adult	50s	52018	Normal	USA	HC	cdiff	ERR1846033	10251.0
+ERR2696509	d1ede4781f541bd5	male	adult	50s	76513	Normal	United Kingdom	disease	cdiff	ERR2696509	19342.0
+ERR2524100	b27e73eeaec365a1	female	child	teen	87170	Overweight	USA	HC	cdiff	ERR2524100	22644.0
+ERR1091608	aefa69ffc8e68931	male	adult	50s	30300	Normal	United Kingdom	HC	cdiff	ERR1091608	30333.0
+ERR2696490	23c9da4337f0a909	female	adult	40s	76339	Normal	United Kingdom	HC	cdiff	ERR2696490	18095.0
+ERR1074195	4723d876ba569be4	male	adult	30s	2079	Normal	USA	HC	cdiff	ERR1074195	11701.0
+ERR1842834	071b0a47cb46d825	male	adult	40s	53432	Normal	Germany	disease	cdiff	ERR1842834	2952.0
+ERR2318055	9ce0ecf496a26011	male	adult	30s	59973	Normal	Sweden	HC	cdiff	ERR2318055	24942.0
+ERR1091301	b57fd9def1f882a1	female	adult	40s	23218	Not provided	USA	disease	cdiff	ERR1091301	49801.0
+ERR2032205	b5635fa52c4f80da	female	adult	40s	65738	Normal	USA	disease	cdiff	ERR2032205	25995.0
+ERR1073388	51bd87cc5631461c	male	adult	30s	10539	Normal	USA	HC	cdiff	ERR1073388	17262.0
+ERR1073193	0c188a036f843784	Not provided	adult	30s	9227	Normal	USA	HC	cdiff	ERR1073193	31670.0
+ERR1075680	47d3804c75ba3e65	male	adult	50s	10744	Normal	USA	HC	cdiff	ERR1075680	17873.0
+ERR1074040	bbdfe27570b8e563	male	adult	30s	7039	Normal	USA	HC	cdiff	ERR1074040	6664.0
+ERR2032228	dbae0198a7a48259	female	adult	40s	66935	Overweight	USA	disease	cdiff	ERR2032228	24036.0
+ERR1074013	b1ad4fd4b85ec99c	female	adult	60s	6800	Normal	USA	HC	cdiff	ERR1074013	23516.0
+ERR1315966	4557fef50368ae06	female	adult	40s	32929	Normal	United Kingdom	HC	cdiff	ERR1315966	4486.0
+ERR1074958	eca045c28a0789f5	female	adult	50s	1360	Not provided	USA	HC	cdiff	ERR1074958	14146.0
+ERR1841663	0e367c27c051f65f	male	adult	20s	46093	Normal	USA	disease	cdiff	ERR1841663	6002.0
+ERR2405108	60d0d66d581f8e15	female	adult	40s	82762	Normal	USA	disease	cdiff	ERR2405108	9225.0
+ERR1842442	93f0e6b6a033c5dc	female	adult	30s	51130	Normal	USA	HC	cdiff	ERR1842442	7981.0
+ERR1073682	7830caf05ec69eb1	female	adult	40s	6893	Not provided	USA	HC	cdiff	ERR1073682	34861.0
+ERR1315817	cbb7a2f5c961dfc7	male	adult	30s	22624	Overweight	USA	HC	cdiff	ERR1315817	7462.0
+ERR1458794	f46876ebbd8a82b7	female	adult	30s	32745	Normal	Sweden	disease	cdiff	ERR1458794	13851.0
+ERR1841535	659f81c98f7d55cd	female	adult	30s	35339	Normal	USA	disease	cdiff	ERR1841535	8883.0
+ERR1074060	42310fcd6c7d70fa	male	adult	30s	8955	Normal	USA	HC	cdiff	ERR1074060	10002.0
+ERR1075340	a7cb07ba4ae0b01d	male	adult	50s	14122	Overweight	USA	HC	cdiff	ERR1075340	16972.0
+ERR2092002	d054cdca95cf40f7	male	adult	40s	62129	Normal	United Kingdom	HC	cdiff	ERR2092002	21243.0
+ERR1458748	ae6d811e5735d3bb	female	adult	40s	23949	Overweight	USA	disease	cdiff	ERR1458748	7600.0
+ERR2092594	864a1ac2f50cb23e	Not provided	adult	30s	7440	Overweight	USA	HC	cdiff	ERR2092594	18824.0
+ERR1079968	04afbdaff2d070ae	male	adult	30s	13400	Normal	USA	HC	cdiff	ERR1079968	6427.0
+ERR1076003	f65e12d4abcc1f78	female	adult	50s	14650	Overweight	USA	HC	cdiff	ERR1076003	20030.0
+ERR1841536	ea746915c4fa6fd3	female	adult	60s	35445	Normal	USA	HC	cdiff	ERR1841536	5331.0
+ERR1074087	70bdfb780dc30351	Not provided	adult	20s	9430	Overweight	USA	HC	cdiff	ERR1074087	13694.0
+ERR2314074	928c484539fe72b0	female	adult	40s	59967	Normal	United Kingdom	disease	cdiff	ERR2314074	21122.0
+ERR1678493	a6602346a5db5c49	male	child	teen	52481	Normal	USA	disease	cdiff	ERR1678493	18229.0
+ERR2092205	38ca70ee9b10a02d	female	adult	20s	67545	Underweight	USA	HC	cdiff	ERR2092205	14222.0
+ERR1080231	d1831d5c8a29ad37	female	adult	60s	20633	Normal	United Kingdom	HC	cdiff	ERR1080231	6528.0

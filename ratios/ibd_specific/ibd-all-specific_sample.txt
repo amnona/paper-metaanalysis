@@ -1,0 +1,60 @@
+sampleid	disease	authors	study	Country	sample_source	updated	notes	2	3	4	5	_sample_id	_calour_original_abundance
+54	Heart diseases	uktwins	uktwins	UK	stool	V	females	adults				54	-13.917338709677464
+37	Autoimmun diseases	AGP	AGP	USA	stool	V						37	-3.9259583434638046
+29	IBD_Crohn disease	gevers_CD	gevers	USA	biposy	V		children				29	-21.989395469629187
+9	Gastroenteritis	CastaĂ„â€Ă‚Â±o-RodrĂ„â€Ă‚Â­guez2018	CastaĂ„â€Ă‚Â±o-RodrĂ„â€Ă‚Â­guez	Australia	stool	V	no age/gender metadata	adults and pediatric patients				9	-28.6358065043308
+42	IBD_Ulcerative Colitis	AGP	AGP	USA	stool	V						42	-22.51855245075583
+52	IBD_Inflammtory bowel disease	uktwins	uktwins	UK	stool	V	females	adults				52	-15.638009049773752
+23	IBD_Ulcerative Colitis	gevers	gevers	USA	biopsy	V		children				23	-1.633671399594321
+31	Chronic fatigue syndrome	Giloteaux	Giloteaux	USA	stool	V						31	-25.86083333333334
+26	IBD_Crohn disease	IIRN	IIRN	Israel	stool	V						26	-57.980769230769326
+20	Obesity	vangay2018	vangay	Multi	stool	V		adults				20	-8.96755725190841
+2	Bipolar	Evans2017	Evans	USA	stool	V	good					2	-13.874184782608692
+12	Gastroenteritis	Braun	Braun	Israel	stool	V						12	-95.23316062176158
+36	Bipolar	AGP	AGP	USA	stool	V						36	-5.722222222222226
+33	Diabetes T2	Chang	Chang	China	stool			adults				33	-4.893387314439938
+21	IBD_Crohn disease	contijoch	contijoch	Multi	stool	V		adults				21	-56.94265734265737
+44	Obesity	AGP	AGP	USA	stool	V						44	-4.224328557608144
+3	Parkinson’s	Hill-Burns2017	Hill-Burns	USA	stool	V	good	adults				3	-2.286911308121047
+27	IBD_Crohn disease	zhou	zhou	China	stool	V		adults				27	-24.182230029585785
+50	Autism	zurita	zurita	Ecuador	stool	V		children				50	10.10274790919954
+61	Diabetes T2	uktwins	uktwins	UK	stool	V	females	adults				61	-23.373809523809506
+57	Psoriasis	uktwins	uktwins	UK	stool	V	females	adults				57	1.5769656699889272
+51	HIV	ujkovic	ujkovic	Netherlands	stool	V		adults				51	-20.860627695969065
+24	IBD_Crohn disease	shaw	shaw	USA	stool	V						24	-38.53999999999997
+16	HIV	Cook2019	Cook	USA	stool	V		adults				16	11.215822784810134
+11	Anorexia	Mack2016	Mack	Germany	stool	V	no age/gender metadata					11	1.8791245791245816
+41	IBD_Crohn disease	AGP	AGP	USA	stool	V						41	-16.161999999999956
+22	IBD_Ulcerative Colitis	contijoch_uc	contijoch	Multi	stool	V		adults				22	-28.79187418086501
+5	Parkinson’s	Wallen, 2020	Wallen, 2020	USA	stool			adults				5	-0.3749580114208991
+43	Diabetes T2	AGP	AGP	USA	stool	V						43	-20.721925133689844
+34	HIV	Delon	Delon	USA	stool	V						34	-21.281746031746025
+48	Autism	AGP	AGP	USA	stool	V						48	-13.175042052144644
+7	Obesity	Cuesta-Zuluaga2018	Cuesta-Zuluaga	Colombia	stool	V	good	adults				7	-7.742067951932217
+18	Schizophrenia	xu2019	xu	China	stool	V		adults				18	5.594318181818182
+55	Rheumatoid arthritis	uktwins	uktwins	UK	stool	V	females	adults				55	0.3720588235294128
+46	Cancer	AGP	AGP	USA	stool	V						46	-4.509931891538343
+1	Schizophrenia	nguyen2018	nguyen	USA	stool	V	search for gender	11710:11710.10317.000084453	11710:11710.10317.000084288			1	-14.597222222222223
+39	Depression	AGP	AGP	USA	stool	V						39	-0.09307050687958925
+60	Obesity	uktwins	uktwins	UK	stool	V	females	adults				60	-5.281060606060613
+28	IBD_Ulcerative Colitis	zhou_uc	zhou	China	stool	V		adults				28	-33.000438981562716
+19	Hepatitis B	Liu2019	Liu	China	stool	V		adults				19	15.965367965367951
+49	IBD_Inflammtory bowel disease	AGP	AGP	USA	stool	V						49	0.8144736842105268
+47	Heart diseases	AGP	AGP	USA	stool	V						47	8.363850415512458
+58	Cancer	uktwins	uktwins	UK	stool	V	females	adults				58	-17.778656126482215
+10	Irritable bowel syndrom	Pozuelo2015	Pozuelo	Spain	stool	V	No gender metadata	adults				10	-17.062570145903468
+17	Alzheimer	vogt2017	vogt	USA	stool	V		adults				17	-27.97120000000001
+15	Diabetes T1	Cinek2018	Cinek	Multi	stool	V						15	-10.741623811750056
+56	Irritable bowel syndrom	uktwins	uktwins	UK	stool	V	females	adults				56	9.844155844155845
+32	IBD_Ulcerative Colitis	Jordan 	Jordan 	USA	stool	V						32	-36.96153846153848
+14	Pancreatitis	zhu2018	zhu	China	stool	V	No gender metadata	adults				14	-66.47402597402599
+59	Gout	uktwins	uktwins	UK	stool	V	females	adults				59	-6.761029411764714
+62	Hypertension	uktwins	uktwins	UK	stool	V	females	adults				62	7.645104120513955
+6	Diabetes T2	kaplan2019	kaplan	Multi	stool	V	No gender metadata	adults				6	-4.959234429065749
+4	Parkinson’s	Heintz_Buschart, 2018	Heintz_Buschart	Germany	stool	V	No gender metadata	adults				4	9.236036036036039
+25	IBD_Crohn disease	zeeshan	zeeshan	China	stool	V						25	-59.41231884057969
+40	C.difficile infection	AGP	AGP	USA	stool	V						40	-13.972906403940884
+45	Irritable bowel syndrom	AGP	AGP	USA	stool	V						45	-5.18466593216339
+53	Depression	uktwins	uktwins	UK	stool	V	females	adults				53	-2.914333333333332
+13	Lupus	Luo2018	Luo	China	stool	V	No gender metadata	adults				13	-34.936974789916015
+8	HIV	cathreine	cathreine	USA	stool	V	gender not available	adults				8	6.830578512396691

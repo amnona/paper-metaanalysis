@@ -1,0 +1,47 @@
+#SampleID	age	age_cat	anonymized_name	bmi_cat	country	mental_illness_type_schizophrenia	sex	survey_id	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR1842249		Not provided	44252.0	Underweight	USA		female	673f9c3cf57dd1b1	HC	obesity	ERR1842249	10629.0
+ERR2319540	adult	40s	69670.0	Normal	USA		male	5c26d2b0eb2f5f1a	HC	obesity	ERR2319540	23898.0
+ERR2092149		Not provided	66721.0	Not provided	USA		Not provided	082ce2dea5d7411d	HC	obesity	ERR2092149	14829.0
+ERR1074513	adult	50s	8990.0	Overweight	USA		female	ad10502408168aae	HC	obesity	ERR1074513	8116.0
+ERR2696762	adult	40s	100357.0	Obese	USA	No	male	a4889e8b1b05ec5f	disease	obesity	ERR2696762	25174.0
+ERR1076740	adult	20s	15176.0	Obese	USA	Not provided	female	a130f31bc6986e85	disease	obesity	ERR1076740	21338.0
+ERR1075435	adult	70+	2538.0	Obese	USA	Not provided	Not provided	fd8f7cb04127ec57	disease	obesity	ERR1075435	7643.0
+ERR1250042		Not provided	36394.0	Not provided	USA		female	d68758cebbf76436	HC	obesity	ERR1250042	7417.0
+ERR2405338	adult	50s	89224.0	Obese	USA	No	female	718a022032cf3240	disease	obesity	ERR2405338	9019.0
+ERR1074799	adult	40s	7651.0	Obese	USA	Not provided	female	48acd855bc53596b	disease	obesity	ERR1074799	15074.0
+ERR1075513	adult	40s	14188.0	Underweight	USA		female	f755aebdebd2caa1	HC	obesity	ERR1075513	8188.0
+ERR1073987		Not provided	6691.0	Obese	USA	Not provided	Not provided	279027389c7e54b8	disease	obesity	ERR1073987	4212.0
+ERR1075656	adult	60s	9166.0	Obese	USA	Not provided	male	bf147c9f15a063e8	disease	obesity	ERR1075656	13802.0
+ERR1074036	adult	60s	7009.0	Obese	USA	Not provided	male	27f57cc2f642d49f	disease	obesity	ERR1074036	12473.0
+ERR1316259	child	teen	41986.0	Normal	USA		female	fb39768df11e1d91	HC	obesity	ERR1316259	2182.0
+ERR1075026	adult	60s	10116.0	Normal	USA		male	664c75986a55e7d6	HC	obesity	ERR1075026	4779.0
+ERR2319581	adult	30s	71407.0	Obese	USA	FALSE	male	1f9d96da08e6ce38	disease	obesity	ERR2319581	16599.0
+ERR1074895	adult	40s	10913.0	Normal	USA		female	703a16330dfe3239	HC	obesity	ERR1074895	15628.0
+ERR1842624	adult	20s	62070.0	Normal	USA		female	3b024a591757412b	HC	obesity	ERR1842624	6803.0
+ERR2092220	adult	40s	67621.0	Normal	USA		male	b37210d6e3d06c6a	HC	obesity	ERR2092220	15116.0
+ERR1073724		Not provided	2099.0	Overweight	USA		male	e1557c4b3ca1ae89	HC	obesity	ERR1073724	11552.0
+ERR2696574	adult	50s	92693.0	Obese	United Kingdom	No	female	c8ab8f24746e5d9f	disease	obesity	ERR2696574	29006.0
+ERR2696678	adult	30s	94687.0	Overweight	Canada		female	2b4adcde930d92c2	HC	obesity	ERR2696678	31152.0
+ERR1249996	adult	20s	36081.0	Normal	USA		male	de0a7a9e22adf5fa	HC	obesity	ERR1249996	12233.0
+ERR2404898	adult	40s	11999.0	Obese	USA	No	male	a4b6b42b412dcf9d	disease	obesity	ERR2404898	10460.0
+ERR2304010	adult	50s	72394.0	Obese	USA	No	female	801f3e7f78b69bbf	disease	obesity	ERR2304010	24862.0
+ERR1076732	adult	60s	15161.0	Obese	USA	Not provided	male	5cc62b2fe6b933e3	disease	obesity	ERR1076732	20184.0
+ERR1080022	adult	40s	15928.0	Obese	USA	Not provided	male	a617444a7c41a4bf	disease	obesity	ERR1080022	5902.0
+ERR2319530		Not provided	69622.0	Overweight	USA		female	26d21c7d1d3581c5	HC	obesity	ERR2319530	28093.0
+ERR1076673	adult	60s	13336.0	Obese	USA	Not provided	female	0eb9fb273a588ead	disease	obesity	ERR1076673	42164.0
+ERR2032842	adult	20s	65681.0	Obese	USA	FALSE	female	dcc3de4e3702c0a7	disease	obesity	ERR2032842	27887.0
+ERR2308936	adult	40s	84638.0	Obese	USA	No	male	12df0baa37bebe5c	disease	obesity	ERR2308936	16182.0
+ERR1233450	adult	40s	67489.0	Normal	USA		male	d20d45c32a011a9e	HC	obesity	ERR1233450	62693.0
+ERR1074281	child	child	3532.0	Underweight	USA		male	287f476d0aaf2a42	HC	obesity	ERR1074281	15899.0
+ERR2092431	adult	40s	68091.0	Overweight	USA		male	813cd0e410e6ebbc	HC	obesity	ERR2092431	15012.0
+ERR1075072		Not provided	11322.0	Obese	USA	Not provided	female	e4c43a89cf71029a	disease	obesity	ERR1075072	18962.0
+ERR2092367	adult	30s	67937.0	Normal	USA		female	8b97c188daae8c5d	HC	obesity	ERR2092367	14608.0
+ERR1073490	adult	30s	2587.0	Overweight	USA		female	ac81b658b1bb3ae3	HC	obesity	ERR1073490	26610.0
+ERR1074203	adult	20s	2171.0	Normal	USA		female	08f9c2afb1d79d53	HC	obesity	ERR1074203	10954.0
+ERR1080035	adult	20s	17126.0	Overweight	USA		male	7108693b12d22f5c	HC	obesity	ERR1080035	9646.0
+ERR2319263	adult	40s	23603.0	Obese	Australia	FALSE	female	652380c336a2f0ab	disease	obesity	ERR2319263	21825.0
+ERR1075054	adult	50s	11086.0	Obese	USA	Not provided	female	3c7d240780abc14e	disease	obesity	ERR1075054	21886.0
+ERR1249817	adult	50s	29982.0	Obese	United Kingdom	Not provided	female	13dd1c45d5817b9c	disease	obesity	ERR1249817	7961.0
+ERR2405170	adult	30s	82951.0	Obese	USA	No	male	97ec0e3e96609e18	disease	obesity	ERR2405170	9564.0
+ERR1073875	adult	50s	4971.0	Obese	USA	Not provided	male	f2d9a3072bcc807d	disease	obesity	ERR1073875	11383.0
+ERR2405001	child	child	74566.0	Unspecified	United Kingdom		female	ea70c182079664a9	HC	obesity	ERR2405001	10107.0
