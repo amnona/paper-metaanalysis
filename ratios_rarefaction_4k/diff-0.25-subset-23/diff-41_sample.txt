@@ -1,0 +1,47 @@
+#SampleID	survey_id	sex	age	age_cat	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR2304064	e1d224eb2b889299	male	adult	50s	74692	Overweight	United Kingdom	HC	cd	ERR2304064	16988.0
+ERR2523942	869c76f5ca7200be	male	adult	50s	76298	Normal	United Kingdom	disease	cd	ERR2523942	16150.0
+ERR2405092	397bcb945ee643b7	female	adult	30s	82711	Normal	USA	HC	cd	ERR2405092	21650.0
+ERR2319366	d6efcd533983a285	female	adult	50s	58854	Overweight	Not provided	disease	cd	ERR2319366	23828.0
+ERR1842532	0293f3cdaf457d5e	female	adult	60s	53317	Normal	United Kingdom	HC	cd	ERR1842532	6185.0
+ERR2698005	5ca7cf52dadc44a7	male	adult	70+	98745	Overweight	United Kingdom	disease	cd	ERR2698005	6659.0
+ERR1091101	c928dc99748be403	male	adult	50s	28968	Not provided	USA	HC	cd	ERR1091101	34253.0
+ERR2697741	34f82fbd9d41fc52	male	adult	50s	92797	Normal	United Kingdom	disease	cd	ERR2697741	12763.0
+ERR2697636	47f77a419887f516	female	adult	30s	76391	Normal	United Kingdom	disease	cd	ERR2697636	11244.0
+ERR2308729	95a90d80a3912382	male	adult	40s	79062	Normal	USA	disease	cd	ERR2308729	14444.0
+ERR1249955	318475a5c2bc2871	female	child	child	34181	Underweight	USA	HC	cd	ERR1249955	22158.0
+ERR2032155	1c3ff85fc05d3386	female	adult	50s	42881	Overweight	United Kingdom	HC	cd	ERR2032155	12319.0
+ERR2580041	69b01bef022a15b6	male	child	child	73823	Underweight	USA	HC	cd	ERR2580041	13698.0
+ERR1074845	c29d647cc4e18d2b	female	adult	50s	9686	Overweight	USA	HC	cd	ERR1074845	13273.0
+ERR2405382	ba91524c4c9bf4f0	male	adult	20s	90160	Overweight	USA	HC	cd	ERR2405382	8857.0
+ERR1854715	e93f1a4b701a5858	male	adult	40s	58426	Overweight	USA	disease	cd	ERR1854715	17724.0
+ERR1458914	871c498ea4396172	female		Not provided	38077	Not provided	Not provided	HC	cd	ERR1458914	6182.0
+ERR2314126	8c1e7aea631b293c	male	adult	30s	65442	Underweight	United Kingdom	disease	cd	ERR2314126	23432.0
+ERR2698930	1758d77b00b1f67b	male	adult	60s	65604	Overweight	USA	disease	cd	ERR2698930	11858.0
+ERR2318038	3f38d2fa57869a9f	female	adult	40s	58804	Normal	United Kingdom	disease	cd	ERR2318038	22578.0
+ERR2057179	75914f5de83c734b	male	adult	30s	69750	Normal	USA	disease	cd	ERR2057179	15948.0
+ERR1075275	33acc4994495d07c	male	adult	60s	13420	Overweight	USA	HC	cd	ERR1075275	36929.0
+ERR2314198	75efdba41a0b9e5e	female	adult	40s	68491	Underweight	Ireland	HC	cd	ERR2314198	18462.0
+ERR1843830	7dd4d655236bcad9	female	adult	40s	53464	Normal	United Kingdom	HC	cd	ERR1843830	16900.0
+ERR1846147	8d8040518c50cc18	male	adult	60s	60281	Overweight	United Kingdom	HC	cd	ERR1846147	8500.0
+ERR2697696	8b1ed860e4192f5f	male	adult	70+	89377	Overweight	United Kingdom	disease	cd	ERR2697696	13296.0
+ERR1846161	46e212375710bc15	female	adult	50s	60348	Overweight	United Kingdom	disease	cd	ERR1846161	8379.0
+ERR1080109	b321ac2512da3433	male	adult	40s	18411	Normal	USA	HC	cd	ERR1080109	8305.0
+ERR2579878	6e07f8d2b672e088	male	adult	20s	72017	Normal	USA	disease	cd	ERR2579878	11656.0
+ERR2057086	b1e6e715d0ac1be4	male	adult	30s	69159	Normal	USA	disease	cd	ERR2057086	15732.0
+ERR2319528	f1a321344ccf70c1	female		Not provided	69609	Normal	USA	HC	cd	ERR2319528	30814.0
+ERR2092070	ae15906fd2588820	male	adult	60s	68292	Normal	USA	disease	cd	ERR2092070	20848.0
+ERR2318079	816794d4bdaa6a31	female	adult	30s	60361	Normal	Greece	disease	cd	ERR2318079	25348.0
+ERR1678441	15d0c54602897bcb	male	adult	30s	47171	Normal	United Kingdom	HC	cd	ERR1678441	16274.0
+ERR1075926	ee68a2acb471ff69	female	adult	30s	14237	Normal	USA	HC	cd	ERR1075926	19641.0
+ERR2523981	028f0a608b6eb8d1	male	adult	30s	79142	Normal	United Kingdom	disease	cd	ERR2523981	16092.0
+ERR2697706	9581c9d70a83fe7b	male	adult	60s	92656	Normal	United Kingdom	disease	cd	ERR2697706	13930.0
+ERR1073917	abaf9c0500e2c36d	female	adult	50s	5844	Overweight	USA	HC	cd	ERR1073917	12454.0
+ERR1842315	32bca0186cc05dd2	female	adult	70+	47386	Underweight	United Kingdom	HC	cd	ERR1842315	8997.0
+ERR2314202	948b687185232801	female	adult	50s	68528	Normal	United Kingdom	disease	cd	ERR2314202	26492.0
+ERR2319381	b38747eb77e43ae5	female		Not provided	59944	Not provided	United Kingdom	HC	cd	ERR2319381	32711.0
+ERR2404897	6d3b3e927adbbd6f	male	adult	30s	3509	Normal	USA	disease	cd	ERR2404897	10277.0
+ERR2318067	973fa3fada2d89d7	male	adult	40s	60048	Normal	Ireland	disease	cd	ERR2318067	22694.0
+ERR1080167	faf7d0981beae616	male	adult	40s	20403	Normal	USA	HC	cd	ERR1080167	6687.0
+ERR1845961	5c4383fc8aa19eb8	female	adult	60s	41659	Normal	United Kingdom	HC	cd	ERR1845961	7572.0
+ERR1854725	3c5f3e304423160a	male	adult	40s	58457	Normal	USA	disease	cd	ERR1854725	28424.0

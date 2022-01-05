@@ -1,0 +1,225 @@
+#SampleID	type	Database	Cohort	sample_ID	Country	Organism	Dx	FFPE_fresh	Source	Enzyme	remark	remarks2	DUPLICATE_code	Date	Swab	pn_ID	Time	Time2	amount	Age_	Gender	Family	Description	age	_sample_id	_calour_original_abundance
+DB2.244	HC	DB2	Lena	LD-6b	Israel	Human	Control	Fresh	stool	_	_	_	_	28/03/16	_	Control_No24				62.0	Male		DB2.244	adult	DB2.244	129424.0
+DB3.232	HC	DB3	local_Control	CO	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	OC				43.0	Male	Family_4	DB3.232	adult	DB3.232	20926.0
+DB3.238	HC	DB3	local_Control	NN	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	EE				37.0	Female	Family_6	DB3.238	adult	DB3.238	28858.0
+DB3.235	HC	DB3	local_Control	BM	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	MB				32.0	Female	Family_5	DB3.235	adult	DB3.235	14472.0
+DB3.237	HC	DB3	local_Control	NE	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	EN				44.0	Male	Family_6	DB3.237	adult	DB3.237	15756.0
+DB3.216	HC	DB3	local_Control	HP	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	PH				11.0	Male	Family_1	DB3.216	child	DB3.216	19297.0
+DB3.236	HC	DB3	local_Control	BS	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	SB				35.0	Male	Family_5	DB3.236	adult	DB3.236	16220.0
+DB3.227	HC	DB3	local_Control	Cya	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	yaC				7.0	Female	Family_2	DB3.227	child	DB3.227	14484.0
+DB3.226	HC	DB3	local_Control	CR	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	RC				11.0	Female	Family_2	DB3.226	child	DB3.226	33256.0
+DB3.215	HC	DB3	local_Control	HR_fresh	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	RH	0h			41.0	Male	Family_1	DB3.215	adult	DB3.215	23168.0
+DB5.016	HC	DB5	Melanoma	GM-Control3	Israel	Human	Control	Fresh	stool	hikappa	_	_	_		Red	GM-Control3				32.0	Male		DB5.016	adult	DB5.016	41526.0
+DB5.008	HC	DB5	Melanoma	Control-30	Israel	Human	Control	Fresh	stool	hikappa	blue_swab	_	_	28/01/18	Blue	SP				40.0	Male		DB5.008	adult	DB5.008	48387.0
+DB5.022	HC	DB5	Melanoma	GM-Control11	Israel	Human	Control	Fresh	stool	hikappa	_	_	_		Red	GM-Control11					Male		DB5.022		DB5.022	34232.0
+DB5.015	HC	DB5	Melanoma	GM-Control2	Israel	Human	Control	Fresh	stool	hikappa	_	_	_		Red	GM-Control2				38.0	Male		DB5.015	adult	DB5.015	58745.0
+DB5.001	HC	DB5	Melanoma	GM-C101	Israel	Human	Control	Fresh	stool	hikappa	_	_	_	12/5/2018	Red	EH				67.0	Female	Family_1	DB5.001	adult	DB5.001	45426.0
+DB5.014	HC	DB5	Melanoma	GM-Control1	Israel	Human	Control	Fresh	stool	hikappa	_	_	_		Red	GM-Control1				32.0	Male		DB5.014	adult	DB5.014	45583.0
+DB5.007	HC	DB5	Melanoma	GM-C107	Israel	Human	Control	Fresh	stool	hikappa	_	_	_	24/01/18	Red	CW				59.0	Female		DB5.007	adult	DB5.007	23253.0
+DB5.009	HC	DB5	Melanoma	Control-31	Israel	Human	Control	Fresh	stool	hikappa	blue_swab	_	_	29/01/18	Blue	SL				36.0	Female		DB5.009	adult	DB5.009	54610.0
+DB5.004	HC	DB5	Melanoma	GM-C104	Israel	Human	Control	Fresh	stool	hikappa	_	_	_	24/01/18	Red	RL				67.0	Female		DB5.004	adult	DB5.004	12035.0
+DB6.232	HC	DB6	Red_blue_swabs	BS_GE	Israel	Human	Control	Fresh	stool	hikappa	_	_	_	17.10.18	blue	GE					Female		DB6.232		DB6.232	21149.0
+DB8.071	HC	DB8	source	A023		Human	Control	Fresh	Stool	hikappa					blue	A023									DB8.071	38954.0
+DB8.058	HC	DB8	source	A022		Human	Control	Fresh	Stool	hikappa					blue	A022									DB8.058	28546.0
+DB8.057	HC	DB8	source	A026		Human	Control	Fresh	Stool	hikappa					blue	A026									DB8.057	21519.0
+DB8.064	HC	DB8	source	A015		Human	Control	Fresh	Stool	hikappa					blue	A015									DB8.064	29694.0
+DB8.066	HC	DB8	source	A018		Human	Control	Fresh	Stool	hikappa					blue	A018									DB8.066	33162.0
+DB8.069	HC	DB8	source	A021		Human	Control	Fresh	Stool	hikappa					blue	A021									DB8.069	9841.0
+DB8.055	HC	DB8	source	A006		Human	Control	Fresh	Stool	hikappa					blue	A006									DB8.055	41238.0
+DB8.063	HC	DB8	source	A014		Human	Control	Fresh	Stool	hikappa					blue	A014									DB8.063	41182.0
+DB8.059	HC	DB8	source	A010		Human	Control	Fresh	Stool	hikappa					blue	A010									DB8.059	33707.0
+DB8.061	HC	DB8	source	A012		Human	Control	Fresh	Stool	hikappa					blue	A012									DB8.061	21305.0
+DB8.062	HC	DB8	source	A013		Human	Control	Fresh	Stool	hikappa					blue	A013									DB8.062	21338.0
+DB1.112	disease	DB1	Hospitalized	1984	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					60.0	Female		DB1.112	adult	DB1.112	4535.0
+DB1.211	disease	DB1	Hospitalized	2833	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					0.0	Female		DB1.211	adult	DB1.211	6120.0
+DB1.128	disease	DB1	Hospitalized	2066	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					40.0	Female		DB1.128	adult	DB1.128	2087.0
+DB1.131	disease	DB1	Hospitalized	2069	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					80.0	Male		DB1.131	adult	DB1.131	8115.0
+DB1.256	disease	DB1	Hospitalized	2112	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					63.0	Male		DB1.256	adult	DB1.256	14091.0
+DB1.018	disease	DB1	Hospitalized	1590	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					58.0	Female		DB1.018	adult	DB1.018	10569.0
+DB1.189	disease	DB1	Hospitalized	2716	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					48.0	Male		DB1.189	adult	DB1.189	10878.0
+DB1.153	disease	DB1	Hospitalized	2220	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					73.0	Male		DB1.153	adult	DB1.153	7806.0
+DB1.192	disease	DB1	Hospitalized	2721	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					8.0	Male		DB1.192	adult	DB1.192	11307.0
+DB1.194	disease	DB1	Hospitalized	2724	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					61.0	Male		DB1.194	adult	DB1.194	11518.0
+DB1.079	disease	DB1	Hospitalized	1831	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					55.0	Female		DB1.079	adult	DB1.079	3468.0
+DB1.113	disease	DB1	Hospitalized	1988	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					2.0	Male		DB1.113	adult	DB1.113	5964.0
+DB1.003	disease	DB1	Hospitalized	1462	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	DB1.064	_	_					27.0	Female		DB1.003	adult	DB1.003	2033.0
+DB1.221	disease	DB1	Hospitalized	2906	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					2.0	Male		DB1.221	adult	DB1.221	11051.0
+DB1.195	disease	DB1	Hospitalized	2725	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					71.0	Male		DB1.195	adult	DB1.195	7987.0
+DB1.011	disease	DB1	Hospitalized	1509	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	DB1.065	_	_					0.0	Male		DB1.011	adult	DB1.011	3943.0
+DB1.164	disease	DB1	Hospitalized	2420	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					73.0	Male		DB1.164	adult	DB1.164	12519.0
+DB1.181	disease	DB1	Hospitalized	2581	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					57.0	Female		DB1.181	adult	DB1.181	5887.0
+DB1.191	disease	DB1	Hospitalized	2720	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					54.0	Male		DB1.191	adult	DB1.191	12178.0
+DB1.080	disease	DB1	Hospitalized	1832	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					68.0	Male		DB1.080	adult	DB1.080	5021.0
+DB1.155	disease	DB1	Hospitalized	2280	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					65.0	Male		DB1.155	adult	DB1.155	11939.0
+DB1.111	disease	DB1	Hospitalized	1983	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Male		DB1.111	adult	DB1.111	3949.0
+DB1.240	disease	DB1	Hospitalized	2979	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					21.0	Male		DB1.240	adult	DB1.240	12853.0
+DB1.212	disease	DB1	Hospitalized	2835	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					0.0	Male		DB1.212	adult	DB1.212	9621.0
+DB1.095	disease	DB1	Hospitalized	1934	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					69.0	Male		DB1.095	adult	DB1.095	4148.0
+DB1.220	disease	DB1	Hospitalized	2905	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					70.0	Male		DB1.220	adult	DB1.220	9716.0
+DB1.210	disease	DB1	Hospitalized	2832	Israel	Human	Hospitalized	Fresh	stool	_	under 1000	neg	_	_	_								DB1.210	adult	DB1.210	1041.0
+DB1.209	disease	DB1	Hospitalized	2831	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					26.0	Female		DB1.209	adult	DB1.209	2430.0
+DB1.109	disease	DB1	Hospitalized	1981	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					71.0	Male		DB1.109	adult	DB1.109	2332.0
+DB1.160	disease	DB1	Hospitalized	2285	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					31.0	Female		DB1.160	adult	DB1.160	19338.0
+DB1.091	disease	DB1	Hospitalized	1899	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					80.0	Female		DB1.091	adult	DB1.091	1511.0
+DB1.031	disease	DB1	Hospitalized	1662	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Male		DB1.031	adult	DB1.031	3830.0
+DB1.238	disease	DB1	Hospitalized	2977	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	_	_	_					21.0	Male		DB1.238	adult	DB1.238	11822.0
+DB1.023	disease	DB1	Hospitalized	1629	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Male		DB1.023	adult	DB1.023	8369.0
+DB1.146	disease	DB1	Hospitalized	2129	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					16.0	Male		DB1.146	adult	DB1.146	6330.0
+DB1.162	disease	DB1	Hospitalized	2410	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					89.0	Female		DB1.162	adult	DB1.162	3951.0
+DB1.085	disease	DB1	Hospitalized	1880	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					74.0	Male		DB1.085	adult	DB1.085	3996.0
+DB1.047	disease	DB1	Hospitalized	1776	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					58.0	Female		DB1.047	adult	DB1.047	2492.0
+DB1.148	disease	DB1	Hospitalized	2135	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					77.0	Male		DB1.148	adult	DB1.148	5174.0
+DB1.151	disease	DB1	Hospitalized	2206	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					89.0	Female		DB1.151	adult	DB1.151	6593.0
+DB1.127	disease	DB1	Hospitalized	2054	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					24.0	Female		DB1.127	adult	DB1.127	3456.0
+DB1.118	disease	DB1	Hospitalized	1994	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					47.0	Female		DB1.118	adult	DB1.118	7057.0
+DB1.231	disease	DB1	Hospitalized	2973	Israel	Human	Hospitalized	Fresh	stool	_	second seq	neg	_	_	_								DB1.231	adult	DB1.231	5237.0
+DB1.219	disease	DB1	Hospitalized	2904	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					87.0	Female		DB1.219	adult	DB1.219	4748.0
+DB1.055	disease	DB1	Hospitalized	1816	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					3.0	Female		DB1.055	adult	DB1.055	6921.0
+DB1.061	disease	DB1	Hospitalized	1827	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					8.0	Male		DB1.061	adult	DB1.061	2867.0
+DB1.049	disease	DB1	Hospitalized	1804	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					74.0	Male		DB1.049	adult	DB1.049	8259.0
+DB1.117	disease	DB1	Hospitalized	1993	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					4.0	Female		DB1.117	adult	DB1.117	6156.0
+DB1.022	disease	DB1	Hospitalized	1628	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					3.0	Female		DB1.022	adult	DB1.022	7179.0
+DB1.050	disease	DB1	Hospitalized	1805	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					7.0	Female		DB1.050	adult	DB1.050	4738.0
+DB1.103	disease	DB1	Hospitalized	2806 e	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					83.0	Female		DB1.103	adult	DB1.103	7095.0
+DB1.054	disease	DB1	Hospitalized	1812	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					4.0	Male		DB1.054	adult	DB1.054	4498.0
+DB1.134	disease	DB1	Hospitalized	2075	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					57.0	Male		DB1.134	adult	DB1.134	12646.0
+DB1.083	disease	DB1	Hospitalized	1877	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					74.0	Female		DB1.083	adult	DB1.083	5209.0
+DB1.178	disease	DB1	Hospitalized	2552	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					87.0	Male		DB1.178	adult	DB1.178	11024.0
+DB1.094	disease	DB1	Hospitalized	2801 e	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					22.0	Male		DB1.094	adult	DB1.094	5712.0
+DB1.060	disease	DB1	Hospitalized	1826	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					91.0	Female		DB1.060	adult	DB1.060	8479.0
+DB1.124	disease	DB1	Hospitalized	2048	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					21.0	Female		DB1.124	adult	DB1.124	4519.0
+DB1.253	disease	DB1	Hospitalized	1586	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					0.0	Female		DB1.253	adult	DB1.253	4060.0
+DB1.090	disease	DB1	Hospitalized	2799 e	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					20.0	Female		DB1.090	adult	DB1.090	4236.0
+DB1.206	disease	DB1	Hospitalized	2821	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	_	_	_					24.0	Female		DB1.206	adult	DB1.206	1597.0
+DB1.186	disease	DB1	Hospitalized	2629	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					2.0	Male		DB1.186	adult	DB1.186	9275.0
+DB1.017	disease	DB1	Hospitalized	1589	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					70.0	Male		DB1.017	adult	DB1.017	4281.0
+DB1.228	disease	DB1	Hospitalized	2969	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					77.0	Male		DB1.228	adult	DB1.228	11008.0
+DB1.044	disease	DB1	Hospitalized	1772	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					53.0	Female		DB1.044	adult	DB1.044	8506.0
+DB1.139	disease	DB1	Hospitalized	2121	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					85.0	Female		DB1.139	adult	DB1.139	9643.0
+DB1.183	disease	DB1	Hospitalized	2583	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					49.0	Female		DB1.183	adult	DB1.183	9739.0
+DB1.241	disease	DB1	Hospitalized	3041	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					74.0	Female		DB1.241	adult	DB1.241	5949.0
+DB1.227	disease	DB1	Hospitalized	2967	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	_	_	_					78.0	Female		DB1.227	adult	DB1.227	2075.0
+DB1.168	disease	DB1	Hospitalized	2446	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Female		DB1.168	adult	DB1.168	8588.0
+DB1.038	disease	DB1	Hospitalized	1706	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					21.0	Male		DB1.038	adult	DB1.038	4486.0
+DB1.024	disease	DB1	Hospitalized	1631	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					63.0	Male		DB1.024	adult	DB1.024	4242.0
+DB1.252	disease	DB1	Hospitalized	3299	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	_	_	_						_		DB1.252	adult	DB1.252	11912.0
+DB1.176	disease	DB1	Hospitalized	2546	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					0.0	Male		DB1.176	adult	DB1.176	5161.0
+DB1.033	disease	DB1	Hospitalized	1672	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Female		DB1.033	adult	DB1.033	4737.0
+DB1.013	disease	DB1	Hospitalized	1515	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	DB1.074	_	_					3.0	Male		DB1.013	adult	DB1.013	6555.0
+DB1.187	disease	DB1	Hospitalized	2631	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					53.0	Female		DB1.187	adult	DB1.187	10934.0
+DB1.009	disease	DB1	Hospitalized	1498	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					64.0	Male		DB1.009	adult	DB1.009	13007.0
+DB1.170	disease	DB1	Hospitalized	2450	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					46.0	Female		DB1.170	adult	DB1.170	7780.0
+DB1.037	disease	DB1	Hospitalized	1704	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					6.0	Male		DB1.037	adult	DB1.037	5020.0
+DB1.106	disease	DB1	Hospitalized	1975	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					76.0	Female		DB1.106	adult	DB1.106	2462.0
+DB1.098	disease	DB1	Hospitalized	2803 e	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					19.0	Male		DB1.098	adult	DB1.098	10268.0
+DB1.161	disease	DB1	Hospitalized	2286	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					68.0	Male		DB1.161	adult	DB1.161	10165.0
+DB1.202	disease	DB1	Hospitalized	2815	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					5.0	Male		DB1.202	adult	DB1.202	2890.0
+DB1.143	disease	DB1	Hospitalized	2125	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					85.0	Female		DB1.143	adult	DB1.143	6157.0
+DB1.021	disease	DB1	Hospitalized	1621	Israel	Human	Hospitalized	Fresh	stool	_	first	_	_	_	_					23.0	Male		DB1.021	adult	DB1.021	5506.0
+DB1.042	disease	DB1	Hospitalized	1770	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter and Salmonella	DB1.066	_	_					52.0	Male		DB1.042	adult	DB1.042	1988.0
+DB1.234	disease	DB1	Hospitalized	2982	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					22.0	Male		DB1.234	adult	DB1.234	9807.0
+DB1.224	disease	DB1	Hospitalized	2909	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					34.0	Female		DB1.224	adult	DB1.224	18738.0
+DB1.121	disease	DB1	Hospitalized	2009	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					90.0	Male		DB1.121	adult	DB1.121	8747.0
+DB1.218	disease	DB1	Hospitalized	2903	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					18.0	Male		DB1.218	adult	DB1.218	8365.0
+DB1.135	disease	DB1	Hospitalized	2114	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					87.0	Male		DB1.135	adult	DB1.135	9118.0
+DB1.179	disease	DB1	Hospitalized	2567	Israel	Human	Hospitalized	Fresh	stool	_	low read post OUT	neg	_	_	_								DB1.179	adult	DB1.179	2935.0
+DB1.140	disease	DB1	Hospitalized	2122	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					9.0	Male		DB1.140	adult	DB1.140	6620.0
+DB1.225	disease	DB1	Hospitalized	2941	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					41.0	Male		DB1.225	adult	DB1.225	10171.0
+DB1.052	disease	DB1	Hospitalized	1809	Israel	Human	Hospitalized	Fresh	stool	_	under 500	neg	_	_	_								DB1.052	adult	DB1.052	1391.0
+DB1.025	disease	DB1	Hospitalized	1632	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					64.0	Male		DB1.025	adult	DB1.025	1511.0
+DB1.004	disease	DB1	Hospitalized	1463	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	_	_	_					25.0	Male		DB1.004	adult	DB1.004	1526.0
+DB1.058	disease	DB1	Hospitalized	1824	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	DB1.075	_	_					82.0	Male		DB1.058	adult	DB1.058	6255.0
+DB1.203	disease	DB1	Hospitalized	2816	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					53.0	Female		DB1.203	adult	DB1.203	8187.0
+DB1.245	disease	DB1	Hospitalized	2844	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					0.0	Female		DB1.245	adult	DB1.245	6251.0
+DB1.229	disease	DB1	Hospitalized	2970	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					83.0	Female		DB1.229	adult	DB1.229	8452.0
+DB1.175	disease	DB1	Hospitalized	2543	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					71.0	Female		DB1.175	adult	DB1.175	4239.0
+DB1.138	disease	DB1	Hospitalized	2120	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					30.0	Male		DB1.138	adult	DB1.138	8183.0
+DB1.014	disease	DB1	Hospitalized	1516	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					79.0	Female		DB1.014	adult	DB1.014	8928.0
+DB1.222	disease	DB1	Hospitalized	2907	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					81.0	Male		DB1.222	adult	DB1.222	18643.0
+DB1.115	disease	DB1	Hospitalized	1991	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					46.0	Female		DB1.115	adult	DB1.115	4299.0
+DB1.215	disease	DB1	Hospitalized	2887	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Female		DB1.215	adult	DB1.215	11180.0
+DB1.147	disease	DB1	Hospitalized	2134	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					65.0	Male		DB1.147	adult	DB1.147	5093.0
+DB1.198	disease	DB1	Hospitalized	2747	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					21.0	Male		DB1.198	adult	DB1.198	9178.0
+DB1.034	disease	DB1	Hospitalized	2908_D	Israel	Human	Hospitalized	Fresh	stool	_	Duplicates	neg	DB1.223	_	_								DB1.034	adult	DB1.034	9018.0
+DB1.006	disease	DB1	Hospitalized	1482	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					72.0	Female		DB1.006	adult	DB1.006	9536.0
+DB1.136	disease	DB1	Hospitalized	2116	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					19.0	Male		DB1.136	adult	DB1.136	10282.0
+DB1.145	disease	DB1	Hospitalized	2127	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Male		DB1.145	adult	DB1.145	2244.0
+DB1.263	disease	DB1	Hospitalized	2842	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					14.0	Male		DB1.263	adult	DB1.263	2456.0
+DB1.097	disease	DB1	Hospitalized	1953	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					80.0	Male		DB1.097	adult	DB1.097	4949.0
+DB1.053	disease	DB1	Hospitalized	1811	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Male		DB1.053	adult	DB1.053	6045.0
+DB1.232	disease	DB1	Hospitalized	2980	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					20.0	Male		DB1.232	adult	DB1.232	6757.0
+DB1.125	disease	DB1	Hospitalized	2050	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					57.0	Male		DB1.125	adult	DB1.125	5043.0
+DB1.130	disease	DB1	Hospitalized	2068	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					45.0	Female		DB1.130	adult	DB1.130	7052.0
+DB1.156	disease	DB1	Hospitalized	2281	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					18.0	Female		DB1.156	adult	DB1.156	11698.0
+DB1.254	disease	DB1	Hospitalized	1588	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					44.0	Female		DB1.254	adult	DB1.254	16435.0
+DB1.217	disease	DB1	Hospitalized	2902	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					51.0	Female		DB1.217	adult	DB1.217	11131.0
+DB1.260	disease	DB1	Hospitalized	3074	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					62.0	Male		DB1.260	adult	DB1.260	8790.0
+DB1.201	disease	DB1	Hospitalized	2814	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					60.0	Male		DB1.201	adult	DB1.201	7054.0
+DB1.099	disease	DB1	Hospitalized	2805 e	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					37.0	Female		DB1.099	adult	DB1.099	3066.0
+DB1.243	disease	DB1	Hospitalized	3064	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					61.0	Male		DB1.243	adult	DB1.243	13100.0
+DB1.030	disease	DB1	Hospitalized	1660	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					63.0	Female		DB1.030	adult	DB1.030	15116.0
+DB1.233	disease	DB1	Hospitalized	2981	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					19.0	Male		DB1.233	adult	DB1.233	9091.0
+DB1.029	disease	DB1	Hospitalized	1655	Israel	Human	Hospitalized	Fresh	stool	_	second seq	neg	_	_	_								DB1.029	adult	DB1.029	24971.0
+DB1.005	disease	DB1	Hospitalized	1464	Israel	Human	Hospitalized	Fresh	stool	_	low read post OUT	neg	_	_	_								DB1.005	adult	DB1.005	1578.0
+DB1.084	disease	DB1	Hospitalized	1878	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					43.0	Male		DB1.084	adult	DB1.084	2191.0
+DB1.264	disease	DB1	Hospitalized	2843	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					2.0	Male		DB1.264	adult	DB1.264	4783.0
+DB1.235	disease	DB1	Hospitalized	2983	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					21.0	Male		DB1.235	adult	DB1.235	6177.0
+DB1.026	disease	DB1	Hospitalized	1634	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					33.0	Male		DB1.026	adult	DB1.026	5921.0
+DB1.056	disease	DB1	Hospitalized	1817	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	_	_	_					33.0	Male		DB1.056	adult	DB1.056	5360.0
+DB1.104	disease	DB1	Hospitalized	1962	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Male		DB1.104	adult	DB1.104	1912.0
+DB1.166	disease	DB1	Hospitalized	2426	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					5.0	Male		DB1.166	adult	DB1.166	4359.0
+DB1.081	disease	DB1	Hospitalized	2776e	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					12.0	Male		DB1.081	adult	DB1.081	1892.0
+DB1.244	disease	DB1	Hospitalized	3051	Israel	Human	Hospitalized	Fresh	stool	_	first	Salmonella	_	_	_					2.0	Male		DB1.244	adult	DB1.244	17276.0
+DB1.001	disease	DB1	Hospitalized	1458	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	_	_	_					52.0	Male		DB1.001	adult	DB1.001	6895.0
+DB1.133	disease	DB1	Hospitalized	2074	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					88.0	Female		DB1.133	adult	DB1.133	5631.0
+DB1.105	disease	DB1	Hospitalized	2529e	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					66.0	Male		DB1.105	adult	DB1.105	9317.0
+DB1.008	disease	DB1	Hospitalized	1497	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_						Male		DB1.008	adult	DB1.008	4143.0
+DB1.051	disease	DB1	Hospitalized	1808	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					66.0	Male		DB1.051	adult	DB1.051	4798.0
+DB1.119	disease	DB1	Hospitalized	1998	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					51.0	Female		DB1.119	adult	DB1.119	9292.0
+DB1.249	disease	DB1	Hospitalized	3135	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	_	_	_					25.0	Male		DB1.249	adult	DB1.249	3074.0
+DB1.088	disease	DB1	Hospitalized	1892	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					62.0	Male		DB1.088	adult	DB1.088	2792.0
+DB1.196	disease	DB1	Hospitalized	2734	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					14.0	Male		DB1.196	adult	DB1.196	9773.0
+DB1.036	disease	DB1	Hospitalized	3061_D	Israel	Human	Hospitalized	Fresh	stool	_	Duplicates	neg	DB1.242	_	_								DB1.036	adult	DB1.036	10568.0
+DB1.110	disease	DB1	Hospitalized	1982	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					73.0	Male		DB1.110	adult	DB1.110	3351.0
+DB1.062	disease	DB1	Hospitalized	1828	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					57.0	Female		DB1.062	adult	DB1.062	6467.0
+DB1.199	disease	DB1	Hospitalized	2748	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					22.0	Male		DB1.199	adult	DB1.199	5135.0
+DB1.059	disease	DB1	Hospitalized	1825	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					80.0	Male		DB1.059	adult	DB1.059	8629.0
+DB1.172	disease	DB1	Hospitalized	2455	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					64.0	Male		DB1.172	adult	DB1.172	6514.0
+DB1.010	disease	DB1	Hospitalized	2717_D	Israel	Human	Hospitalized	Fresh	stool	_	Duplicates	neg	DB1.190	_	_								DB1.010	adult	DB1.010	7975.0
+DB1.237	disease	DB1	Hospitalized	2963	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					20.0	Male		DB1.237	adult	DB1.237	9833.0
+DB1.046	disease	DB1	Hospitalized	1774	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					38.0	Female		DB1.046	adult	DB1.046	5987.0
+DB1.007	disease	DB1	Hospitalized	1483	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_						Male		DB1.007	adult	DB1.007	4805.0
+DB1.087	disease	DB1	Hospitalized	1891	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					60.0	Female		DB1.087	adult	DB1.087	6145.0
+DB1.239	disease	DB1	Hospitalized	2978	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					21.0	Male		DB1.239	adult	DB1.239	6811.0
+DB1.048	disease	DB1	Hospitalized	1777	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					65.0	Female		DB1.048	adult	DB1.048	6309.0
+DB1.157	disease	DB1	Hospitalized	2282	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					2.0	Female		DB1.157	adult	DB1.157	11469.0
+DB1.032	disease	DB1	Hospitalized	1665	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					39.0	Female		DB1.032	adult	DB1.032	3940.0
+DB1.116	disease	DB1	Hospitalized	2530e	Israel	Human	Hospitalized	Fresh	stool	_	secod seq	_	_	_	_								DB1.116	adult	DB1.116	5382.0
+DB1.093	disease	DB1	Hospitalized	1911	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					2.0	Male		DB1.093	adult	DB1.093	5464.0
+DB1.016	disease	DB1	Hospitalized	1525	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					48.0	Male		DB1.016	adult	DB1.016	5219.0
+DB1.028	disease	DB1	Hospitalized	1644	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					84.0	Female		DB1.028	adult	DB1.028	4180.0
+DB1.120	disease	DB1	Hospitalized	2000	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Female		DB1.120	adult	DB1.120	5014.0
+DB1.174	disease	DB1	Hospitalized	2542	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					81.0	Female		DB1.174	adult	DB1.174	1956.0
+DB1.167	disease	DB1	Hospitalized	2445	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					45.0	Male		DB1.167	adult	DB1.167	3307.0
+DB1.114	disease	DB1	Hospitalized	1989	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					2.0	Male		DB1.114	adult	DB1.114	6602.0
+DB1.259	disease	DB1	Hospitalized	3071	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					20.0	Male		DB1.259	adult	DB1.259	10335.0
+DB1.092	disease	DB1	Hospitalized	1907	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					64.0	Female		DB1.092	adult	DB1.092	6270.0
+DB1.039	disease	DB1	Hospitalized	1707	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					4.0	Male		DB1.039	adult	DB1.039	5089.0
+DB1.200	disease	DB1	Hospitalized	2753e	Israel	Human	Hospitalized	Fresh	stool	_	first	Campylobacter	_	_	_					20.0	_		DB1.200	adult	DB1.200	2753.0
+DB1.255	disease	DB1	Hospitalized	2111	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					66.0	Male		DB1.255	adult	DB1.255	28754.0
+DB1.122	disease	DB1	Hospitalized	2010	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					77.0	Female		DB1.122	adult	DB1.122	2543.0
+DB1.159	disease	DB1	Hospitalized	2284	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					19.0	Female		DB1.159	adult	DB1.159	14293.0
+DB1.019	disease	DB1	Hospitalized	1622	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Male		DB1.019	adult	DB1.019	7296.0
+DB1.043	disease	DB1	Hospitalized	1771	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					64.0	Male		DB1.043	adult	DB1.043	13213.0
+DB1.171	disease	DB1	Hospitalized	2451	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					28.0	Female		DB1.171	adult	DB1.171	8067.0
+DB1.020	disease	DB1	Hospitalized	1623	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					2.0	Female		DB1.020	adult	DB1.020	5433.0
+DB1.089	disease	DB1	Hospitalized	1895	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Female		DB1.089	adult	DB1.089	3798.0
+DB1.040	disease	DB1	Hospitalized	1768	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					1.0	Male		DB1.040	adult	DB1.040	5112.0
+DB1.035	disease	DB1	Hospitalized	1675	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					0.0	Female		DB1.035	adult	DB1.035	8709.0
+DB1.149	disease	DB1	Hospitalized	2201	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					80.0	Male		DB1.149	adult	DB1.149	6461.0
+DB1.015	disease	DB1	Hospitalized	1518	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					2.0	Male		DB1.015	adult	DB1.015	8554.0
+DB1.248	disease	DB1	Hospitalized	3045	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					69.0	Male		DB1.248	adult	DB1.248	6963.0
+DB1.182	disease	DB1	Hospitalized	2582	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					84.0	Male		DB1.182	adult	DB1.182	4605.0
+DB1.207	disease	DB1	Hospitalized	2822	Israel	Human	Hospitalized	Fresh	stool	_	second seq	Campylobacter	_	_	_								DB1.207	adult	DB1.207	11678.0
+DB1.236	disease	DB1	Hospitalized	2984	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					19.0	Female		DB1.236	adult	DB1.236	11295.0
+DB1.045	disease	DB1	Hospitalized	1773	Israel	Human	Hospitalized	Fresh	stool	_	under 500	neg	_	_	_								DB1.045	adult	DB1.045	7131.0

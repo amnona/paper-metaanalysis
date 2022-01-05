@@ -1,0 +1,47 @@
+#SampleID	survey_id	sex	age	age_cat	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR1073837	66d9bb17f280956f	male		Unspecified	84526	Unspecified	USA	disease	T2D	ERR1073837	18748.0
+ERR2697778	9ce258a8312cb57f	female	adult	60s	75879	Obese	United Kingdom	disease	T2D	ERR2697778	12324.0
+ERR2032526	194e63a325492495	female	adult	50s	53355	Overweight	United Kingdom	HC	T2D	ERR2032526	16381.0
+ERR1846088	4e8b414b7b792b22	female		Not provided	36397	Normal	USA	HC	T2D	ERR1846088	10479.0
+ERR2032724	eecd73a526b92458	male	adult	60s	39658	Obese	USA	disease	T2D	ERR2032724	21790.0
+ERR1597237	97a810f9de77ec9b	male	adult	40s	39774	Normal	USA	HC	T2D	ERR1597237	7615.0
+ERR1841580	a32fc03476d73a01	female	adult	70+	65712	Normal	USA	disease	T2D	ERR1841580	9059.0
+ERR1678488	937860d6db9ad0bb	female	adult	30s	33423	Normal	United Kingdom	HC	T2D	ERR1678488	10906.0
+ERR1074072	85e3172cd89c9a07	female	adult	40s	53330	Normal	United Kingdom	disease	T2D	ERR1074072	4943.0
+ERR2033213	d2bbac85702b6d9f	male	adult	60s	74283	Obese	United Kingdom	disease	T2D	ERR2033213	15381.0
+ERR2405346	64c8d7610f2e749b	female	adult	40s	37950	Normal	United Kingdom	HC	T2D	ERR2405346	8649.0
+ERR1846095	4e2e74b584a348f9	female	adult	60s	29493	Overweight	United Kingdom	HC	T2D	ERR1846095	5986.0
+ERR1075671	f48470887a7fb91a	male	adult	60s	39722	Normal	USA	disease	T2D	ERR1075671	14507.0
+ERR2696718	bce643b7a8feae18	male	adult	60s	97666	Overweight	United Kingdom	disease	T2D	ERR2696718	10058.0
+ERR2308551	9f0f826d2633602a	male	adult	60s	90047	Overweight	USA	disease	T2D	ERR2308551	13783.0
+ERR1597022	25bbd2fb8abb1df2	female		Not provided	59962	Not provided	United Kingdom	HC	T2D	ERR1597022	5507.0
+ERR2697606	ff92d80fa42b7448	male	adult	50s	39724	Overweight	USA	disease	T2D	ERR2697606	18408.0
+ERR2308632	f90d7252e9f9e5c7	male	adult	50s	92921	Obese	United Kingdom	disease	T2D	ERR2308632	11757.0
+ERR1091525	dadf4da9ffa18c55	female	adult	60s	1956	Normal	USA	HC	T2D	ERR1091525	21102.0
+ERR1075200	12e3a3407e2324f4	female	adult	60s	39703	Normal	USA	disease	T2D	ERR1075200	11358.0
+ERR1074969	a5657940519d696e	female	adult	60s	40108	Normal	USA	HC	T2D	ERR1074969	7531.0
+ERR2303957	3f869f53851e57eb	male	adult	60s	71855	Obese	United Kingdom	disease	T2D	ERR2303957	12990.0
+ERR1458939	eda5813827aabe48	female	adult	40s	12242	Normal	USA	HC	T2D	ERR1458939	6410.0
+ERR2032562	5ab6f699931f29cc	male	adult	50s	52388	Normal	USA	HC	T2D	ERR2032562	24219.0
+ERR2524173	227894ed42c7bdb4	male	adult	50s	97384	Overweight	United Kingdom	disease	T2D	ERR2524173	16882.0
+ERR2319541	2351509b0cd29e93	female	adult	50s	53413	Obese	United Kingdom	disease	T2D	ERR2319541	16047.0
+ERR2056946	56222090a3043910	male	adult	40s	37570	Normal	USA	HC	T2D	ERR2056946	12668.0
+ERR2697904	051299f2d324bad1	female	adult	50s	84643	Unspecified	USA	disease	T2D	ERR2697904	11525.0
+ERR1842479	98ffd47cb090bf9f	male	adult	60s	42725	Obese	United Kingdom	disease	T2D	ERR1842479	5551.0
+ERR2698048	5234c387e7adfcf9	male	adult	50s	50152	Normal	United Kingdom	HC	T2D	ERR2698048	11392.0
+ERR2303930	e1c39781d2c81fcc	male	adult	50s	13107	Not provided	USA	HC	T2D	ERR2303930	20071.0
+ERR1842553	546f5dd9e42ccfca	male	adult	60s	71459	Obese	USA	disease	T2D	ERR1842553	4823.0
+ERR2579660	1e89ffe6ec18d59c	female		Not provided	58564	Not provided	USA	HC	T2D	ERR2579660	16501.0
+ERR2405282	7a00f70f8d73f533	female	adult	20s	28207	Normal	United Kingdom	HC	T2D	ERR2405282	6571.0
+ERR1076674	72c19936826ff37f	female	adult	70+	100492	Overweight	USA	disease	T2D	ERR1076674	20042.0
+ERR1073688	f23d4dc58a3ecb87	female	adult	40s	6027	Normal	USA	HC	T2D	ERR1073688	11148.0
+ERR1842264	42e7e8427813d1e8	male		Not provided	69341	Not provided	USA	disease	T2D	ERR1842264	9330.0
+ERR1846049	bbb4f8f7e758ed92	female	adult	60s	2145	Normal	USA	HC	T2D	ERR1846049	15211.0
+ERR2579396	0fdb93ce1cf602c8	male	adult	60s	36152	Normal	USA	HC	T2D	ERR2579396	30212.0
+ERR2309310	bc33e89bd7ddf3f4	male	adult	60s	33261	Obese	United Kingdom	disease	T2D	ERR2309310	36039.0
+ERR2308794	b05aa3dcec02a457	female	adult	40s	38084	Overweight	United Kingdom	HC	T2D	ERR2308794	27785.0
+ERR2405211	b7850a2ecf030506	male	adult	60s	79134	Normal	United Kingdom	HC	T2D	ERR2405211	9352.0
+ERR1072851	c1cd777ab07ddce5	female	adult	30s	30403	Normal	United Kingdom	HC	T2D	ERR1072851	10942.0
+ERR1458896	2d621d42feb3c482	female		Not provided	38335	Not provided	United Kingdom	disease	T2D	ERR1458896	4243.0
+ERR2309317	edc7cc290ccbc2ed	female	adult	50s	69838	Obese	USA	disease	T2D	ERR2309317	29999.0
+ERR2405318	06bc8e306a00753c	female	adult	30s	38171	Overweight	United Kingdom	HC	T2D	ERR2405318	8938.0

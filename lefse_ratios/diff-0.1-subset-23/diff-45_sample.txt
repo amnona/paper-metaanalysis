@@ -1,0 +1,47 @@
+#SampleID	survey_id	sex	age	age_cat	age.1	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR1074386	e95012ce27d247ba	male	adult	30s	adult	5810	Underweight	Germany	HC	ibs	ERR1074386	10474.0
+ERR2033600	45a3d663f8daa6a0	male		Not provided		69097	Overweight	USA	HC	ibs	ERR2033600	10892.0
+ERR1079926	8165fe781f810a52	female	adult	40s	adult	3491	Normal	USA	HC	ibs	ERR1079926	6761.0
+ERR2405036	e20a8309466749d0	male	adult	50s	adult	76518	Normal	United Kingdom	HC	ibs	ERR2405036	14721.0
+ERR1315842	4df50e08228972b0	male	adult	40s	adult	27603	Normal	USA	HC	ibs	ERR1315842	12851.0
+ERR2303809	0cc04559676a992c	female	adult	30s	adult	22405	Underweight	Australia	HC	ibs	ERR2303809	21212.0
+ERR2057020	baa256b01d6ad6b8	male	adult	50s	adult	65590	Overweight	United Kingdom	HC	ibs	ERR2057020	21146.0
+ERR2032843	ed5806ecd21b1635	male		Not provided		65682	Not provided	USA	HC	ibs	ERR2032843	9005.0
+ERR1842759	1fe1c1678e5a1672	female	adult	40s	adult	47168	Normal	United Kingdom	HC	ibs	ERR1842759	2796.0
+ERR2318127	6167293189b831a1	female	adult	40s	adult	65415	Normal	United Kingdom	HC	ibs	ERR2318127	25165.0
+ERR2405026	e5090f25f083dcbd	female		Unspecified		76451	Underweight	Ireland	HC	ibs	ERR2405026	7080.0
+ERR2032559	145b49b148b65fa3	female	adult	70+	adult	39561	Overweight	USA	HC	ibs	ERR2032559	12023.0
+ERR2405288	0ad62eceebd1c7ea	female	child	child	child	87207	Underweight	USA	HC	ibs	ERR2405288	10430.0
+ERR2091843	c7ab11ef2c61953f	female	adult	30s	adult	30444	Normal	United Kingdom	HC	ibs	ERR2091843	14334.0
+ERR1842397	cd49b8077e36f7cd	female	adult	60s	adult	50193	Normal	United Kingdom	HC	ibs	ERR1842397	6238.0
+ERR1075008	3a98f186a68196f0	Not provided		Not provided		6889	Not provided	USA	HC	ibs	ERR1075008	16934.0
+ERR1091558	f795dbaa5b59a94a	female	adult	30s	adult	30111	Normal	United Kingdom	HC	ibs	ERR1091558	46677.0
+ERR2091957	1f752142740951af	male	adult	30s	adult	58852	Overweight	United Kingdom	HC	ibs	ERR2091957	15882.0
+ERR1080183	b4d56e08b666bb43	female	adult	30s	adult	20457	Normal	United Kingdom	HC	ibs	ERR1080183	2844.0
+ERR1073726	38ab0ad09f971185	Not provided	adult	50s	adult	2111	Overweight	USA	HC	ibs	ERR1073726	12537.0
+ERR2696514	3cec1c7b890e3905	male	adult	50s	adult	79093	Normal	United Kingdom	HC	ibs	ERR2696514	30986.0
+ERR1080092	db3e7de94efbae69	female	child	teen	adult	18352	Normal	USA	HC	ibs	ERR1080092	8034.0
+ERR2587888	606fb0fce55e98aa	male	adult	40s	adult	47942	Normal	USA	HC	ibs	ERR2587888	19318.0
+ERR2091934	c74c0443527abe79	male	adult	40s	adult	58351	Normal	United Kingdom	disease	ibs	ERR2091934	22387.0
+ERR1842344	ddb8df99b443a822	female	adult	50s	adult	47695	Normal	United Kingdom	disease	ibs	ERR1842344	8183.0
+ERR1249947	b115e05a1554c895	female	adult	20s	adult	33788	Normal	USA	disease	ibs	ERR1249947	18100.0
+ERR1091392	6f15373d74106077	female	adult	50s	adult	28394	Normal	Italy	disease	ibs	ERR1091392	34104.0
+ERR2405103	43e02b460b864c91	female	adult	30s	adult	82732	Normal	USA	disease	ibs	ERR2405103	7985.0
+ERR2405332	5194d3092acb072d	female	adult	50s	adult	87678	Normal	USA	disease	ibs	ERR2405332	9997.0
+ERR1842130	52473525bf077872	female	adult	40s	adult	26047	Normal	USA	disease	ibs	ERR1842130	6943.0
+ERR1249897	a506a2c3267a0061	female	adult	40s	adult	31028	Underweight	USA	disease	ibs	ERR1249897	19481.0
+ERR2318180	0e82be9bfd9f91bc	female		Unspecified		69867	Normal	USA	disease	ibs	ERR2318180	16513.0
+ERR1091458	0b2819ee079be5a6	female	adult	70+	adult	29377	Overweight	United Kingdom	disease	ibs	ERR1091458	4691.0
+ERR2314141	916f2b514f52b8b9	male	adult	30s	adult	65588	Normal	United Kingdom	disease	ibs	ERR2314141	20944.0
+ERR2697710	9f8eebdd88eb4fe3	male	child	teen	adult	92674	Normal	United Kingdom	disease	ibs	ERR2697710	12891.0
+ERR2404925	654a973fd9e2cb51	female	adult	70+	adult	52010	Overweight	USA	disease	ibs	ERR2404925	4488.0
+ERR2579383	aea4dd7a429ded43	female	adult	30s	adult	51252	Underweight	USA	disease	ibs	ERR2579383	19248.0
+ERR2318170	45d361eb496c443e	male	adult	60s	adult	69205	Normal	USA	disease	ibs	ERR2318170	34056.0
+ERR1091461	65bee619450277d0	male	adult	60s	adult	29390	Overweight	United Kingdom	disease	ibs	ERR1091461	40304.0
+ERR1842850	b83fba04a309d99c	female	adult	70+	adult	54078	Normal	United Kingdom	disease	ibs	ERR1842850	4040.0
+ERR1842305	c78195f36d9ac1b1	female	adult	40s	adult	47221	Normal	United Kingdom	disease	ibs	ERR1842305	6504.0
+ERR1250121	d56b66a43c446a08	male	adult	50s	adult	37505	Overweight	USA	disease	ibs	ERR1250121	11480.0
+ERR2314008	0e0d86dc34d71950	male	adult	30s	adult	47618	Overweight	United Kingdom	disease	ibs	ERR2314008	18825.0
+ERR2314318	f9a375ec49fe6d7f	male	adult	20s	adult	71957	Normal	USA	disease	ibs	ERR2314318	27064.0
+ERR1597002	9a10b4cb052ed939	male	adult	30s	adult	32874	Overweight	United Kingdom	disease	ibs	ERR1597002	6761.0
+ERR2308565	8dc77995fc00db0b	female	adult	60s	adult	60315	Normal	United Kingdom	disease	ibs	ERR2308565	13935.0

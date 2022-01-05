@@ -1,0 +1,553 @@
+#SampleID	survey_id	sex	age	age_cat	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR2091965	5100f1835c07ffab	male		Not provided	58889	Not provided	United Kingdom	HC	depression	ERR2091965	20092.0
+ERR1842458	09fb6fe117bdc3e4	female	adult	50s	51242	Overweight	USA	disease	depression	ERR1842458	7896.0
+ERR1080088	8ee0d204fa8cc247	male	adult	40s	18340	Normal	USA	HC	depression	ERR1080088	6100.0
+ERR2318083	8be4b3e14a86b90b	female	adult	50s	62166	Normal	United Kingdom	disease	depression	ERR2318083	29341.0
+ERR2308631	6ec64127b5a3c6a2	female	adult	60s	71854	Normal	United Kingdom	disease	depression	ERR2308631	13322.0
+ERR1842631	5d447b81432a2484	female	adult	20s	62078	Underweight	USA	disease	depression	ERR1842631	8223.0
+ERR2033473	2a8fb4b2c26b34d1	female	adult	40s	68186	Normal	USA	HC	depression	ERR2033473	15374.0
+ERR1845295	46c6524f977e1aa3	male	adult	40s	12593	Normal	Canada	HC	depression	ERR1845295	21250.0
+ERR2696493	160d3a6a626315e9	female	adult	60s	76349	Normal	United Kingdom	disease	depression	ERR2696493	11011.0
+ERR2319258	fdc74e6ce759d682	female	adult	40s	23581	Overweight	Not provided	disease	depression	ERR2319258	24677.0
+ERR2092248	314152c0cceedfa8	female	adult	30s	67675	Normal	USA	disease	depression	ERR2092248	14197.0
+ERR1075824	9152f6356e13e796	female	adult	40s	13653	Overweight	USA	HC	depression	ERR1075824	14160.0
+ERR2697676	6862c8c994cb48ee	female	adult	50s	79075	Normal	United Kingdom	HC	depression	ERR2697676	14105.0
+ERR2032567	26900a7a33c8d1f4	female	adult	70+	39595	Normal	USA	disease	depression	ERR2032567	20224.0
+ERR1842297	ad337c5c558c73f9	female	adult	50s	47167	Normal	United Kingdom	HC	depression	ERR1842297	5288.0
+ERR1074994	f9cb48e1f08b3a17	Not provided	adult	20s	5763	Underweight	United Kingdom	HC	depression	ERR1074994	21281.0
+ERR1842145	7400cf27e23c786c	male	adult	30s	28905	Normal	USA	HC	depression	ERR1842145	8240.0
+ERR1845919	b300ad73333aab9e	female	adult	70+	38295	Normal	France	disease	depression	ERR1845919	10488.0
+ERR1073679	934196085e523c76	male	adult	50s	6809	Normal	USA	HC	depression	ERR1073679	26792.0
+ERR2318002	15b294e98a0775e7	male	adult	40s	30297	Normal	United Kingdom	disease	depression	ERR2318002	17685.0
+ERR1842204	5e94b9fb32497c95	female	adult	30s	38044	Normal	United Kingdom	disease	depression	ERR1842204	7681.0
+ERR2032741	7a207098b510bb59	female		Not provided	58563	Not provided	USA	HC	depression	ERR2032741	15462.0
+ERR1854707	5391737cbf185f1f	female	adult	50s	51266	Normal	USA	disease	depression	ERR1854707	11479.0
+ERR1842581	a29e88d49929e403	male	adult	30s	54099	Normal	USA	disease	depression	ERR1842581	7438.0
+ERR1846210	979571c3806349ce	female		Not provided	63586	Normal	USA	disease	depression	ERR1846210	10243.0
+ERR2697663	826a45a5494d1d6c	unspecified		Unspecified	76708	Unspecified	Germany	HC	depression	ERR2697663	12910.0
+ERR1459162	f94589e4f2faad49	female	adult	50s	46112	Normal	USA	disease	depression	ERR1459162	6369.0
+ERR2092081	24aa1dfeedff999a	Not provided	adult	50s	68412	Normal	USA	disease	depression	ERR2092081	15289.0
+ERR2696472	a6e992f070ae7671	male	adult	50s	75925	Overweight	United Kingdom	HC	depression	ERR2696472	20940.0
+ERR1076704	4a8965f013e019c8	male	adult	70+	14613	Underweight	USA	HC	depression	ERR1076704	17210.0
+ERR1249879	88010265409a57e5	male	adult	20s	30757	Overweight	USA	HC	depression	ERR1249879	13887.0
+ERR2032214	c02cf7b6b45b7aeb	female	adult	30s	66592	Normal	USA	HC	depression	ERR2032214	13008.0
+ERR2032570	68140e9085830495	male	adult	30s	39600	Overweight	USA	disease	depression	ERR2032570	23460.0
+ERR1080155	0e1b13896bb337d8	male	adult	20s	20349	Overweight	USA	HC	depression	ERR1080155	6811.0
+ERR2032936	e1107ffdfc98393d	female	adult	60s	66901	Normal	USA	HC	depression	ERR2032936	27340.0
+ERR1249993	40fa92a79f0130dd	male	adult	30s	36077	Not provided	USA	HC	depression	ERR1249993	9736.0
+ERR2697947	1d9bdd750b74ce13	female	adult	60s	97773	Normal	United Kingdom	HC	depression	ERR2697947	13197.0
+ERR2056881	0827945cad68f3d9	female	adult	30s	54153	Normal	United Kingdom	disease	depression	ERR2056881	13000.0
+ERR1080105	7ce188ee9cedad5d	female	adult	50s	18401	Normal	USA	HC	depression	ERR1080105	5776.0
+ERR1842462	9d5b8520237e2f3c	male	adult	30s	51256	Normal	USA	disease	depression	ERR1842462	8261.0
+ERR1458906	3c8d5b707eab52ac	male	adult	30s	38007	Normal	United Kingdom	disease	depression	ERR1458906	16463.0
+ERR2304041	1467b4fec5d29ee7	female	adult	40s	74298	Normal	United Kingdom	disease	depression	ERR2304041	10767.0
+ERR2319362	576f994190ea72a9	male	adult	50s	58745	Normal	Not provided	disease	depression	ERR2319362	26553.0
+ERR2314209	05b0a1e4749b622f	female	adult	30s	68667	Normal	United Kingdom	disease	depression	ERR2314209	19432.0
+ERR2579972	096bed24be1fc56d	male	adult	20s	73364	Normal	USA	disease	depression	ERR2579972	22153.0
+ERR1091565	930e8e29133aa8fa	male	adult	30s	30124	Not provided	United Kingdom	HC	depression	ERR1091565	43955.0
+ERR1846057	fd458256111d7959	female	adult	30s	53485	Normal	United Kingdom	disease	depression	ERR1846057	11726.0
+ERR1316002	cdac22b017ec4705	female	adult	60s	35480	Underweight	USA	HC	depression	ERR1316002	9032.0
+ERR2309377	aa5f05a40dc8b3e6	male	adult	50s	74640	Overweight	United Kingdom	HC	depression	ERR2309377	43869.0
+ERR2523873	e22136374234d60f	female	adult	40s	52325	Normal	USA	disease	depression	ERR2523873	19574.0
+ERR2314195	5cd1d05013e922e5	female	adult	30s	68263	Overweight	Canada	disease	depression	ERR2314195	13884.0
+ERR2304092	e064fab8dc6d71e8	female	adult	70+	79788	Normal	USA	HC	depression	ERR2304092	15931.0
+ERR1073865	a17ceeea388f9faf	male	adult	60s	4878	Not provided	USA	HC	depression	ERR1073865	13963.0
+ERR2523946	4dc306f0e790b470	female	adult	20s	76444	Normal	United Kingdom	HC	depression	ERR2523946	17330.0
+ERR1846046	4fac539e33ef6022	female	adult	40s	52408	Normal	USA	disease	depression	ERR1846046	6322.0
+ERR1073798	9fc6ea4fd4df501a	male	adult	60s	37553	Normal	USA	HC	depression	ERR1073798	21498.0
+ERR1073664	5c46a7e7b2ff6df4	male	adult	50s	6666	Normal	USA	HC	depression	ERR1073664	26143.0
+ERR2579939	aa018d796f695be8	female	adult	50s	72427	Overweight	USA	disease	depression	ERR2579939	14295.0
+ERR1459111	2639ea11b21375b6	female	adult	40s	43224	Normal	Canada	disease	depression	ERR1459111	8314.0
+ERR1842176	66e92875d85f8c75	female	child	teen	33483	Normal	United Kingdom	disease	depression	ERR1842176	6215.0
+ERR2404975	842e7c5532e80866	female	adult	70+	72605	Unspecified	Japan	disease	depression	ERR2404975	12504.0
+ERR1075624	66bf765b4e9380ac	female		Not provided	3303	Normal	USA	HC	depression	ERR1075624	15309.0
+ERR2405233	c6973d21c1e96e47	female	child	teen	83086	Overweight	USA	HC	depression	ERR2405233	8734.0
+ERR2314038	b5817010e298228d	male	adult	40s	54212	Normal	United Kingdom	disease	depression	ERR2314038	18385.0
+ERR2304040	3da7b92d01659a8e	female	adult	40s	74232	Overweight	United Kingdom	disease	depression	ERR2304040	21363.0
+ERR1842842	b1a776dedf08effc	female	adult	50s	54015	Normal	United Kingdom	HC	depression	ERR1842842	5771.0
+ERR1074893	de7ef66700b7b559	female	adult	30s	10901	Underweight	USA	HC	depression	ERR1074893	10425.0
+ERR1091514	2990729f8f47910f	male	adult	30s	29630	Normal	United Kingdom	HC	depression	ERR1091514	25235.0
+ERR1075981	7e6db8148f2e736f	female	adult	20s	14540	Not provided	USA	HC	depression	ERR1075981	12887.0
+ERR1076864	49c8aa8e89816a2f	Not provided	adult	20s	16490	Not provided	USA	HC	depression	ERR1076864	11812.0
+ERR2308706	732ce7bbe3d78626	female	adult	20s	74666	Normal	United Kingdom	disease	depression	ERR2308706	12967.0
+ERR1075811	160e5743019006aa	female	adult	50s	13563	Normal	USA	HC	depression	ERR1075811	18861.0
+ERR2033227	5678360af3e74453	female	adult	20s	51182	Normal	USA	disease	depression	ERR2033227	15593.0
+ERR2306089	ce6673d5e26b045e	female	adult	40s	26538	Overweight	USA	disease	depression	ERR2306089	38264.0
+ERR2319488	bb3dde59d19c119e	female	adult	40s	68237	Normal	USA	HC	depression	ERR2319488	19425.0
+ERR2579635	0f272db5a6f2c986	female	adult	50s	26489	Normal	USA	HC	depression	ERR2579635	17086.0
+ERR2696579	7b8fca45056547bd	female	adult	60s	92710	Normal	United Kingdom	HC	depression	ERR2696579	17813.0
+ERR1091452	8de2834b362d7f62	female	adult	30s	29315	Normal	United Kingdom	HC	depression	ERR1091452	28503.0
+ERR2319323	11e56649ecb89608	male	adult	60s	47668	Overweight	United Kingdom	disease	depression	ERR2319323	19604.0
+ERR2032820	7fda846b88fed9af	male	adult	60s	65299	Overweight	Canada	HC	depression	ERR2032820	17238.0
+ERR1076826	9b0878e6728760f1	Not provided		Not provided	15830	Not provided	USA	HC	depression	ERR1076826	16164.0
+ERR2032337	06528714ae38e4db	male	adult	30s	67720	Overweight	USA	disease	depression	ERR2032337	8891.0
+ERR1389932	be890eaef0b8f15e	female	adult	50s	41554	Overweight	USA	HC	depression	ERR1389932	14690.0
+ERR1073758	f5591f2c50af9209	female	adult	70+	2665	Normal	USA	HC	depression	ERR1073758	14357.0
+ERR2579523	8d3b5ad6e95ca9f5	female	adult	50s	91091	Normal	USA	disease	depression	ERR2579523	23158.0
+ERR1091304	dacb7d51cb4c7739	female	adult	50s	23273	Normal	USA	HC	depression	ERR1091304	63897.0
+ERR2092267	77c32bac3a6c3d9d	female	adult	30s	67709	Overweight	USA	HC	depression	ERR2092267	11877.0
+ERR1074587	4dbac39e3623037c	female	adult	40s	9433	Normal	USA	HC	depression	ERR1074587	17726.0
+ERR1678478	a120606c958d7a96	male	adult	30s	52041	Normal	USA	disease	depression	ERR1678478	13803.0
+ERR2092536	edfce2e8bb66a8a0	male	adult	40s	7279	Normal	USA	HC	depression	ERR2092536	11587.0
+ERR2697743	53d93ec04306f7aa	female	adult	50s	92800	Normal	United Kingdom	HC	depression	ERR2697743	14408.0
+ERR1459040	5233f3ffc5831e54	male	adult	40s	42616	Overweight	Switzerland	HC	depression	ERR1459040	9893.0
+ERR2579694	2e74eff3566690d9	male	adult	50s	54225	Normal	United Kingdom	HC	depression	ERR2579694	26987.0
+ERR2057161	8b77aaa0354d4c53	male	adult	30s	69725	Normal	USA	HC	depression	ERR2057161	19647.0
+ERR2523971	ca53cd16042bcbc1	male	adult	50s	79071	Overweight	United Kingdom	HC	depression	ERR2523971	15879.0
+ERR1842625	e7e762d9dc37781b	female	adult	40s	62072	Overweight	USA	HC	depression	ERR1842625	5503.0
+ERR2405395	ef523790932e2a13	male	adult	30s	90514	Normal	USA	disease	depression	ERR2405395	17877.0
+ERR1841518	6dac6d9c5883c4d6	female	adult	20s	33434	Normal	United Kingdom	HC	depression	ERR1841518	10969.0
+ERR1091355	7dbef84818b32229	male	adult	70+	27912	Overweight	USA	HC	depression	ERR1091355	42684.0
+ERR2579719	ad9c3cc62b6c3d2f	male	child	teen	59195	Underweight	USA	disease	depression	ERR2579719	5811.0
+ERR2696669	9ecb1bf6c8a2e315	male	adult	40s	94613	Overweight	USA	disease	depression	ERR2696669	14853.0
+ERR1389697	42c5c642069bb6de	female	adult	30s	32728	Normal	United Kingdom	disease	depression	ERR1389697	16896.0
+ERR2314370	52d2b2ae63b81bc3	female	adult	30s	73339	Overweight	USA	disease	depression	ERR2314370	19206.0
+ERR1842552	2771ef94d920009e	male	adult	60s	53410	Normal	United Kingdom	disease	depression	ERR1842552	8923.0
+ERR2091848	7db6c9a7caa95a4b	male	adult	40s	33099	Normal	United Kingdom	HC	depression	ERR2091848	28191.0
+ERR1076858	7ca81df2e1422a0d	female	adult	60s	16371	Overweight	Canada	HC	depression	ERR1076858	4806.0
+ERR2697605	51fa0d185bc961dd	female	adult	30s	74686	Normal	France	HC	depression	ERR2697605	11136.0
+ERR2405196	96c085819e34261e	female	adult	40s	83005	Overweight	USA	disease	depression	ERR2405196	8187.0
+ERR1845825	f3147330efaa7fd8	male	adult	30s	23732	Overweight	Australia	HC	depression	ERR1845825	9882.0
+ERR2319734	83758f8cac412f9a	female	adult	60s	50455	Normal	USA	HC	depression	ERR2319734	24013.0
+ERR2696609	39ac468663dcdb93	female	child	teen	92846	Overweight	United Kingdom	HC	depression	ERR2696609	15852.0
+ERR1389934	e1139198de1ce973	male	adult	20s	41633	Overweight	USA	HC	depression	ERR1389934	13514.0
+ERR1250570	b87be0d24f29b97d	female	adult	40s	33668	Normal	USA	HC	depression	ERR1250570	19101.0
+ERR2579935	d4a71081dd9eddb5	female	adult	40s	72418	Normal	USA	disease	depression	ERR2579935	47723.0
+ERR1845932	76a7d2fb093ec376	male	adult	40s	39520	Overweight	USA	disease	depression	ERR1845932	8626.0
+ERR1073782	2feedeae09cc6035	female		Not provided	3046	Underweight	USA	HC	depression	ERR1073782	11519.0
+ERR1842272	0c2f825dfcc9ee34	female	adult	40s	46295	Overweight	United Kingdom	disease	depression	ERR1842272	7545.0
+ERR2405402	04c397df381595dc	male	adult	30s	90541	Normal	USA	disease	depression	ERR2405402	7266.0
+ERR1842595	9bccef8a507a362f	male	adult	40s	54319	Normal	USA	disease	depression	ERR1842595	7787.0
+ERR2308916	b0fd5664504743f3	male	adult	70+	84585	Overweight	USA	HC	depression	ERR2308916	15113.0
+ERR1091594	8612fd408ff9425c	female	adult	50s	30250	Underweight	United Kingdom	HC	depression	ERR1091594	37589.0
+ERR1073459	44242ad96830a718	female	adult	20s	2051	Normal	USA	HC	depression	ERR1073459	34107.0
+ERR1250595	891596cfbc079669	male	adult	50s	36451	Normal	USA	HC	depression	ERR1250595	10892.0
+ERR2580104	2833277d82695f67	male	adult	20s	74857	Overweight	USA	disease	depression	ERR2580104	13803.0
+ERR1458931	45a38dac9bcc1060	female	adult	60s	38263	Normal	United Kingdom	HC	depression	ERR1458931	4528.0
+ERR1073760	3dcca0ce0bd92dec	female	adult	40s	2670	Not provided	USA	HC	depression	ERR1073760	11276.0
+ERR1842637	673eebc37a9cf06d	female	adult	20s	62086	Overweight	USA	disease	depression	ERR1842637	5143.0
+ERR1597055	5184a48da99f1eda	male	adult	60s	42621	Overweight	Switzerland	disease	depression	ERR1597055	7690.0
+ERR1389854	215f88b28493fa3b	female	adult	50s	38424	Overweight	USA	HC	depression	ERR1389854	16488.0
+ERR2092728	3a29f3ba5d2b679d	male	adult	30s	12697	Normal	USA	HC	depression	ERR2092728	18387.0
+ERR2696560	febb27c8c0c2b684	male	adult	30s	92657	Normal	United Kingdom	HC	depression	ERR2696560	12585.0
+ERR1842328	dad4c6f36274d568	female	adult	40s	47604	Overweight	United Kingdom	HC	depression	ERR1842328	8902.0
+ERR1074859	45fcade4f65bb067	male	adult	70+	14435	Normal	USA	HC	depression	ERR1074859	6810.0
+ERR1841827	53c5f03568db198d	male	adult	30s	59151	Overweight	USA	HC	depression	ERR1841827	6603.0
+ERR1075248	995750e1f80842e8	male	adult	60s	13327	Normal	USA	HC	depression	ERR1075248	11068.0
+ERR2579388	c352c810b4398f1e	female	adult	50s	52358	Overweight	USA	disease	depression	ERR2579388	26106.0
+ERR1074161	0a1ef7139e5db3fe	female	adult	40s	1390	Normal	USA	HC	depression	ERR1074161	14876.0
+ERR1458974	b6b5a5e64e0c4050	female	adult	30s	41307	Normal	USA	disease	depression	ERR1458974	9379.0
+ERR2405176	7cd5a9274046e645	male	adult	60s	82957	Overweight	USA	HC	depression	ERR2405176	10384.0
+ERR1846018	18babff6fd7e6c22	male		Not provided	50218	Not provided	United Kingdom	HC	depression	ERR1846018	12361.0
+ERR1250038	27526f9f13f82476	male	adult	30s	36191	Normal	USA	HC	depression	ERR1250038	11817.0
+ERR2523985	1d490a4eda92ad54	male	adult	50s	79148	Normal	United Kingdom	disease	depression	ERR2523985	6907.0
+ERR2092102	4a467777df2d92ef	male	adult	30s	69233	Normal	USA	HC	depression	ERR2092102	13851.0
+ERR1074407	f6514b6c8e9c98b7	male	adult	40s	6110	Normal	USA	HC	depression	ERR1074407	14443.0
+ERR1315880	356134f7f2ce9316	female	adult	50s	30480	Normal	United Kingdom	HC	depression	ERR1315880	7838.0
+ERR1459140	ad5d1a354cc6ce8f	female	adult	30s	45011	Overweight	USA	HC	depression	ERR1459140	8379.0
+ERR1842152	166033b6effdd621	male	adult	40s	30383	Normal	Not provided	HC	depression	ERR1842152	7465.0
+ERR1091351	8d36481f5d7919da	female	adult	60s	27902	Overweight	USA	HC	depression	ERR1091351	21934.0
+ERR1597060	fdf5148bad0bca41	female	adult	50s	42716	Normal	United Kingdom	HC	depression	ERR1597060	5284.0
+ERR1074496	46ed52f9ede30ca8	male	child	teen	8193	Underweight	USA	HC	depression	ERR1074496	16125.0
+ERR2579761	3c20d4aacfc0407d	unspecified	adult	20s	66565	Overweight	USA	HC	depression	ERR2579761	17648.0
+ERR2092348	974e540fe7c40943	male	adult	40s	67910	Normal	New Zealand	disease	depression	ERR2092348	14103.0
+ERR2303831	52d5413edab0751c	female	adult	40s	35367	Normal	USA	HC	depression	ERR2303831	19409.0
+ERR2319576	4f5bec9a69a51374	female	adult	60s	71385	Normal	Not provided	disease	depression	ERR2319576	20132.0
+ERR2304154	80a809e3a1a5711a	female	adult	60s	87050	Normal	USA	disease	depression	ERR2304154	21563.0
+ERR1250538	8c9ed6a7c0714b29	female	adult	50s	29399	Normal	United Kingdom	HC	depression	ERR1250538	9162.0
+ERR1842337	4ce5edfb989c5beb	female	adult	50s	47665	Normal	United Kingdom	disease	depression	ERR1842337	8306.0
+ERR1845859	daa522cbdf77138b	female	adult	40s	29495	Normal	United Kingdom	HC	depression	ERR1845859	9362.0
+ERR1075018	6e337b98a0a0c71c	female	adult	70+	9394	Overweight	USA	HC	depression	ERR1075018	16963.0
+ERR2303842	c12fc91db285dad4	female	adult	30s	50215	Normal	United Kingdom	disease	depression	ERR2303842	17117.0
+ERR1074814	cb0627b054d86326	female	adult	50s	9193	Normal	USA	HC	depression	ERR1074814	9917.0
+ERR1080236	a5d2940a624ace93	female	adult	50s	20648	Normal	United Kingdom	HC	depression	ERR1080236	9308.0
+ERR1390000	45095aed798a1a00	male	adult	70+	43122	Normal	USA	disease	depression	ERR1390000	18179.0
+ERR1075231	03ee6d9bb40d2816	Not provided	adult	50s	13250	Not provided	USA	HC	depression	ERR1075231	8270.0
+ERR2304122	95a2ab5dc7ce77dc	female	adult	30s	82716	Overweight	USA	disease	depression	ERR2304122	17170.0
+ERR1315904	5df67f2cb3a39a1f	male	adult	30s	30703	Normal	France	HC	depression	ERR1315904	9264.0
+ERR2697794	cd4ed7d99ec30e1e	female	child	teen	93000	Normal	United Kingdom	disease	depression	ERR2697794	13338.0
+ERR1845171	771f1623dfbc8554	female	adult	20s	7313	Normal	USA	HC	depression	ERR1845171	20076.0
+ERR1074850	f28020f524676f8f	male	adult	60s	10121	Normal	USA	HC	depression	ERR1074850	14343.0
+ERR1091378	9c1babcb5d3939e0	female	adult	30s	28206	Not provided	United Kingdom	HC	depression	ERR1091378	41474.0
+ERR2319601	6c7dc3e4af303623	female	adult	50s	71942	Normal	USA	disease	depression	ERR2319601	18696.0
+ERR1845820	8629704e591c2d17	female	adult	40s	23714	Normal	Australia	disease	depression	ERR1845820	8012.0
+ERR1074004	5a539091cdaa2358	male	adult	60s	6752	Normal	USA	HC	depression	ERR1074004	14820.0
+ERR1249670	5578d3a72f28dad2	male	adult	30s	22220	Normal	Australia	HC	depression	ERR1249670	6264.0
+ERR1091685	29e00b8661abb399	male	adult	50s	31085	Normal	USA	HC	depression	ERR1091685	42292.0
+ERR2314359	7148e4f56a321eeb	male	adult	50s	73262	Overweight	USA	disease	depression	ERR2314359	26077.0
+ERR1076862	5bd0b4526b7cc848	male	adult	20s	16488	Overweight	USA	HC	depression	ERR1076862	34896.0
+ERR1074052	1017234b662a0e0b	female	adult	40s	7678	Normal	USA	HC	depression	ERR1074052	9190.0
+ERR2579857	67de9615eed79e90	male	adult	70+	71542	Overweight	United Kingdom	disease	depression	ERR2579857	34598.0
+ERR2579753	ce7806124c0d32a0	female	adult	30s	65517	Underweight	United Kingdom	HC	depression	ERR2579753	23133.0
+ERR1074578	bc6065febe0fddb8	male	adult	60s	9375	Normal	USA	HC	depression	ERR1074578	17057.0
+ERR2032555	4b69350f10b11b1b	female	adult	50s	39554	Normal	USA	disease	depression	ERR2032555	14521.0
+ERR1073960	f10caa3c3073e439	male	adult	50s	6080	Normal	USA	HC	depression	ERR1073960	22317.0
+ERR1458713	57ef50533c2cea21	Not provided		Not provided	17383	Not provided	USA	HC	depression	ERR1458713	5380.0
+ERR2308710	f73b17eb063b0a0d	female		Unspecified	74706	Normal	United Kingdom	HC	depression	ERR2308710	12266.0
+ERR1842911	c1bfb32dac13233f	male	adult	40s	59197	Normal	USA	disease	depression	ERR1842911	4641.0
+ERR2696674	b54c008683be11c8	female	adult	60s	94657	Normal	USA	disease	depression	ERR2696674	14547.0
+ERR1842150	183d0c1b907fb301	female	adult	40s	30366	Normal	United Kingdom	disease	depression	ERR1842150	6104.0
+ERR1854741	d415307f8f91c7bd	male	child	teen	59193	Overweight	USA	HC	depression	ERR1854741	12961.0
+ERR1075479	afedede43f971cdf	female	adult	30s	12275	Normal	USA	HC	depression	ERR1075479	14714.0
+ERR2032410	e1645b31176922db	female	adult	20s	68009	Overweight	USA	HC	depression	ERR2032410	15501.0
+ERR1846081	996094db562e5e4f	female	adult	40s	58320	Overweight	United Kingdom	HC	depression	ERR1846081	13462.0
+ERR2319355	a48ee241d27576e4	female	adult	60s	58692	Normal	Australia	disease	depression	ERR2319355	22932.0
+ERR1389636	10b6c6c6bd095412	female		Not provided	26039	Not provided	USA	HC	depression	ERR1389636	11558.0
+ERR1389998	de02102e7d1d6482	female	adult	40s	43117	Normal	USA	HC	depression	ERR1389998	17586.0
+ERR2318301	acf556c399f9585a	male	adult	60s	73890	Normal	USA	HC	depression	ERR2318301	24829.0
+ERR2303949	a15357b787c58472	male	adult	40s	69230	Normal	Unspecified	disease	depression	ERR2303949	15392.0
+ERR2032443	547af9a9c12019e6	female	adult	20s	69607	Normal	USA	disease	depression	ERR2032443	12738.0
+ERR2314208	e9993e92f98ba50d	female	adult	20s	68622	Normal	United Kingdom	disease	depression	ERR2314208	20180.0
+ERR2523931	add43493368149a5	female	adult	50s	75900	Normal	United Kingdom	disease	depression	ERR2523931	9059.0
+ERR1249900	0df5d60149d2d080	female	adult	70+	31088	Normal	USA	HC	depression	ERR1249900	10886.0
+ERR2319529	7bb5e6c61b4fcc2b	female	adult	40s	69615	Normal	USA	disease	depression	ERR2319529	14392.0
+ERR2091849	29ae4de7d48f7a3a	female	adult	40s	33153	Normal	United Kingdom	HC	depression	ERR2091849	17393.0
+ERR1846187	4fbb40b42e5395ef	male	adult	30s	63039	Normal	USA	HC	depression	ERR1846187	12954.0
+ERR2032925	aa77badb575ab70e	female	adult	30s	66594	Normal	USA	disease	depression	ERR2032925	22818.0
+ERR1389841	2e0bf6b956cd28fe	female	adult	50s	38328	Normal	United Kingdom	HC	depression	ERR1389841	14275.0
+ERR2057078	e7a5e8c02243a289	female	adult	30s	68293	Overweight	USA	disease	depression	ERR2057078	16040.0
+ERR2523951	ad53d3b5307fd7e9	female	adult	30s	76468	Normal	United Kingdom	HC	depression	ERR2523951	16465.0
+ERR1073844	856b184823984b3c	male	adult	50s	4650	Normal	USA	HC	depression	ERR1073844	13833.0
+ERR2314244	14e5265a97e193d8	female	adult	50s	69409	Normal	USA	disease	depression	ERR2314244	24440.0
+ERR2696573	d44417cafc3e605e	female	adult	60s	92688	Normal	United Kingdom	disease	depression	ERR2696573	32804.0
+ERR1842376	49c985fed383b299	female	adult	20s	49955	Overweight	United Kingdom	HC	depression	ERR1842376	7435.0
+ERR1678480	9510313f77968b77	female	adult	60s	52051	Normal	USA	HC	depression	ERR1678480	10850.0
+ERR1075958	faa73e5b944490da	Not provided	adult	20s	14344	Underweight	USA	HC	depression	ERR1075958	13765.0
+ERR2696692	b28b471ba9532ced	male	adult	30s	97190	Normal	United Kingdom	disease	depression	ERR2696692	20117.0
+ERR1846007	078faa8f57a051f3	female	adult	30s	49950	Normal	United Kingdom	disease	depression	ERR1846007	10159.0
+ERR1075105	831da3e088295b3c	Not provided	adult	60s	12066	Normal	USA	HC	depression	ERR1075105	13641.0
+ERR2579689	b9150884f05ef58b	male	adult	30s	52471	Overweight	USA	disease	depression	ERR2579689	5139.0
+ERR1842237	b275f830c49b8eb7	female	adult	30s	42701	Normal	United Kingdom	disease	depression	ERR1842237	6407.0
+ERR2092055	7d7bc088d5ce5800	male	adult	30s	66896	Overweight	USA	HC	depression	ERR2092055	17013.0
+ERR1076823	af61c5ba81380d9d	female	adult	50s	15591	Not provided	USA	HC	depression	ERR1076823	10115.0
+ERR2697914	8fb96ee444881305	female	adult	40s	97688	Normal	United Kingdom	disease	depression	ERR2697914	14378.0
+ERR2314094	c48ecd6efa956b11	male	adult	50s	62184	Normal	United Kingdom	HC	depression	ERR2314094	24465.0
+ERR2314090	0a9624c482d02368	female	adult	50s	60239	Overweight	United Kingdom	disease	depression	ERR2314090	22567.0
+ERR2696494	cd734dc04577432e	male	adult	30s	76350	Normal	Switzerland	disease	depression	ERR2696494	28889.0
+ERR2697620	147e1d74ec350dfc	female	adult	30s	75998	Overweight	United Kingdom	HC	depression	ERR2697620	17244.0
+ERR1842399	6d936bbcf10c38b0	male	adult	40s	50228	Overweight	United Kingdom	HC	depression	ERR1842399	4447.0
+ERR2032418	f964d18544ffe6d6	female	adult	30s	68073	Normal	USA	disease	depression	ERR2032418	11722.0
+ERR1076706	5f83c7e0db85fc75	male	adult	40s	14682	Normal	Canada	HC	depression	ERR1076706	22377.0
+ERR2697967	147528165423139b	male	adult	50s	97839	Normal	United Kingdom	disease	depression	ERR2697967	11460.0
+ERR2032753	61352ea5dfb5aa34	female	adult	30s	58845	Normal	United Kingdom	disease	depression	ERR2032753	14535.0
+ERR2057228	31b9804c97b82a3b	female	adult	30s	71937	Normal	USA	disease	depression	ERR2057228	19001.0
+ERR1080178	9583ebfe121c94f7	male	adult	60s	20446	Normal	United Kingdom	HC	depression	ERR1080178	4094.0
+ERR2091892	42071a3cc08cfdb5	male	adult	30s	41645	Normal	United Kingdom	disease	depression	ERR2091892	21243.0
+ERR1846041	8f0094de9313fffc	male	adult	40s	52275	Normal	USA	disease	depression	ERR1846041	8348.0
+ERR2308512	7530cb7a947128b9	female	adult	40s	13623	Normal	USA	disease	depression	ERR2308512	30951.0
+ERR1075605	28ad51e65a217fc1	female	adult	40s	1903	Normal	Canada	HC	depression	ERR1075605	11154.0
+ERR1075976	0bd4223c6a310758	female	adult	60s	14481	Normal	USA	HC	depression	ERR1075976	14107.0
+ERR2304008	f390072f0387af63	female	adult	30s	72386	Normal	USA	disease	depression	ERR2304008	18983.0
+ERR1597066	30d11be716d546bf	female	adult	50s	42776	Normal	United Kingdom	disease	depression	ERR1597066	9974.0
+ERR1073973	9659725552df53e4	female	adult	30s	6636	Normal	USA	HC	depression	ERR1073973	11682.0
+ERR2303806	afa6a8c15b0efe33	male	adult	60s	22229	Overweight	Australia	disease	depression	ERR2303806	15758.0
+ERR2579406	b2c452492c41e68a	male	adult	30s	76679	Normal	United Kingdom	HC	depression	ERR2579406	25537.0
+ERR1389865	87ea442c817a8b43	female	adult	30s	39982	Normal	USA	disease	depression	ERR1389865	13988.0
+ERR2318033	10715436c866656b	female	adult	60s	53372	Normal	United Kingdom	disease	depression	ERR2318033	34239.0
+ERR1073716	f32fe486c51df8bf	Not provided	adult	60s	1862	Normal	USA	HC	depression	ERR1073716	11739.0
+ERR2319410	70802413f5f6dfd5	female	adult	40s	66521	Normal	USA	HC	depression	ERR2319410	29924.0
+ERR1080141	f5b1e2349744e8de	female	adult	60s	20096	Normal	USA	HC	depression	ERR1080141	7648.0
+ERR1845980	f079695f7cb1d902	female	adult	60s	44283	Overweight	USA	disease	depression	ERR1845980	9245.0
+ERR1076665	e6dc76d757d62f87	male	adult	40s	12925	Not provided	USA	HC	depression	ERR1076665	14971.0
+ERR2697745	bffa8d53e4ee85ff	male	adult	30s	92816	Normal	United Kingdom	disease	depression	ERR2697745	15732.0
+ERR1458737	85c0a7c148c4ec1c	male	adult	60s	23663	Normal	Australia	HC	depression	ERR1458737	9042.0
+ERR1075872	895fd7bbea26a385	male	adult	70+	13953	Normal	USA	HC	depression	ERR1075872	7539.0
+ERR2318014	9448c1ddd97a52ac	unspecified	adult	50s	40375	Overweight	USA	disease	depression	ERR2318014	21443.0
+ERR1846053	b00ffd71ba57ab4e	male	adult	60s	53362	Normal	United Kingdom	HC	depression	ERR1846053	8397.0
+ERR2033467	7ba51be637ff7aea	male	adult	20s	68167	Normal	USA	disease	depression	ERR2033467	14260.0
+ERR1389751	c8a2192d4957d4d1	male	adult	20s	37584	Normal	USA	HC	depression	ERR1389751	4772.0
+ERR1073839	b6fa58ec24622106	female	adult	60s	4613	Normal	USA	HC	depression	ERR1073839	16542.0
+ERR2314177	91cadb4f93457a61	female	adult	30s	66899	Normal	USA	disease	depression	ERR2314177	36528.0
+ERR1458888	c930e45463dec6ef	male	adult	50s	36935	Overweight	USA	HC	depression	ERR1458888	10366.0
+ERR2405326	95646d832bb31add	female	adult	30s	87668	Normal	USA	HC	depression	ERR2405326	9853.0
+ERR1074401	e554c65c90d5bb18	female	adult	60s	6044	Normal	USA	HC	depression	ERR1074401	10694.0
+ERR1842260	693abbccf0a50109	female	adult	20s	46121	Normal	Canada	disease	depression	ERR1842260	7744.0
+ERR2091854	6ee4032d2425da68	male	adult	30s	34178	Overweight	USA	HC	depression	ERR2091854	9589.0
+ERR2524179	8dcf994597a96f50	female	adult	60s	90095	Normal	USA	disease	depression	ERR2524179	5549.0
+ERR1316038	8eb793548b146197	female	adult	50s	38417	Overweight	USA	HC	depression	ERR1316038	8444.0
+ERR1596999	5a4c673822297998	female	adult	50s	32657	Normal	United Kingdom	disease	depression	ERR1596999	6912.0
+ERR2309418	092c425c9313cf6f	male	child	teen	79448	Normal	USA	HC	depression	ERR2309418	30151.0
+ERR2404960	504092b7b8eddc5f	male	adult	50s	72087	Normal	USA	disease	depression	ERR2404960	8047.0
+ERR1845745	1f79e243741125f4	Not provided		Not provided	17389	Not provided	USA	HC	depression	ERR1845745	9200.0
+ERR1074207	1d75dd7c0e96a3b8	male	adult	30s	2201	Normal	USA	HC	depression	ERR1074207	13957.0
+ERR2309322	2ec0ae2f25d65495	female	adult	30s	71532	Unspecified	United Kingdom	disease	depression	ERR2309322	23718.0
+ERR1458895	c5b6a6221c39ccf3	male	adult	60s	37511	Normal	USA	HC	depression	ERR1458895	8375.0
+ERR2698052	5a37a129f217f5f8	male	adult	40s	101035	Normal	USA	HC	depression	ERR2698052	13661.0
+ERR1842366	41cc22dcc92378a8	male		Not provided	48326	Not provided	United Kingdom	disease	depression	ERR1842366	4784.0
+ERR1075119	91c02c7c40829268	Not provided	adult	30s	12148	Overweight	USA	HC	depression	ERR1075119	14749.0
+ERR2318061	4be8cfa90bed758e	female	adult	60s	59994	Overweight	United Kingdom	disease	depression	ERR2318061	26352.0
+ERR1842596	c7fb12c09590ce69	female	adult	70+	54321	Overweight	USA	HC	depression	ERR1842596	9332.0
+ERR2318066	0cc642f2b922bfbf	female	adult	50s	60041	Normal	United Kingdom	disease	depression	ERR2318066	25768.0
+ERR1079995	79177f95556fad44	male	adult	30s	14954	Normal	USA	HC	depression	ERR1079995	4962.0
+ERR1077114	53bb35eb02b80cb4	male	adult	30s	67733	Overweight	USA	HC	depression	ERR1077114	5050.0
+ERR1389858	651348962bb989e3	male	adult	40s	39813	Normal	USA	HC	depression	ERR1389858	13345.0
+ERR1075048	1c3a0c28db095253	female	adult	60s	10976	Normal	USA	HC	depression	ERR1075048	16993.0
+ERR1845798	51c5c8f9ee873438	male	adult	70+	23578	Overweight	Australia	disease	depression	ERR1845798	11159.0
+ERR1076849	42dab7c02f4f7b87	female	adult	40s	16334	Normal	USA	HC	depression	ERR1076849	30880.0
+ERR2404984	4890ee41ce613919	male	adult	30s	73920	Overweight	USA	HC	depression	ERR2404984	10269.0
+ERR1074852	a67ac52be84c5b6d	male	adult	50s	10136	Overweight	USA	HC	depression	ERR1074852	15790.0
+ERR2092112	4b6444cc731f9113	female	child	teen	69479	Normal	USA	HC	depression	ERR2092112	16819.0
+ERR2319301	3d0536381022bcda	female	adult	70+	39655	Normal	USA	disease	depression	ERR2319301	14123.0
+ERR2309378	ec740f7560be5433	female	adult	60s	74673	Normal	United Kingdom	disease	depression	ERR2309378	40920.0
+ERR2697858	3321f963201e22c0	female	adult	40s	97328	Normal	United Kingdom	disease	depression	ERR2697858	14628.0
+ERR2032522	9494c01d9b2c20d8	male	adult	40s	33170	Normal	United Kingdom	HC	depression	ERR2032522	24425.0
+ERR1843636	51aa77d8734f5161	female	adult	60s	42819	Normal	United Kingdom	HC	depression	ERR1843636	10031.0
+ERR1076832	8ba662f127c54eee	female	adult	30s	15867	Normal	USA	HC	depression	ERR1076832	20069.0
+ERR2308890	3e56996483ada29d	male	adult	40s	84458	Normal	USA	disease	depression	ERR2308890	13231.0
+ERR2697622	a90ebd182dc29731	female	adult	30s	76003	Normal	United Kingdom	HC	depression	ERR2697622	16117.0
+ERR2697920	389bf821aadedab5	female		Unspecified	97698	Unspecified	United Kingdom	disease	depression	ERR2697920	11941.0
+ERR1845834	aba66969a97aeb26	female	adult	60s	23886	Normal	USA	disease	depression	ERR1845834	7983.0
+ERR1074210	f7eb19b6de0f76df	female	adult	50s	2282	Overweight	USA	HC	depression	ERR1074210	20474.0
+ERR1075091	2f4a8757765d2d9e	female	adult	50s	12004	Normal	USA	HC	depression	ERR1075091	24766.0
+ERR2092186	72390e224fcda248	female	adult	30s	67505	Normal	USA	HC	depression	ERR2092186	9867.0
+ERR1854663	dd5306885d923ebc	Not provided		Not provided	17375	Not provided	USA	HC	depression	ERR1854663	24323.0
+ERR1074290	ca0addeaff6b3bdf	female	adult	50s	3730	Normal	USA	HC	depression	ERR1074290	12475.0
+ERR2092468	b96077163a753c16	male	adult	20s	69294	Normal	USA	HC	depression	ERR2092468	7398.0
+ERR2697827	119427f18ff9e56f	female	adult	40s	97213	Normal	United Kingdom	HC	depression	ERR2697827	9468.0
+ERR2698037	c77a8cd004118203	male	adult	30s	100343	Normal	USA	HC	depression	ERR2698037	13705.0
+ERR2304118	a18aec11c6bf6b56	male	adult	30s	82698	Normal	USA	disease	depression	ERR2304118	25116.0
+ERR2313983	2b0d6082924ed00e	male	adult	20s	40070	Normal	USA	disease	depression	ERR2313983	29310.0
+ERR1074150	bf3caebdad5e6e4a	Not provided	adult	30s	1120	Overweight	USA	HC	depression	ERR1074150	15290.0
+ERR1458848	a60d7c6923f8e53c	female	adult	30s	33576	Overweight	United Kingdom	disease	depression	ERR1458848	10063.0
+ERR1073675	18f8331f0fd42857	male	adult	60s	6789	Overweight	USA	HC	depression	ERR1073675	31150.0
+ERR2318164	a4934d2b05b5a621	female	adult	20s	68727	Underweight	United Kingdom	disease	depression	ERR2318164	25554.0
+ERR2698035	1a74e38d54e5fa07	female	adult	20s	99277	Normal	USA	disease	depression	ERR2698035	6192.0
+ERR2318186	62f3dadc4daeb625	female	adult	30s	69879	Normal	USA	HC	depression	ERR2318186	22063.0
+ERR1249881	3f95248014464da4	female	adult	20s	30760	Overweight	USA	HC	depression	ERR1249881	12076.0
+ERR1250098	abebe0f69a13a766	female	adult	20s	36926	Underweight	USA	HC	depression	ERR1250098	10975.0
+ERR2309422	2d8e2f425aca38f7	female	child	teen	79453	Normal	USA	disease	depression	ERR2309422	38762.0
+ERR1459092	37b5ccde0dbb3f89	male	adult	30s	43169	Normal	USA	disease	depression	ERR1459092	7018.0
+ERR2303875	ab7f5838e628c3e8	female	adult	30s	62301	Normal	Australia	disease	depression	ERR2303875	21059.0
+ERR1315832	dff099e0e7a8c855	female	adult	60s	26417	Normal	USA	disease	depression	ERR1315832	7218.0
+ERR2033622	fa368c39e011aa41	female	adult	60s	69211	Normal	USA	HC	depression	ERR2033622	8505.0
+ERR1075062	276c3c2e02be97d0	female	adult	60s	11204	Normal	USA	HC	depression	ERR1075062	12494.0
+ERR1842374	e110f1044f1872f2	male	adult	50s	49934	Normal	USA	disease	depression	ERR1842374	5913.0
+ERR2319446	44c93d3953c868dd	male	adult	30s	67893	Overweight	USA	HC	depression	ERR2319446	20898.0
+ERR1074439	b17772838498be30	male	adult	20s	6929	Normal	USA	HC	depression	ERR1074439	16015.0
+ERR2314162	b4f2e7cb57ead029	male	adult	30s	66693	Normal	United Kingdom	HC	depression	ERR2314162	19654.0
+ERR2092069	05f828835f7990cd	female	adult	30s	68288	Normal	USA	disease	depression	ERR2092069	18331.0
+ERR1389669	dfcfb078252ef8c0	female	adult	50s	30508	Overweight	United Kingdom	disease	depression	ERR1389669	15383.0
+ERR1854666	f3ea78ec7fc5ccd4	female	adult	50s	23903	Overweight	USA	disease	depression	ERR1854666	11349.0
+ERR1074624	cda1f4186b748c17	Not provided	adult	60s	9626	Normal	USA	HC	depression	ERR1074624	15222.0
+ERR1080114	a9fa45e40ff75e0a	female	adult	40s	18419	Normal	USA	HC	depression	ERR1080114	12410.0
+ERR2091997	d87e75ef256ddee6	female	adult	50s	60011	Normal	United Kingdom	disease	depression	ERR2091997	22613.0
+ERR2697950	149367ed9528dba3	female	adult	60s	97778	Normal	United Kingdom	HC	depression	ERR2697950	14267.0
+ERR2308554	0b421116a0f8401a	female	adult	40s	58413	Normal	United Kingdom	disease	depression	ERR2308554	12185.0
+ERR2032194	1499bd8a77a63f77	female	adult	60s	60028	Underweight	United Kingdom	disease	depression	ERR2032194	15164.0
+ERR2304060	cdb520d8299fc778	female	adult	50s	74613	Normal	United Kingdom	HC	depression	ERR2304060	24961.0
+ERR2579866	4677b90fd3487540	male	adult	40s	71896	Normal	USA	HC	depression	ERR2579866	19354.0
+ERR1075070	d971fd154b39e7e3	Not provided	adult	60s	11300	Normal	USA	HC	depression	ERR1075070	51285.0
+ERR2313988	b0e5a1c7f7b0cf75	male	adult	20s	41167	Normal	USA	HC	depression	ERR2313988	33165.0
+ERR1842131	d7caab27a4eac1a2	male	adult	40s	26048	Normal	USA	disease	depression	ERR1842131	6541.0
+ERR2308834	3f61b5adf666f23b	female	adult	70+	84304	Overweight	USA	HC	depression	ERR2308834	20003.0
+ERR1074601	f603a874ac5b0dfc	Not provided	adult	50s	9496	Normal	USA	HC	depression	ERR1074601	20226.0
+ERR2092090	e73b443aadccb26a	male	adult	60s	69164	Normal	USA	disease	depression	ERR2092090	17335.0
+ERR2696484	3b3a0208db338ed9	female	adult	40s	75981	Normal	United Kingdom	disease	depression	ERR2696484	22055.0
+ERR2092246	7383b7a9ceabf003	female	adult	30s	67673	Normal	USA	disease	depression	ERR2092246	25557.0
+ERR1845942	e34e02d31dba6e46	female	adult	60s	39570	Overweight	USA	disease	depression	ERR1845942	7366.0
+ERR1091375	4819c8dc5b659e5f	male	adult	60s	28187	Overweight	United Kingdom	HC	depression	ERR1091375	53846.0
+ERR1842409	d5c9ee681d48f772	female	adult	50s	50257	Normal	United Kingdom	disease	depression	ERR1842409	11508.0
+ERR1842439	93c656a92456f6df	male	adult	40s	51111	Normal	USA	HC	depression	ERR1842439	5052.0
+ERR1846215	1b9227e0aa4b3d01	female	adult	30s	65309	Not provided	USA	HC	depression	ERR1846215	6034.0
+ERR1080012	14594d9a5d76a3b3	female	adult	60s	15548	Normal	USA	HC	depression	ERR1080012	6186.0
+ERR1597083	ad7efce1bf3ea6b1	female	adult	20s	43090	Overweight	USA	disease	depression	ERR1597083	5164.0
+ERR2405348	306b8f9e8b8bf6f6	unspecified	adult	40s	89505	Normal	USA	disease	depression	ERR2405348	22717.0
+ERR1074770	46bc3efe184e2130	male		Not provided	4282	Normal	USA	HC	depression	ERR1074770	12234.0
+ERR2308780	557a1d40b866a4e0	male	adult	40s	82683	Unspecified	USA	HC	depression	ERR2308780	25968.0
+ERR2303840	dc1cef5d034fe73f	male	adult	40s	50209	Overweight	United Kingdom	disease	depression	ERR2303840	18402.0
+ERR1073560	f121113940ecf98d	female	adult	20s	4854	Normal	USA	HC	depression	ERR1073560	23211.0
+ERR2698038	ce7307cef2f0047b	female	adult	60s	100344	Normal	USA	HC	depression	ERR2698038	18544.0
+ERR1678451	2c434d8e1ffc94a6	other	adult	20s	48948	Normal	USA	disease	depression	ERR1678451	13796.0
+ERR1846181	f115e63a22eedce9	male	adult	30s	63023	Normal	USA	disease	depression	ERR1846181	14590.0
+ERR2697938	521b456c62d97669	male	adult	50s	97739	Overweight	United Kingdom	disease	depression	ERR2697938	16595.0
+ERR2405010	ee96ec0e6c1873d0	female	adult	50s	76292	Normal	United Kingdom	HC	depression	ERR2405010	10226.0
+ERR1091684	4bee522ffb728934	male	adult	50s	31073	Normal	USA	HC	depression	ERR1091684	51609.0
+ERR1074777	4a457e3b2d22e50e	male	adult	20s	4289	Normal	USA	HC	depression	ERR1074777	17987.0
+ERR1091359	d5cf510c4655727a	Not provided		Not provided	27927	Not provided	USA	HC	depression	ERR1091359	15995.0
+ERR2314322	2f032b684b29dc09	male	adult	40s	71973	Normal	USA	HC	depression	ERR2314322	27285.0
+ERR2696543	8a358758b94bc5a9	male		Unspecified	90053	Normal	USA	disease	depression	ERR2696543	22510.0
+ERR2303924	7bebd4eceb3b85fb	male	adult	50s	67213	Normal	Australia	disease	depression	ERR2303924	16509.0
+ERR1075127	0e8fbcca297d4a3a	Not provided	adult	70+	12199	Normal	USA	HC	depression	ERR1075127	11360.0
+ERR2697734	03fd5cc250c0118b	female	adult	50s	92775	Overweight	United Kingdom	HC	depression	ERR2697734	11317.0
+ERR1073956	17c029e38b458aa8	male	adult	70+	6064	Overweight	USA	HC	depression	ERR1073956	16186.0
+ERR1080282	da481a4b89830086	male	adult	50s	21163	Normal	USA	HC	depression	ERR1080282	6094.0
+ERR1075937	47df16d57a528fae	male	adult	50s	14290	Normal	USA	HC	depression	ERR1075937	10129.0
+ERR1389836	64c8f529f861d5d0	female	adult	40s	38305	Overweight	United Kingdom	disease	depression	ERR1389836	10883.0
+ERR1074335	1fec2845931898a7	male	adult	40s	14798	Overweight	USA	HC	depression	ERR1074335	14417.0
+ERR1845893	80d77d0d63af5e34	male	adult	40s	33339	Normal	United Kingdom	disease	depression	ERR1845893	6197.0
+ERR2696544	ae4fafa5d1b355ea	female	adult	30s	90056	Normal	USA	disease	depression	ERR2696544	21575.0
+ERR2524181	184fa334ff3374b3	male	adult	20s	90109	Normal	USA	disease	depression	ERR2524181	10171.0
+ERR1842558	02508567790b1a3a	female	adult	30s	53429	Normal	United Kingdom	disease	depression	ERR1842558	7302.0
+ERR2696506	c56d999179a0dbc3	male	adult	40s	76395	Overweight	United Kingdom	HC	depression	ERR2696506	25152.0
+ERR2319274	709672cd90d0c9ec	female	adult	40s	23700	Normal	Australia	disease	depression	ERR2319274	23599.0
+ERR2579389	7cca7efbacccd898	female	adult	50s	58395	Unspecified	United Kingdom	disease	depression	ERR2579389	24049.0
+ERR2697912	962a278b1bc87c0f	male	adult	40s	97686	Overweight	United Kingdom	disease	depression	ERR2697912	14895.0
+ERR1842497	f43e300e1adcdfbf	female	adult	30s	52369	Normal	USA	disease	depression	ERR1842497	7628.0
+ERR1842629	a0bf403ebdc500e2	female		Not provided	62076	Not provided	USA	HC	depression	ERR1842629	10075.0
+ERR1389717	61eac8ed9db1263e	male		Not provided	33471	Not provided	United Kingdom	HC	depression	ERR1389717	16653.0
+ERR2580055	8cf2de9a4ca456b1	female	adult	40s	73893	Normal	USA	HC	depression	ERR2580055	16591.0
+ERR1846156	8c35763ad7d6957f	male	adult	20s	60331	Normal	Germany	disease	depression	ERR1846156	11771.0
+ERR2579552	4ddd39ee5c48ddba	female	adult	50s	93399	Normal	USA	disease	depression	ERR2579552	21551.0
+ERR1073678	31eb6b8998e94ef0	female	adult	60s	6808	Normal	USA	HC	depression	ERR1073678	29891.0
+ERR2697976	4eb5a3ec48dda3b5	female	adult	50s	97975	Normal	United Kingdom	HC	depression	ERR2697976	14962.0
+ERR2405217	a9655ea94256068d	female	adult	30s	83053	Normal	USA	disease	depression	ERR2405217	9059.0
+ERR2032400	9f1d2980afc4e39d	female	adult	20s	67949	Normal	USA	HC	depression	ERR2032400	12949.0
+ERR2308644	4552b1a7b788a456	female	adult	30s	72067	Normal	USA	disease	depression	ERR2308644	33178.0
+ERR2696524	7657c8d80a1b003a	female	adult	40s	89336	Normal	United Kingdom	HC	depression	ERR2696524	17083.0
+ERR2405106	4f498b6c12256076	female	adult	30s	82744	Normal	USA	HC	depression	ERR2405106	8820.0
+ERR1080108	7ff7be6c9e9a15a7	male	adult	20s	18408	Normal	USA	HC	depression	ERR1080108	4684.0
+ERR1846152	d5deff53cc1a6830	male	adult	50s	60314	Overweight	United Kingdom	disease	depression	ERR1846152	13015.0
+ERR2308904	412bf5ade87849db	female		Unspecified	84519	Overweight	USA	disease	depression	ERR2308904	14484.0
+ERR1075499	a015116c61db8b56	female	adult	60s	13689	Underweight	USA	HC	depression	ERR1075499	8939.0
+ERR1074888	e621993e35486d1c	male	adult	40s	10880	Normal	USA	HC	depression	ERR1074888	20333.0
+ERR1073941	d1377a2ccab8196c	male	adult	30s	5983	Overweight	USA	HC	depression	ERR1073941	10763.0
+ERR2057214	35eff932e8efb576	female	adult	30s	71388	Overweight	USA	disease	depression	ERR2057214	12988.0
+ERR1842115	95f9e4fb0ad59018	female	adult	30s	2929	Normal	USA	disease	depression	ERR1842115	9501.0
+ERR1389670	bfc23d064a8f9edb	male	adult	40s	30529	Overweight	Switzerland	HC	depression	ERR1389670	18197.0
+ERR2092581	e585a75f79d61177	female	adult	40s	7389	Overweight	USA	HC	depression	ERR2092581	13404.0
+ERR2697715	54ad2733bd02e3e2	female	adult	70+	92689	Normal	United Kingdom	disease	depression	ERR2697715	8460.0
+ERR2313941	8a233b89d98ee484	male	adult	30s	2224	Normal	USA	disease	depression	ERR2313941	24791.0
+ERR2579802	4e018b74f0ee7ca3	female	adult	20s	69678	Normal	USA	HC	depression	ERR2579802	12911.0
+ERR2579386	c358b0ae956137a1	male	adult	30s	52015	Normal	Canada	disease	depression	ERR2579386	20224.0
+ERR1389734	c1ce72a7ffb83308	male	adult	20s	34192	Normal	USA	HC	depression	ERR1389734	17500.0
+ERR2092448	5a9984c99cef27c5	female	adult	40s	68145	Overweight	USA	disease	depression	ERR2092448	14102.0
+ERR2319587	44f65e8881d1c263	female	child	teen	71435	Normal	USA	HC	depression	ERR2319587	24000.0
+ERR2404961	969438b74d3a84a3	male	adult	50s	72088	Overweight	Canada	HC	depression	ERR2404961	20410.0
+ERR2319437	5800b9cfb7a6e055	female	adult	40s	67693	Normal	USA	disease	depression	ERR2319437	22394.0
+ERR1074614	367774c2affb4d41	female	adult	70+	9580	Overweight	USA	HC	depression	ERR1074614	16803.0
+ERR2579548	a6513b6620fbfb42	female	adult	40s	93114	Normal	USA	disease	depression	ERR2579548	22546.0
+ERR2092049	c492625cb3680ba9	female	child	teen	66648	Normal	United Kingdom	disease	depression	ERR2092049	16995.0
+ERR1075242	25c49bdc2981e19d	female	adult	30s	13301	Overweight	USA	HC	depression	ERR1075242	26681.0
+ERR1076670	a628c3ebdd9eeb43	male	adult	30s	13053	Normal	USA	HC	depression	ERR1076670	17912.0
+ERR1845255	0d7cceb1c7a5b508	female	adult	30s	7368	Normal	USA	HC	depression	ERR1845255	22486.0
+ERR2308762	daee6900bece0893	male	adult	40s	82548	Overweight	USA	disease	depression	ERR2308762	32394.0
+ERR1250024	cf09a6590865f817	female	adult	50s	36116	Overweight	USA	HC	depression	ERR1250024	12532.0
+ERR2318078	eb7dd5db96af75a0	male	adult	30s	59931	Normal	United Kingdom	disease	depression	ERR2318078	20683.0
+ERR2405076	22851537632cd00b	female	adult	30s	79056	Normal	United Kingdom	disease	depression	ERR2405076	14266.0
+ERR2304091	6db0517cf9a0ec74	female	adult	30s	79781	Normal	USA	disease	depression	ERR2304091	13008.0
+ERR2313977	ee8773e640223523	female	adult	50s	39738	Overweight	USA	disease	depression	ERR2313977	18021.0
+ERR2405031	797c1c050303af31	male	adult	30s	76466	Normal	United Kingdom	disease	depression	ERR2405031	8802.0
+ERR2698009	27408fa70f2dcda5	female	adult	20s	98786	Normal	United Kingdom	disease	depression	ERR2698009	20997.0
+ERR2405296	d7c9da2ee68cd072	female	adult	60s	87270	Normal	USA	HC	depression	ERR2405296	11563.0
+ERR2032462	6c288b699619bf23	female	adult	40s	1586	Underweight	USA	disease	depression	ERR2032462	32076.0
+ERR1546062	d9958cc21a4ec5f7	female	adult	50s	51986	Normal	USA	disease	depression	ERR1546062	24029.0
+ERR2091955	59fde1661db7ab62	female	adult	30s	58833	Normal	Germany	disease	depression	ERR2091955	11577.0
+ERR2033212	6059c6137a0defb0	male	adult	60s	39677	Overweight	USA	disease	depression	ERR2033212	12309.0
+ERR2092635	5e8c08e4c78a6b7e	female	adult	30s	7516	Overweight	USA	HC	depression	ERR2092635	20140.0
+ERR1389881	76ede0e9de1f97dd	female	adult	30s	40057	Underweight	USA	disease	depression	ERR1389881	10965.0
+ERR2092469	a05539d31e4efb0a	male	adult	20s	69295	Normal	USA	disease	depression	ERR2092469	16392.0
+ERR2318300	9b57bb6f07ccc071	male	adult	40s	73888	Normal	USA	HC	depression	ERR2318300	23804.0
+ERR1233457	28472a7afea8bd31	male	adult	30s	67717	Overweight	USA	disease	depression	ERR1233457	54964.0
+ERR1458876	510a82e3385e2d6e	female	adult	20s	36401	Normal	USA	HC	depression	ERR1458876	14451.0
+ERR2697623	e5aac9da23d64bc7	unspecified		Unspecified	76006	Unspecified	United Kingdom	HC	depression	ERR2697623	11381.0
+ERR1075649	a455332da75d2805	female	adult	30s	7006	Normal	USA	HC	depression	ERR1075649	10330.0
+ERR1842798	907807be7bb665f5	male	adult	60s	50190	Normal	United Kingdom	disease	depression	ERR1842798	5055.0
+ERR1842308	61190f4fd9bd050e	male	adult	70+	47230	Normal	United Kingdom	HC	depression	ERR1842308	4134.0
+ERR1073882	7a93f296783f28da	female	adult	30s	5020	Normal	USA	HC	depression	ERR1073882	19746.0
+ERR1073843	8033bbdd931555b6	Not provided	adult	40s	4645	Not provided	USA	HC	depression	ERR1073843	18691.0
+ERR2308918	b6ccc0232bb6900c	male	adult	60s	84591	Overweight	USA	HC	depression	ERR2308918	17046.0
+ERR1073981	f1ac9bb31c1d229d	male	adult	40s	6665	Normal	USA	HC	depression	ERR1073981	22206.0
+ERR2587851	111a4c1e3b66507c	female	adult	20s	47843	Normal	USA	HC	depression	ERR2587851	22809.0
+ERR1073232	6e6857ed18796bb6	male	adult	40s	3372	Normal	USA	HC	depression	ERR1073232	26654.0
+ERR1075111	13c8094108c43cb6	male	adult	50s	12092	Normal	USA	HC	depression	ERR1075111	16061.0
+ERR1075651	8b994dd0b1769ce8	male	adult	60s	7023	Normal	USA	HC	depression	ERR1075651	10594.0
+ERR2091839	74ca2822295c4ece	female	adult	40s	29424	Normal	United Kingdom	disease	depression	ERR2091839	23379.0
+ERR2091929	c236caef75bc3707	male	adult	40s	54195	Normal	France	HC	depression	ERR2091929	17738.0
+ERR1389833	0cd224da432add8e	female	adult	40s	38286	Normal	United Kingdom	HC	depression	ERR1389833	17497.0
+ERR1075504	8c8d9b1c3cc3639b	male	adult	70+	13786	Overweight	USA	HC	depression	ERR1075504	11382.0
+ERR2579505	5835705249c5738f	male	adult	30s	91061	Overweight	USA	disease	depression	ERR2579505	19798.0
+ERR2314095	ecd46a7d5caa8ba0	female	adult	40s	62185	Normal	United Kingdom	HC	depression	ERR2314095	23663.0
+ERR2697907	642610a077cc95d2	male	adult	30s	97673	Normal	United Kingdom	disease	depression	ERR2697907	15135.0
+ERR1845243	286031c974fe1822	female	adult	30s	7504	Normal	Canada	HC	depression	ERR1845243	17309.0
+ERR1845908	eebfcb742f5ad029	female		Not provided	36888	Not provided	USA	disease	depression	ERR1845908	9490.0
+ERR2057001	51c1584f9dda92a6	male	adult	60s	65524	Normal	United Kingdom	disease	depression	ERR2057001	15114.0
+ERR1074237	cbabdf4f7fef5dd4	male	adult	60s	2772	Overweight	USA	HC	depression	ERR1074237	10571.0
+ERR1075864	551f30055a065667	male	adult	60s	13925	Normal	USA	HC	depression	ERR1075864	21478.0
+ERR2032949	545125e63fdb08e1	male	adult	60s	68377	Normal	USA	HC	depression	ERR2032949	24604.0
+ERR1080119	924bbe27638ea735	female	adult	50s	18439	Overweight	USA	HC	depression	ERR1080119	6065.0
+ERR2524198	f04477928bbfe451	male	adult	70+	90992	Normal	USA	disease	depression	ERR2524198	8443.0
+ERR2032346	e9cf50e5cc6a2949	male	adult	30s	67749	Normal	USA	disease	depression	ERR2032346	16148.0
+ERR2579501	fcf6e02e54e44e0f	female	adult	30s	91057	Overweight	USA	HC	depression	ERR2579501	19562.0
+ERR1845383	b2ef5da0f44bcd9f	female	adult	40s	15771	Overweight	USA	HC	depression	ERR1845383	19609.0
+ERR1073939	73c18a299430b941	female	adult	40s	5971	Normal	USA	HC	depression	ERR1073939	12104.0
+ERR1316028	4bc310f71cc6951a	male	adult	20s	37594	Normal	USA	HC	depression	ERR1316028	12374.0
+ERR1842230	467a14339dba1ead	male	adult	20s	42549	Normal	USA	HC	depression	ERR1842230	9848.0
+ERR2697629	d62823bd129d00fc	male	adult	60s	76371	Normal	United Kingdom	HC	depression	ERR2697629	11148.0
+ERR1075260	358b0466047b9d06	female	adult	60s	13363	Normal	USA	HC	depression	ERR1075260	5838.0
+ERR1846074	d558415c9d402838	female	adult	30s	54172	Underweight	United Kingdom	disease	depression	ERR1846074	11692.0
+ERR1075131	633fb6375544aff0	male	adult	60s	12230	Normal	USA	HC	depression	ERR1075131	15385.0
+ERR2318295	192fcad946d6ebd8	female	adult	60s	73870	Overweight	USA	disease	depression	ERR2318295	17481.0
+ERR1390002	42585b803abecfb5	male	adult	40s	43152	Overweight	USA	HC	depression	ERR1390002	15387.0
+ERR2579525	09ba8d6faf7d9801	male	adult	30s	91096	Overweight	USA	disease	depression	ERR2579525	18686.0
+ERR1845953	716fb5b77a2ea3ce	male	adult	30s	40337	Normal	USA	HC	depression	ERR1845953	8560.0
+ERR2319499	6fa792d8c776c10e	male	adult	40s	69207	Overweight	USA	HC	depression	ERR2319499	24434.0
+ERR2579925	d55bb9d623fa6aff	female	adult	50s	72253	Normal	USA	disease	depression	ERR2579925	4107.0
+ERR2697810	5b0010b677beab8e	female	adult	30s	93066	Normal	United Kingdom	HC	depression	ERR2697810	20242.0
+ERR2696520	d7c92833285827ea	female	adult	30s	87299	Normal	USA	disease	depression	ERR2696520	25862.0
+ERR1074784	22918f1b16c5ff4a	male	adult	20s	5749	Normal	Not provided	HC	depression	ERR1074784	8997.0
+ERR2317999	7c583540b7eb263d	male	adult	40s	23719	Normal	Australia	disease	depression	ERR2317999	41548.0
+ERR1846054	9735a90125e96b4b	male	adult	40s	53370	Normal	France	disease	depression	ERR1846054	8206.0
+ERR2696760	b47f1615a6eb61d8	female	adult	50s	100348	Overweight	USA	disease	depression	ERR2696760	10380.0
+ERR1074640	9741db0756df7126	female	adult	70+	9733	Underweight	USA	HC	depression	ERR1074640	13926.0
+ERR1316088	53c8cbb8bb565351	male	adult	30s	39986	Overweight	USA	disease	depression	ERR1316088	4185.0
+ERR1091794	ec7f1a6afea8b066	female	adult	30s	32894	Normal	United Kingdom	HC	depression	ERR1091794	33530.0
+ERR1597129	297a6cdff9c94dfd	female	adult	30s	47627	Normal	United Kingdom	HC	depression	ERR1597129	5026.0
+ERR2092028	436d8f8b70a72e25	male	adult	60s	65796	Overweight	Canada	HC	depression	ERR2092028	19300.0
+ERR2032183	9c1319b49c789c50	male	adult	50s	58847	Normal	United Kingdom	disease	depression	ERR2032183	12704.0
+ERR2314215	87ac8499b8ddb27e	male	adult	30s	68952	Normal	USA	HC	depression	ERR2314215	21089.0
+ERR2032729	3fd6c22b284b6f4e	female	adult	30s	54163	Normal	United Kingdom	disease	depression	ERR2032729	20067.0
+ERR1091322	81ca0309611bfb26	male	adult	20s	26632	Normal	USA	HC	depression	ERR1091322	23199.0
+ERR1091356	36648a40de277a14	Not provided		Not provided	27924	Not provided	USA	HC	depression	ERR1091356	42291.0
+ERR1846026	630c66a85816a96a	female	adult	60s	51115	Underweight	USA	HC	depression	ERR1846026	6822.0
+ERR2092094	18f003b2a13772b1	male	adult	50s	69180	Overweight	Canada	disease	depression	ERR2092094	16403.0
+ERR1091736	60e5f39ed2b31f87	male	adult	40s	31363	Normal	USA	HC	depression	ERR1091736	14935.0
+ERR1075130	9388e417779a0544	female	adult	60s	12229	Underweight	USA	HC	depression	ERR1075130	17130.0
+ERR1077785	12cc12d896d06502	male	adult	60s	5168	Overweight	USA	HC	depression	ERR1077785	25930.0
+ERR2032733	3da9c2bb7fac5781	female	adult	40s	54311	Normal	USA	disease	depression	ERR2032733	19203.0
+ERR1075189	a92c081f50299721	Not provided	adult	70+	13044	Not provided	USA	HC	depression	ERR1075189	5912.0
+ERR1842589	634b0416bcc7b3f8	female	adult	40s	54310	Normal	USA	HC	depression	ERR1842589	8085.0
+ERR2314003	a07da65f972131a4	male	adult	40s	42892	Normal	United Kingdom	disease	depression	ERR2314003	20686.0
+ERR2319292	3fb1f7d7250e5743	male	adult	50s	34161	Overweight	USA	disease	depression	ERR2319292	22567.0
+ERR2696598	3fd57e41993973a7	female	adult	60s	92771	Overweight	United Kingdom	HC	depression	ERR2696598	20570.0
+ERR2057191	89e559955c68ad55	female	adult	30s	69769	Normal	USA	disease	depression	ERR2057191	10928.0
+ERR2032767	99297363642b98ca	male	adult	50s	59111	Overweight	United Kingdom	disease	depression	ERR2032767	15706.0
+ERR1597101	04625c70485a8634	female		Not provided	46369	Not provided	United Kingdom	HC	depression	ERR1597101	7534.0
+ERR1846055	2d9d42d8b3e2c866	male	adult	70+	53431	Normal	United Kingdom	disease	depression	ERR1846055	7558.0
+ERR2404976	3bfd63eb2f664b37	male	adult	60s	72606	Normal	Japan	disease	depression	ERR2404976	13356.0
+ERR2579380	ae166946afe087a3	female	adult	50s	41102	Normal	USA	disease	depression	ERR2579380	30732.0
+ERR1075346	9dc8a6f8ff050582	female	adult	50s	14162	Overweight	USA	HC	depression	ERR1075346	7673.0
+ERR1842345	8a66dde400a628ce	female	adult	50s	47736	Normal	United Kingdom	disease	depression	ERR1842345	4955.0
+ERR2579842	11e75190cbcb9f1e	female	adult	60s	70837	Normal	United Kingdom	HC	depression	ERR2579842	32509.0
+ERR2303885	fe751b51f3e2c12e	male	adult	70+	66562	Overweight	USA	HC	depression	ERR2303885	19313.0
+ERR1075005	5f73d210c8b71a33	female	adult	60s	6734	Normal	USA	HC	depression	ERR1075005	4155.0
+ERR2308578	9534627281b64d84	female	adult	40s	68646	Normal	Unspecified	HC	depression	ERR2308578	11831.0
+ERR2318132	713c029cf53e3629	male	adult	20s	65484	Normal	United Kingdom	HC	depression	ERR2318132	23511.0
+ERR2697985	bffb092f2c0fe285	male	adult	50s	97993	Normal	United Kingdom	HC	depression	ERR2697985	11268.0
+ERR1076017	13fd51b8893c7b22	female	adult	50s	14958	Normal	USA	HC	depression	ERR1076017	14055.0
+ERR2580079	38d272236ef1cc5e	female	adult	50s	74426	Normal	USA	disease	depression	ERR2580079	39083.0
+ERR2091887	8b06fa8edb3183c6	female	adult	30s	39671	Overweight	USA	HC	depression	ERR2091887	27772.0
+ERR1074343	af397be53256a911	female	adult	40s	5041	Overweight	USA	HC	depression	ERR1074343	9085.0
+ERR1074504	8bccb665fcbf3e18	female	adult	40s	8201	Normal	USA	HC	depression	ERR1074504	16430.0
+ERR2579777	afd95ff8432c3d02	female		Unspecified	66943	Normal	USA	disease	depression	ERR2579777	39864.0
+ERR1076825	f7812498ee64ffaf	female	adult	30s	15604	Overweight	USA	HC	depression	ERR1076825	27086.0
+ERR2304001	1fd5346dbed611cd	female	adult	40s	72109	Normal	USA	disease	depression	ERR2304001	18227.0
+ERR1316062	f546e11c08062eca	female	adult	60s	39880	Normal	USA	disease	depression	ERR1316062	5850.0
+ERR1846222	e2b97662ed1a39ec	female	adult	60s	65341	Normal	USA	HC	depression	ERR1846222	5956.0
+ERR2696672	ae16e17273b8e03b	male	adult	20s	94620	Overweight	USA	disease	depression	ERR2696672	23344.0
+ERR1845816	4d2ae4fd15773985	female	adult	30s	23652	Normal	Australia	HC	depression	ERR1845816	10647.0
+ERR1091638	ae349cd2bfe85b5b	female	adult	30s	30440	Normal	Switzerland	HC	depression	ERR1091638	38628.0
+ERR1076024	2ca624af9cdcbe2c	male	adult	70+	14986	Normal	USA	HC	depression	ERR1076024	30868.0
+ERR2696651	302e279189ac2668	female	adult	70+	93607	Normal	USA	HC	depression	ERR2696651	14126.0
+ERR2696740	392c9cb4a2fcd27e	male	adult	30s	98205	Normal	Switzerland	HC	depression	ERR2696740	21954.0
+ERR1073902	47c22b3d41ffc753	Not provided	adult	50s	5716	Normal	Germany	HC	depression	ERR1073902	17045.0
+ERR2033546	e37b5d5c45b48e6a	male	adult	20s	69013	Normal	USA	HC	depression	ERR2033546	10859.0
+ERR2309312	a66165da81f6c663	female	adult	50s	70689	Normal	United Kingdom	disease	depression	ERR2309312	37564.0
+ERR2092057	3648b762e9cb68de	male	adult	60s	66923	Overweight	USA	disease	depression	ERR2092057	17665.0
+ERR1091597	0dceee08b80863ca	male	adult	50s	30258	Normal	United Kingdom	HC	depression	ERR1091597	31545.0
+ERR2696777	372864bebf9e7ad1	female	adult	60s	72167	Overweight	USA	disease	depression	ERR2696777	21450.0
+ERR2032704	040653eada028a66	male	adult	30s	47574	Normal	USA	HC	depression	ERR2032704	18739.0
+ERR1091275	bc9f6c8b7756bfe0	male	adult	60s	14967	Overweight	USA	HC	depression	ERR1091275	26550.0
+ERR2057121	5c3e0559695ee974	male	adult	40s	69605	Overweight	USA	disease	depression	ERR2057121	12412.0
+ERR1074954	2c95832ad5053da3	male	adult	50s	1175	Overweight	USA	HC	depression	ERR1074954	6260.0
+ERR1846019	e7baf8c8e9a1bb35	female	adult	30s	50237	Normal	United Kingdom	HC	depression	ERR1846019	15101.0
+ERR2092467	52365da9136881bc	male	adult	30s	69265	Normal	USA	HC	depression	ERR2092467	9436.0
