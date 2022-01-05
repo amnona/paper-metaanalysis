@@ -1,0 +1,16 @@
+#SampleID	survey_id	sex	age_cat	age	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR2057150	c179f6308914767e	male	30s	adult	69705	Normal	USA	HC	bipolar	ERR2057150	16375.0
+ERR1075152	6c2e0f983ec5514f	male	40s	adult	12393	Overweight	USA	HC	bipolar	ERR1075152	20374.0
+ERR1249710	2fef305c542539ea	male	30s	adult	23625	Normal	Australia	HC	bipolar	ERR1249710	4914.0
+ERR1845939	203cc43a7293e1db	Not provided	60s	adult	39560	Overweight	USA	HC	bipolar	ERR1845939	15243.0
+ERR2318167	52aec3b3c4df205a	male	Unspecified	adult	68737	Overweight	United Kingdom	HC	bipolar	ERR2318167	31651.0
+ERR2092737	0c680e0fab4e0702	female	40s	adult	12818	Overweight	USA	HC	bipolar	ERR2092737	15336.0
+ERR1080353	225d81e43e95b412	male	60s	adult	22133	Overweight	Australia	HC	bipolar	ERR1080353	8195.0
+ERR1597019	42179c071b8d3ad7	male	30s	adult	33402	Normal	United Kingdom	HC	bipolar	ERR1597019	7790.0
+ERR1075903	5cbf02cac8c3396c	Not provided	50s	adult	14158	Normal	USA	HC	bipolar	ERR1075903	14835.0
+ERR2319351	103cddd9d5210772	female	20s	adult	58630	Normal	Australia	disease	bipolar	ERR2319351	26625.0
+ERR1854678	e63c2dfed38147fb	male	40s	adult	39601	Overweight	USA	disease	bipolar	ERR1854678	10071.0
+ERR2314354	c90bf66d3dfb8633	female	30s	adult	73243	Normal	USA	disease	bipolar	ERR2314354	22442.0
+ERR1846043	595cc0383e93f21b	male	30s	adult	52279	Normal	USA	disease	bipolar	ERR1846043	12493.0
+ERR2308705	e42ee341581b2f02	male	30s	adult	74665	Normal	United Kingdom	disease	bipolar	ERR2308705	9621.0
+ERR2032586	da1e3aa4c6efa302	male	Not provided	adult	39692	Not provided	USA	disease	bipolar	ERR2032586	10459.0

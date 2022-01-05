@@ -1,0 +1,39 @@
+#SampleID	Alias	anonymized_name	BioProject	BioSample	age	Birth_Year	bmi_cat	COUNTRY	diabetes	diabetes_type	type	_sample_id	_calour_original_abundance
+ERR2518096	qiita_sid_11710:11710.10317.000084289	84289	PRJEB26004	SAMEA3469269	adult	1961	Overweight	USA	I do not have this condition	Unspecified	disease	ERR2518096	13473.0
+ERR2518102	qiita_sid_11710:11710.10317.000084453	84453	PRJEB26004	SAMEA3469275	adult	1978	Obese	USA	I do not have this condition	Unspecified	HC	ERR2518102	28276.0
+ERR2518087	qiita_sid_11710:11710.10317.000079461	79461	PRJEB26004	SAMEA3469260	adult	1980	Obese	USA	I do not have this condition	Unspecified	HC	ERR2518087	44258.0
+ERR2518109	qiita_sid_11710:11710.10317.000084652	84652	PRJEB26004	SAMEA3469428	adult	1963	Overweight	USA	I do not have this condition	Unspecified	HC	ERR2518109	24114.0
+ERR2518075	qiita_sid_11710:11710.10317.000070687	70687	PRJEB26004	SAMEA3469245	adult	1957	Overweight	United Kingdom	I do not have this condition	Unspecified	HC	ERR2518075	40425.0
+ERR2518099	qiita_sid_11710:11710.10317.000084348	84348	PRJEB26004	SAMEA3469272	adult	1949	Overweight	USA	I do not have this condition	Unspecified	HC	ERR2518099	23597.0
+ERR2518077	qiita_sid_11710:11710.10317.000071603	71603	PRJEB26004	SAMEA3469247	adult	1982	Obese	USA	Diagnosed by a medical professional (doctor, physician assistant)	Type II diabetes	disease	ERR2518077	43525.0
+ERR2518081	qiita_sid_11710:11710.10317.000071611	71611	PRJEB26004	SAMEA3469251	adult	1977	Obese	USA	I do not have this condition	Unspecified	disease	ERR2518081	35818.0
+ERR2518106	qiita_sid_11710:11710.10317.000084618	84618	PRJEB26004	SAMEA3469425	adult	1955	Obese	USA	I do not have this condition	Unspecified	HC	ERR2518106	10730.0
+ERR2518103	qiita_sid_11710:11710.10317.000084493	84493	PRJEB26004	SAMEA3469422	adult	1958	Overweight	USA	I do not have this condition	Unspecified	HC	ERR2518103	12680.0
+ERR2518111	qiita_sid_11710:11710.10317.000084657	84657	PRJEB26004	SAMEA3469430	adult	1975	Overweight	USA	I do not have this condition	Unspecified	HC	ERR2518111	24232.0
+ERR2518113	qiita_sid_11710:11710.10317.000084660	84660	PRJEB26004	SAMEA3469432	adult	1979	Overweight	USA	I do not have this condition	Unspecified	disease	ERR2518113	14622.0
+ERR2518084	qiita_sid_11710:11710.10317.000071971	71971	PRJEB26004	SAMEA3469254	adult	1973	Overweight	USA	I do not have this condition	Unspecified	HC	ERR2518084	43353.0
+ERR2518082	qiita_sid_11710:11710.10317.000071613	71613	PRJEB26004	SAMEA3469252	adult	1979	Obese	USA	I do not have this condition	Unspecified	disease	ERR2518082	48298.0
+ERR2518086	qiita_sid_11710:11710.10317.000074236	74236	PRJEB26004	SAMEA3469259	adult	1955	Obese	United Kingdom	I do not have this condition	Unspecified	HC	ERR2518086	32817.0
+ERR2518089	qiita_sid_11710:11710.10317.000084224	84224	PRJEB26004	SAMEA3469262	adult	1953	Normal	USA	I do not have this condition	Unspecified	HC	ERR2518089	17087.0
+ERR2518121	qiita_sid_11710:11710.10317.000084678	84678	PRJEB26004	SAMEA3469509	adult	1969	Overweight	USA	I do not have this condition	Unspecified	disease	ERR2518121	12154.0
+ERR2518114	qiita_sid_11710:11710.10317.000084665	84665	PRJEB26004	SAMEA3469433	adult	1956	Overweight	USA	I do not have this condition	Unspecified	disease	ERR2518114	12424.0
+ERR2518100	qiita_sid_11710:11710.10317.000084381	84381	PRJEB26004	SAMEA3469273	adult	1967	Obese	USA	Diagnosed by a medical professional (doctor, physician assistant)	Type II diabetes	disease	ERR2518100	9981.0
+ERR2518124	qiita_sid_11710:11710.10317.000085083	85083	PRJEB26004	SAMEA3469512	adult	1974	Obese	USA	I do not have this condition	Unspecified	disease	ERR2518124	11251.0
+ERR2518090	qiita_sid_11710:11710.10317.000084225	84225	PRJEB26004	SAMEA3469263	adult	1972	Obese	USA	I do not have this condition	Unspecified	HC	ERR2518090	12204.0
+ERR2518105	qiita_sid_11710:11710.10317.000084591	84591	PRJEB26004	SAMEA3469424	adult	1957	Overweight	USA	I do not have this condition	Unspecified	HC	ERR2518105	17018.0
+ERR2518116	qiita_sid_11710:11710.10317.000084671	84671	PRJEB26004	SAMEA3469435	adult	1963	Overweight	USA	Diagnosed by a medical professional (doctor, physician assistant)	Unspecified	disease	ERR2518116	16969.0
+ERR2518110	qiita_sid_11710:11710.10317.000084656	84656	PRJEB26004	SAMEA3469429	adult	1974	Overweight	USA	I do not have this condition	Unspecified	HC	ERR2518110	13420.0
+ERR2518076	qiita_sid_11710:11710.10317.000071600	71600	PRJEB26004	SAMEA3469246	adult	1964	Obese	USA	I do not have this condition	Unspecified	disease	ERR2518076	42647.0
+ERR2518108	qiita_sid_11710:11710.10317.000084645	84645	PRJEB26004	SAMEA3469427	adult	1971	Obese	USA	I do not have this condition	Unspecified	HC	ERR2518108	17628.0
+ERR2518092	qiita_sid_11710:11710.10317.000084281	84281	PRJEB26004	SAMEA3469265	adult	1976	Obese	USA	I do not have this condition	Unspecified	HC	ERR2518092	20502.0
+ERR2518091	qiita_sid_11710:11710.10317.000084268	84268	PRJEB26004	SAMEA3469264	adult	1954	Normal	USA	I do not have this condition	Unspecified	HC	ERR2518091	17524.0
+ERR2518120	qiita_sid_11710:11710.10317.000084677	84677	PRJEB26004	SAMEA3469508	adult	1987	Obese	USA	I do not have this condition	Unspecified	disease	ERR2518120	8630.0
+ERR2518119	qiita_sid_11710:11710.10317.000084676	84676	PRJEB26004	SAMEA3469507	adult	1951	Overweight	USA	Diagnosed by a medical professional (doctor, physician assistant)	Type II diabetes	disease	ERR2518119	12174.0
+ERR2518112	qiita_sid_11710:11710.10317.000084658	84658	PRJEB26004	SAMEA3469431	adult	1955	Normal	USA	I do not have this condition	Unspecified	disease	ERR2518112	10006.0
+ERR2518083	qiita_sid_11710:11710.10317.000071616	71616	PRJEB26004	SAMEA3469253	adult	1966	Obese	USA	Diagnosed by a medical professional (doctor, physician assistant)	Type II diabetes	disease	ERR2518083	11976.0
+ERR2518088	qiita_sid_11710:11710.10317.000084205	84205	PRJEB26004	SAMEA3469261	adult	1962	Obese	USA	I do not have this condition	Unspecified	HC	ERR2518088	13951.0
+ERR2518095	qiita_sid_11710:11710.10317.000084288	84288	PRJEB26004	SAMEA3469268	adult	1957	Obese	USA	I do not have this condition	Unspecified	disease	ERR2518095	27846.0
+ERR2518107	qiita_sid_11710:11710.10317.000084638	84638	PRJEB26004	SAMEA3469426	adult	1974	Obese	USA	I do not have this condition	Unspecified	HC	ERR2518107	16096.0
+ERR2518078	qiita_sid_11710:11710.10317.000071604	71604	PRJEB26004	SAMEA3469248	adult	1954	Overweight	USA	I do not have this condition	Unspecified	HC	ERR2518078	37346.0
+ERR2518117	qiita_sid_11710:11710.10317.000084672	84672	PRJEB26004	SAMEA3469505	adult	1959	Obese	USA	Diagnosed by a medical professional (doctor, physician assistant)	Type II diabetes	disease	ERR2518117	10457.0
+ERR2518122	qiita_sid_11710:11710.10317.000084680	84680	PRJEB26004	SAMEA3469510	adult	1961	Obese	USA	I do not have this condition	Unspecified	disease	ERR2518122	19270.0

@@ -1,0 +1,47 @@
+#SampleID	age	age_cat	anonymized_name	bmi_cat	country	sex	survey_id	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR2308647	adult	50s	72075	Normal	USA	male	1144f67e65f1c97f	HC	asd	ERR2308647	33659.0
+ERR1249884	adult	20s	30764	Normal	USA	female	ad0a1dc2d6ba68cf	HC	asd	ERR1249884	12452.0
+ERR1075964	adult	50s	14365	Overweight	USA	male	2c83b67b5d2b6e72	HC	asd	ERR1075964	11404.0
+ERR1073980	child	child	6664	Underweight	USA	Not provided	ee3b8990300ac9ef	HC	asd	ERR1073980	14057.0
+ERR2032542	adult	50s	39536	Normal	USA	male	68d28782533035e0	HC	asd	ERR2032542	8316.0
+ERR1389968	adult	30s	42568	Normal	USA		8c0977a4b70e491b	HC	asd	ERR1389968	17668.0
+ERR1316045	child	child	38477	Underweight	USA	male	f78e5400d29a4f0c	HC	asd	ERR1316045	6163.0
+ERR2308805	adult	40s	84218	Normal	USA		39da31d3f45b6697	HC	asd	ERR2308805	13604.0
+ERR2696467	adult	30s	75903	Normal	United Kingdom	female	82dbbd0754438a2f	HC	asd	ERR2696467	19296.0
+ERR2697978	adult	30s	97982	Normal	United Kingdom	male	7462344a3627aebe	HC	asd	ERR2697978	14649.0
+ERR1249672		Not provided	22222	Normal	Australia	female	649c8fd3f754ecc0	HC	asd	ERR1249672	11690.0
+ERR1075558	child	child	15013	Not provided	USA		ee72c92ed0e07c5b	HC	asd	ERR1075558	9514.0
+ERR1074428	child	child	6838	Underweight	USA	female	e57301c199e51032	HC	asd	ERR1074428	18170.0
+ERR1545881	adult	30s	40079	Overweight	USA		61d2db0559167bc3	HC	asd	ERR1545881	6422.0
+ERR2696715	adult	40s	97347	Normal	United Kingdom	female	da05c46238ea8cc6	HC	asd	ERR2696715	14650.0
+ERR2579992	child	child	73423	Underweight	USA	female	083f874086fbc3e7	HC	asd	ERR2579992	9131.0
+ERR1250155	adult	30s	38415	Normal	USA		660d24da8d5e1592	HC	asd	ERR1250155	7864.0
+ERR2697774	adult	40s	92903	Normal	United Kingdom	female	53ce84c444413641	HC	asd	ERR2697774	12038.0
+ERR2524175	adult	50s	90068	Normal	USA	female	f7a96fc76bd34f83	HC	asd	ERR2524175	7816.0
+ERR2304181	adult	60s	89229	Normal	USA	male	e47f756656ee2a95	HC	asd	ERR2304181	18239.0
+ERR1074437	adult	60s	6910	Overweight	USA	male	4940b64ac072f45b	HC	asd	ERR1074437	15223.0
+ERR1315811	adult	40s	20099	Normal	Canada	male	5acb5dcc777ba8c2	HC	asd	ERR1315811	3690.0
+ERR1074264	adult	40s	3146	Normal	USA	female	750ea5822105295d	HC	asd	ERR1074264	18497.0
+ERR2580043	child	child	73855		USA	male	76cc63266f1984af	disease	asd	ERR2580043	41887.0
+ERR2318265		Unspecified	73575		USA	male	66ea6ebb2b3e3724	disease	asd	ERR2318265	27346.0
+ERR2579995	child	child	73546		USA	male	4e286b94853531fe	disease	asd	ERR2579995	17584.0
+ERR2579973	child	child	73367		USA	male	de45c7eab8216063	disease	asd	ERR2579973	33906.0
+ERR2314170	child	child	66769		USA	male	a5779b00c64c1387	disease	asd	ERR2314170	25132.0
+ERR2696535	child	child	89671		United Kingdom	male	98b6dd0aed807d38	disease	asd	ERR2696535	24463.0
+ERR1091705	child	child	31216		USA	female	043be2a511261ee9	disease	asd	ERR1091705	21539.0
+ERR1091695	child	child	31165		USA	female	191eeaeefb2efe2c	disease	asd	ERR1091695	43303.0
+ERR1854742		Not provided	59859		USA	male	44bd7fd837c93ecb	disease	asd	ERR1854742	22722.0
+ERR2318276	child	child	73632		USA	female	dc61a9a933998f6f	disease	asd	ERR2318276	26419.0
+ERR1846154	child	child	60325		United Kingdom	male	df38c42d063cffe7	disease	asd	ERR1846154	9248.0
+ERR1091691	child	child	31146		USA	female	abcc2b81b362d3cf	disease	asd	ERR1091691	41052.0
+ERR1250612	child	child	36964		USA	male	398e9fc331c53edc	disease	asd	ERR1250612	3120.0
+ERR2579490	child	child	90903		USA	male	f7ca57d9291ed0d0	disease	asd	ERR2579490	20087.0
+ERR2308612	adult	20s	71491		United Kingdom	female	9850b7245a4df85f	disease	asd	ERR2308612	13327.0
+ERR2318008	child	child	38386		USA	male	81cddc93c3e0f206	disease	asd	ERR2318008	22248.0
+ERR2318294		Unspecified	73862		USA	male	c8ca30dc89531014	disease	asd	ERR2318294	25539.0
+ERR1846197	child	child	63076		USA	female	8fd0d3c89a5c45d2	disease	asd	ERR1846197	7659.0
+ERR1249876	adult	50s	30754		USA	male	93691af5c85a3f3d	disease	asd	ERR1249876	11977.0
+ERR2318287		Unspecified	73831		USA	male	ebc86027c0abb460	disease	asd	ERR2318287	25046.0
+ERR2318146	child	child	66753		USA	male	b2c71bfd750b1973	disease	asd	ERR2318146	29286.0
+ERR1080316	child	child	21577		USA	male	871a8f293384bc03	disease	asd	ERR1080316	7917.0
+ERR1842720	adult	50s	41540		USA	female	32908ea05dfe0459	disease	asd	ERR1842720	2850.0

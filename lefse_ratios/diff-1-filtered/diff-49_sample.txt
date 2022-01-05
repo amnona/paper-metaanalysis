@@ -1,0 +1,264 @@
+#SampleID	survey_id	sex	age	age_cat	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR2091939	a30bdcce63fc3e7b	male	adult	60s	76482	Normal	United Kingdom	HC	ibd	ERR2091939	15357.0
+ERR2697957	c169c925abcf3289	male	adult	60s	97797	Normal	United Kingdom	HC	ibd	ERR2697957	17020.0
+ERR1249684	619c2fec001df28f	female	adult	70+	30391	Overweight	United Kingdom	HC	ibd	ERR1249684	13099.0
+ERR1250025	455a80116be2a3ff	female		Not provided	23582	Underweight	Australia	HC	ibd	ERR1250025	12994.0
+ERR2032349	d9e04de9357def07	female		Unspecified	84498	Overweight	USA	HC	ibd	ERR2032349	13834.0
+ERR1546015	baa6c011e6a1d23e	female	adult	70+	4814	Normal	USA	HC	ibd	ERR1546015	13294.0
+ERR1546070	7a557c020363c4f0	male	child	teen	51239	Normal	USA	HC	ibd	ERR1546070	13297.0
+ERR1842690	ad866777b728ae16	male	adult	60s	14107	Normal	USA	HC	ibd	ERR1842690	3596.0
+ERR1315949	07056327bbe4a060	female	adult	30s	22134	Overweight	Australia	HC	ibd	ERR1315949	3359.0
+ERR1678465	d77e0bf94849a388	female	adult	60s	98799	Overweight	United Kingdom	HC	ibd	ERR1678465	14753.0
+ERR2091925	8d2c8b11694a5bd5	male	adult	30s	5757	Normal	Netherlands	HC	ibd	ERR2091925	21475.0
+ERR1250507	c7db174363c74152	male	adult	60s	76529	Normal	United Kingdom	HC	ibd	ERR1250507	10627.0
+ERR1080304	4cb10c7b2cd3a448	male	adult	30s	7763	Underweight	Belgium	HC	ibd	ERR1080304	6978.0
+ERR2697647	760dc179fdacd87c	female	adult	30s	68990	Normal	USA	HC	ibd	ERR2697647	14301.0
+ERR2697973	8867ad32087b3f28	male	adult	60s	49944	Overweight	USA	HC	ibd	ERR2697973	14487.0
+ERR1091489	031768b62ae565c4	female	adult	50s	42814	Normal	United Kingdom	HC	ibd	ERR1091489	18664.0
+ERR1316219	9c20154f129edf2d	female	adult	40s	3003	Normal	Canada	HC	ibd	ERR1316219	1695.0
+ERR1845800	50550ef6c7ee815b	female	adult	70+	23671	Normal	Australia	HC	ibd	ERR1845800	10256.0
+ERR1842745	e42a89a580c22ff3	male	adult	30s	10205	Normal	USA	HC	ibd	ERR1842745	2604.0
+ERR2523903	feff8d8238256a33	female	adult	40s	1166	Overweight	USA	HC	ibd	ERR2523903	8286.0
+ERR2308546	eddc7801fbec9026	male	adult	50s	42699	Normal	Sweden	HC	ibd	ERR2308546	24578.0
+ERR1389927	72124e3c200ef293	female	adult	40s	30592	Overweight	France	HC	ibd	ERR1389927	12610.0
+ERR1546067	48d1862f5d96ea93	female	adult	40s	89352	Normal	United Kingdom	HC	ibd	ERR1546067	27289.0
+ERR1316087	b63175f78c483199	male	adult	60s	28164	Normal	United Kingdom	HC	ibd	ERR1316087	4161.0
+ERR1080372	ca32871a8ae9a46a	male	adult	70+	39669	Overweight	USA	HC	ibd	ERR1080372	7466.0
+ERR1842351	c6dabde417683202	female	adult	60s	9091	Normal	Canada	HC	ibd	ERR1842351	4670.0
+ERR1250051	b952892563303c4c	male	adult	40s	73887	Normal	USA	HC	ibd	ERR1250051	16902.0
+ERR1551588	ce0cbfe773614c34	female	child	teen	4887	Normal	USA	HC	ibd	ERR1551588	16118.0
+ERR1091633	9754eca797c6b037	female	adult	30s	69708	Not provided	USA	HC	ibd	ERR1091633	50303.0
+ERR1080152	94b3590d4a609139	female	adult	60s	50175	Overweight	United Kingdom	HC	ibd	ERR1080152	5034.0
+ERR2696657	5f137c14f24888cf	unspecified	adult	70+	14434	Overweight	USA	HC	ibd	ERR2696657	13133.0
+ERR1315814	65d3e20757ecd0f3	male	adult	50s	33330	Normal	United Kingdom	HC	ibd	ERR1315814	9375.0
+ERR1250041	d00c9dbf20fe9648	male	adult	40s	30356	Normal	United Kingdom	HC	ibd	ERR1250041	13945.0
+ERR1250632	a8cabaf4996a7afa	male	adult	40s	76308	Overweight	United Kingdom	HC	ibd	ERR1250632	15901.0
+ERR1091816	38500bd0d9fce08a	female	adult	40s	58621	Normal	USA	HC	ibd	ERR1091816	31522.0
+ERR1073838	97228306650e872f	Not provided	child	child	22342	Underweight	Australia	HC	ibd	ERR1073838	18561.0
+ERR1073697	49022e9705e6b3a3	male	adult	30s	14611	Normal	USA	HC	ibd	ERR1073697	9624.0
+ERR2091941	c6828baf004e9526	female	adult	30s	72198	Normal	USA	HC	ibd	ERR2091941	21774.0
+ERR1080288	660e80a277f107a1	male	adult	30s	13982	Normal	USA	HC	ibd	ERR1080288	3675.0
+ERR1075843	3b0e16973fdf5a01	female	adult	70+	46250	Overweight	USA	HC	ibd	ERR1075843	5465.0
+ERR1080338	890f0158fd91e689	male	adult	40s	71869	Overweight	United Kingdom	HC	ibd	ERR1080338	5880.0
+ERR1073693	ec54de82f80eff8f	male		Not provided	33435	Normal	United Kingdom	HC	ibd	ERR1073693	13378.0
+ERR1074376	fd5441f2e87dd54a	male	adult	20s	28465	Normal	United Kingdom	HC	ibd	ERR1074376	16043.0
+ERR1079983	6dd22ca998dd3f91	female	adult	30s	13798	Underweight	USA	HC	ibd	ERR1079983	5162.0
+ERR1091808	a058e2b51d02706a	male	adult	40s	58425	Normal	USA	HC	ibd	ERR1091808	31982.0
+ERR1091636	3796b9e2113fe87b	female	adult	30s	14165	Overweight	USA	HC	ibd	ERR1091636	21544.0
+ERR1074812	fac3bb25786ed4bb	female	adult	50s	38085	Normal	Switzerland	HC	ibd	ERR1074812	23385.0
+ERR1249673	9203c83b8f5ba114	female	adult	60s	92790	Overweight	United Kingdom	HC	ibd	ERR1249673	12081.0
+ERR1249679	489a55a93dda7bb9	Not provided	adult	50s	13778	Overweight	USA	HC	ibd	ERR1249679	11188.0
+ERR1080235	de609fb538aea8b2	male	adult	20s	67741	Normal	USA	HC	ibd	ERR1080235	8371.0
+ERR1846004	f37438089d84cd3c	female	adult	20s	32983	Normal	United Kingdom	HC	ibd	ERR1846004	6207.0
+ERR2319271	326f30d637376f5e	female	adult	70+	15065	Normal	USA	HC	ibd	ERR2319271	24079.0
+ERR1459219	36161836bcf27ce0	female	adult	70+	6735	Normal	USA	HC	ibd	ERR1459219	9650.0
+ERR2314013	7c998a277ba32bbf	male		Unspecified	93639	Unspecified	USA	HC	ibd	ERR2314013	24592.0
+ERR2242061	e5da1fcb0c394f7f	male	adult	60s	65799	Normal	USA	HC	ibd	ERR2242061	1338.0
+ERR2308561	02867f2e2442cbd6	female	adult	30s	46387	Overweight	United Kingdom	HC	ibd	ERR2308561	11659.0
+ERR1846094	4b89cc1208284dbf	female	adult	50s	32648	Overweight	Netherlands	HC	ibd	ERR1846094	12539.0
+ERR1458947	7c16d483a5b8cbb6	female	adult	60s	22232	Normal	Australia	HC	ibd	ERR1458947	5073.0
+ERR1074966	8458c377bc995976	female	adult	40s	48337	Normal	United Kingdom	HC	ibd	ERR1074966	36320.0
+ERR1074630	ead215ad78aa4340	female	adult	50s	1750	Normal	USA	HC	ibd	ERR1074630	17950.0
+ERR1845817	42790741741c0794	female	adult	60s	20350	Normal	USA	HC	ibd	ERR1845817	9680.0
+ERR2238632	d6c5c529c5c4fe60	female	adult	60s	89717	Normal	United Kingdom	HC	ibd	ERR2238632	8239.0
+ERR1080208	738f43bdbe462727	male	adult	50s	1379	Normal	USA	HC	ibd	ERR1080208	5690.0
+ERR1845790	d7b365fda13a262d	male	adult	50s	23654	Normal	Australia	HC	ibd	ERR1845790	7796.0
+ERR1091328	3233ce7caf12bd11	male	adult	50s	50023	Normal	United Kingdom	HC	ibd	ERR1091328	25164.0
+ERR2091886	0a6338967806d6d9	male	adult	30s	36121	Overweight	USA	HC	ibd	ERR2091886	22138.0
+ERR1250588	f36ccf14f822b9da	female	adult	40s	15776	Overweight	USA	HC	ibd	ERR1250588	11946.0
+ERR1315994	415e3eac7355b339	female	adult	30s	13285	Overweight	USA	HC	ibd	ERR1315994	10635.0
+ERR1091310	6a16619a1530eb88	male	adult	50s	58734	Normal	United Kingdom	HC	ibd	ERR1091310	55809.0
+ERR1250581	756c3710ac629ebe	male	adult	50s	32810	Normal	United Kingdom	HC	ibd	ERR1250581	15380.0
+ERR2056826	11a6431103eab9ef	female	adult	20s	1208	Normal	USA	HC	ibd	ERR2056826	14336.0
+ERR1080147	48688d9816df1d9a	female	adult	50s	6915	Normal	USA	HC	ibd	ERR1080147	6488.0
+ERR1079978	da0a43cc4321b777	male	adult	70+	28203	Normal	United Kingdom	HC	ibd	ERR1079978	5675.0
+ERR1315864	de850b96b004eb52	female	adult	20s	52001	Underweight	USA	HC	ibd	ERR1315864	4845.0
+ERR2580070	08c78c8fa64b078b	unspecified	adult	30s	14534	Overweight	USA	HC	ibd	ERR2580070	12644.0
+ERR1315955	b9796a2a652bf5e1	female	adult	60s	50199	Overweight	Sweden	HC	ibd	ERR1315955	1348.0
+ERR2032464	b14b017af312762d	male	adult	50s	23083	Normal	USA	HC	ibd	ERR2032464	20042.0
+ERR1080068	7aec28b27e5a37f2	male	adult	60s	47197	Overweight	United Kingdom	HC	ibd	ERR1080068	9537.0
+ERR1842783	e11b7b191baf9c95	male	adult	20s	32776	Normal	United Kingdom	HC	ibd	ERR1842783	4631.0
+ERR1842457	06410a12dd6d778b	female	adult	40s	22343	Normal	Australia	HC	ibd	ERR1842457	4827.0
+ERR1091575	285df2929a6ca84c	male	adult	50s	58350	Overweight	United Kingdom	HC	ibd	ERR1091575	48168.0
+ERR1091625	8a2152ddd7de69db	female	adult	60s	5737	Overweight	Australia	HC	ibd	ERR1091625	20556.0
+ERR2405308	df5de2f5ef94d632	female	adult	30s	67071	Normal	Australia	HC	ibd	ERR2405308	8780.0
+ERR1249725	05327f06c19d5f2d	male	adult	70+	30187	Normal	United Kingdom	HC	ibd	ERR1249725	3133.0
+ERR1074252	cb3617fd9743f100	female	adult	60s	71945	Overweight	USA	HC	ibd	ERR1074252	15219.0
+ERR1249696	d54269c86ee207a4	male	adult	50s	66977	Normal	Australia	HC	ibd	ERR1249696	10200.0
+ERR1389647	5e390335e77f221c	male	adult	20s	36412	Underweight	USA	HC	ibd	ERR1389647	13532.0
+ERR1080156	305e7e6655e74e9b	female		Unspecified	73936	Unspecified	USA	HC	ibd	ERR1080156	6673.0
+ERR2524125	992bfc2dfaf8d5d0	male	adult	60s	13817	Overweight	USA	HC	ibd	ERR2524125	10361.0
+ERR2319270	a98899f750f4fb34	female	adult	40s	20520	Normal	United Kingdom	HC	ibd	ERR2319270	20160.0
+ERR1250113	f567daf74db0ece8	female	adult	40s	92788	Normal	United Kingdom	HC	ibd	ERR1250113	7651.0
+ERR2697802	0575efc00b06a2c9	female	adult	20s	36977	Overweight	USA	HC	ibd	ERR2697802	11089.0
+ERR2696616	1b383e325091ebe5	female	adult	30s	2810	Overweight	USA	HC	ibd	ERR2696616	17447.0
+ERR1076672	9539ca869e6814cc	male		Unspecified	66745	Unspecified	USA	HC	ibd	ERR1076672	42637.0
+ERR2314216	c25df40c63d63de0	male	adult	40s	10847	Underweight	USA	HC	ibd	ERR2314216	31412.0
+ERR1075239	37eae7ef89d369f5	male	adult	40s	93037	Normal	United Kingdom	HC	ibd	ERR1075239	17524.0
+ERR1075257	8b4316dd9d93aa3b	male	adult	30s	46928	Normal	USA	HC	ibd	ERR1075257	22909.0
+ERR2579882	61de7851e18c0eee	male	adult	40s	14272	Normal	USA	HC	ibd	ERR2579882	13218.0
+ERR1075317	b310afa792eea767	female		Not provided	52476	Normal	USA	HC	ibd	ERR1075317	14240.0
+ERR1389699	6f62b7a26278dd82	male	adult	40s	84657	Overweight	USA	HC	ibd	ERR1389699	9955.0
+ERR1077494	9aa4aa6f19982163	female	adult	60s	36889	Normal	USA	HC	ibd	ERR1077494	6022.0
+ERR1459021	b84beb84548d883f	female	adult	50s	65543	Normal	United Kingdom	HC	ibd	ERR1459021	9033.0
+ERR1249842	434bab982ee49619	female	adult	40s	49987	Normal	Switzerland	HC	ibd	ERR1249842	9171.0
+ERR1842440	ef087dce9abe8fcd	male	adult	60s	5880	Overweight	Australia	HC	ibd	ERR1842440	9903.0
+ERR1080389	aebd64020236dea2	male	adult	50s	15224	Overweight	USA	HC	ibd	ERR1080389	5735.0
+ERR1841473	e3d5833e54c2f819	female	adult	40s	42627	Normal	United Kingdom	HC	ibd	ERR1841473	3956.0
+ERR2696447	f57bc817cac84331	male	adult	50s	42730	Normal	United Kingdom	HC	ibd	ERR2696447	13881.0
+ERR1842348	a033d0fa94f2dbc0	male	adult	50s	59986	Normal	United Kingdom	HC	ibd	ERR1842348	6675.0
+ERR2314339	050fef67456fcd8a	female		Not provided	42601	Normal	United Kingdom	HC	ibd	ERR2314339	19712.0
+ERR1854714	850c8cc40e15f781	male	child	child	21186	Underweight	USA	HC	ibd	ERR1854714	16845.0
+ERR1091574	9d4de1546f693eb9	female	adult	60s	54161	Overweight	United Kingdom	HC	ibd	ERR1091574	35347.0
+ERR1249870	318908f407164c4a	female	adult	30s	58864	Normal	United Kingdom	HC	ibd	ERR1249870	13731.0
+ERR1075352	7ea88a5a89cf46d9	female	child	child	14498	Underweight	United Kingdom	HC	ibd	ERR1075352	31162.0
+ERR1074303	e4eb85d82b4066d0	male	child	child	22397	Underweight	Australia	HC	ibd	ERR1074303	13599.0
+ERR1074390	04f601b9dcfcded1	Not provided	adult	30s	14594	Normal	USA	HC	ibd	ERR1074390	12498.0
+ERR1249781	28ca5c37cc6f7bb5	female	adult	30s	9542	Normal	Not provided	HC	ibd	ERR1249781	12826.0
+ERR2318247	a635903ae76e0d80	female	child	teen	26068	Normal	USA	HC	ibd	ERR2318247	22196.0
+ERR1249930	90f6c2d357fb980a	male	adult	40s	1620	Overweight	USA	HC	ibd	ERR1249930	22506.0
+ERR1091826	4e8d2c8fde352756	female	adult	30s	13159	Normal	USA	HC	ibd	ERR1091826	33971.0
+ERR1315956	f5aa7dc0278b1943	male	adult	40s	14295	Overweight	USA	HC	ibd	ERR1315956	2673.0
+ERR1389644	6d2d20bd3053655e	female	adult	50s	30418	Normal	United Kingdom	HC	ibd	ERR1389644	17608.0
+ERR1249664	1ccce7adfa2c5aad	female	adult	50s	1799	Normal	USA	HC	ibd	ERR1249664	10891.0
+ERR1459033	1c7b4db1563dfced	female	adult	20s	92875	Underweight	United Kingdom	HC	ibd	ERR1459033	10243.0
+ERR2579870	64cdd6ff5a8691f3	female	adult	30s	4596	Overweight	USA	HC	ibd	ERR2579870	11124.0
+ERR2032537	686c7ced241418ea	female	adult	40s	47726	Normal	United Kingdom	HC	ibd	ERR2032537	13531.0
+ERR1080217	33c7ea6d7c2f8846	female	adult	50s	87627	Underweight	USA	HC	ibd	ERR1080217	6144.0
+ERR1076722	a382b6ff86567e6c	female	adult	40s	7673	Normal	Australia	HC	ibd	ERR1076722	34140.0
+ERR2697762	31d81593b179812e	female	adult	60s	20612	Normal	United Kingdom	HC	ibd	ERR2697762	12881.0
+ERR2303994	3fc60b7106b80c50	female	adult	20s	33192	Normal	United Kingdom	HC	ibd	ERR2303994	17414.0
+ERR1315829	2fddc6c757fa50d4	female	adult	30s	7520	Overweight	USA	HC	ibd	ERR1315829	4558.0
+ERR1074534	f7e9cbd936317cc5	male	adult	20s	1127	Overweight	USA	HC	ibd	ERR1074534	11616.0
+ERR1842293	f984e012154b5d16	male	adult	20s	67993	Normal	USA	HC	ibd	ERR1842293	8883.0
+ERR2306137	44863d4f8bdea583	unspecified	adult	40s	72042	Normal	USA	HC	ibd	ERR2306137	47522.0
+ERR1074783	07193b5ffcdb010f	Not provided	adult	70+	92876	Normal	United Kingdom	HC	ibd	ERR1074783	11339.0
+ERR1076694	9eaefe334b1a336a	Not provided	adult	70+	58708	Overweight	Australia	HC	ibd	ERR1076694	15325.0
+ERR1389722	1f9e3e9b304dc8d0	male	adult	60s	22372	Normal	Australia	HC	ibd	ERR1389722	12585.0
+ERR1842913	e9169435c713be16	female	child	child	97887	Underweight	United Kingdom	HC	ibd	ERR1842913	3267.0
+ERR1074792	eb00568284d0b078	Not provided	adult	40s	41556	Overweight	USA	HC	ibd	ERR1074792	14525.0
+ERR1091294	f9ee1c4211a15ee9	female	adult	50s	18369	Normal	USA	HC	ibd	ERR1091294	10983.0
+ERR1075330	d185b379b7cfea85	Not provided		Not provided	49298	Not provided	USA	HC	ibd	ERR1075330	13687.0
+ERR2091912	79cc20c97de39d6c	male	adult	60s	1803	Normal	USA	HC	ibd	ERR2091912	17570.0
+ERR1315931	af85ffd2ae0aa3e8	female	adult	60s	2197	Not provided	USA	HC	ibd	ERR1315931	1655.0
+ERR1854784	f5882a965687e67d	male	adult	70+	13296	Overweight	USA	HC	ibd	ERR1854784	9763.0
+ERR1074577	91444c698c3b63dc	female		Not provided	69379	Not provided	United Kingdom	HC	ibd	ERR1074577	17745.0
+ERR1249927	f52e329f1e01074a	female	adult	50s	50255	Overweight	United Kingdom	HC	ibd	ERR1249927	15274.0
+ERR1075512	1c1b58b292225828	male	adult	30s	14157	Normal	USA	HC	ibd	ERR1075512	8905.0
+ERR1250048	1e1731de7b9c0a2c	female	adult	40s	72265	Normal	USA	HC	ibd	ERR1250048	10996.0
+ERR1076764	c5cd68a35de63d24	male	adult	70+	73329	Normal	USA	HC	ibd	ERR1076764	22231.0
+ERR1091493	937c53c09aad62f9	female	adult	40s	97668	Normal	United Kingdom	HC	ibd	ERR1091493	36669.0
+ERR2057153	6111e7ca68c1ae40	female	adult	40s	21281	Underweight	USA	HC	ibd	ERR2057153	16597.0
+ERR1080201	c309095791b1b314	female	adult	50s	3984	Normal	USA	HC	ibd	ERR1080201	7499.0
+ERR2524128	8aee91e14469747a	female	adult	60s	59000	Normal	United Kingdom	HC	ibd	ERR2524128	10042.0
+ERR1250088	fb99cdbaba87f1c4	female	adult	30s	47491	Normal	United Kingdom	HC	ibd	ERR1250088	8129.0
+ERR2696439	2ba25e60cb0c2ba5	male	adult	50s	28105	Normal	United Kingdom	HC	ibd	ERR2696439	19050.0
+ERR1075637	b70674c380654cb5	female	adult	30s	13720	Normal	USA	HC	ibd	ERR1075637	20167.0
+ERR1841826	b9ba1e1ad4c8947b	female	adult	70+	41689	Overweight	United Kingdom	HC	ibd	ERR1841826	3918.0
+ERR1091448	de2505d9853f8f43	male	adult	20s	30747	Normal	USA	HC	ibd	ERR1091448	38818.0
+ERR1080369	17c1094a3a0b3f5a	female	adult	50s	4026	Overweight	USA	HC	ibd	ERR1080369	6152.0
+ERR2523943	6490e9d913fa9ffe	male	adult	60s	23758	Overweight	Australia	HC	ibd	ERR2523943	13205.0
+ERR1315872	71b604838c4b3fca	male	adult	50s	71885	Overweight	Belgium	HC	ibd	ERR1315872	3055.0
+ERR1074078	6ed2b191ebd49ab1	male	child	teen	36402	Overweight	USA	HC	ibd	ERR1074078	17594.0
+ERR1075030	2ad404287c55267f	male	adult	30s	31418	Normal	USA	HC	ibd	ERR1075030	25735.0
+ERR2304180	03db375147db7f31	female	child	child	23697	Underweight	Australia	HC	ibd	ERR2304180	20870.0
+ERR1080177	ada426914770bdc0	male	adult	50s	89228	Normal	USA	HC	ibd	ERR1080177	3241.0
+ERR1091500	268437c3b69b3785	male	adult	50s	20765	Overweight	United Kingdom	HC	ibd	ERR1091500	41248.0
+ERR1073861	b20d5573f4a431d7	Not provided	adult	70+	9180	Not provided	USA	HC	ibd	ERR1073861	12057.0
+ERR1842594	0e2f40ebf6d68444	female	adult	50s	39746	Overweight	USA	HC	ibd	ERR1842594	4591.0
+ERR1458849	b482a43299d5b39b	female	adult	60s	47141	Not provided	United Kingdom	HC	ibd	ERR1458849	6070.0
+ERR1075339	ab0cf8f6384f29c5	male	adult	30s	43100	Normal	USA	disease	ibd	ERR1075339	18347.0
+ERR1074475	5b7403dd8c509ca4	female	adult	30s	41959	Normal	USA	disease	ibd	ERR1074475	14982.0
+ERR2091893	04727dc336ad04e4	female	adult	60s	20539	Normal	United Kingdom	disease	ibd	ERR2091893	27497.0
+ERR2308944	3e9fa7d134fdace9	female	child	child	22380	Underweight	Australia	disease	ibd	ERR2308944	24262.0
+ERR2092284	6c021b792c485f18	female		Not provided	41752	Not provided	United Kingdom	disease	ibd	ERR2092284	16159.0
+ERR1091193	b39a2741507aa742	female	adult	60s	47776	Overweight	Italy	disease	ibd	ERR1091193	28209.0
+ERR1842477	03560df98cfa3d4b	female	child	teen	32834	Normal	United Kingdom	disease	ibd	ERR1842477	6359.0
+ERR1842800	a1ad59e751d95a97	female	adult	50s	30089	Normal	Sweden	disease	ibd	ERR1842800	1661.0
+ERR1841638	58f25bc5c9924711	female	adult	60s	98884	Normal	Italy	disease	ibd	ERR1841638	2311.0
+ERR1844516	526c31384daa3f67	male	adult	60s	23662	Normal	Australia	disease	ibd	ERR1844516	22116.0
+ERR2698014	bda3f3e4f3a4c5a9	male	adult	60s	36142	Normal	USA	disease	ibd	ERR2698014	16531.0
+ERR1075999	6c52a898351caec4	female	adult	70+	58324	Overweight	United Kingdom	disease	ibd	ERR1075999	18603.0
+ERR1842360	5754cc34d1f78a36	male	adult	50s	28153	Normal	United Kingdom	disease	ibd	ERR1842360	11103.0
+ERR1842300	4c3dbfac8b04f17d	male	adult	50s	28078	Normal	United Kingdom	disease	ibd	ERR1842300	5818.0
+ERR2319518	2133322505dd4a8b	female	adult	20s	36392	Normal	USA	disease	ibd	ERR2319518	18077.0
+ERR2308635	59523dc382125a8d	female	adult	60s	33577	Overweight	United Kingdom	disease	ibd	ERR2308635	13584.0
+ERR1079945	e4bf846ff330e53e	female	adult	40s	52330	Normal	USA	disease	ibd	ERR1079945	9079.0
+ERR1845387	83d0055b4735b4a4	female	adult	70+	50221	Normal	United Kingdom	disease	ibd	ERR1845387	20544.0
+ERR2314061	490e4480f75507e0	male	adult	60s	41767	Overweight	Greece	disease	ibd	ERR2314061	21056.0
+ERR1389996	81d0b1d0f04fcc2e	female	adult	50s	54065	Normal	United Kingdom	disease	ibd	ERR1389996	12187.0
+ERR1091591	6c71a73b790cce0d	male	adult	60s	54318	Overweight	USA	disease	ibd	ERR1091591	28834.0
+ERR1389949	695e317ce75fed1f	male	adult	50s	43129	Normal	USA	disease	ibd	ERR1389949	12750.0
+ERR1458732	cf4f59126d20cebd	male	adult	30s	27672	Normal	USA	disease	ibd	ERR1458732	10701.0
+ERR1080098	169a249f2a9d0172	female	adult	30s	20339	Normal	USA	disease	ibd	ERR1080098	3565.0
+ERR2304009	63a3240fb5fd20ed	male		Not provided	26530	Not provided	Canada	disease	ibd	ERR2304009	14217.0
+ERR1080209	6d6d206e1a3f935f	female	adult	60s	9175	Normal	USA	disease	ibd	ERR1080209	3556.0
+ERR1843718	12a0d8bc331651a6	male	adult	60s	36864	Normal	USA	disease	ibd	ERR1843718	15787.0
+ERR1075545	8a36a58af2d29817	male	adult	40s	73308	Normal	Mexico	disease	ibd	ERR1075545	16246.0
+ERR1075642	88c7d35e0a21f92f	male	adult	30s	32743	Normal	United Kingdom	disease	ibd	ERR1075642	15285.0
+ERR1458720	fac9cd164854a17e	female	adult	30s	30015	Normal	United Kingdom	disease	ibd	ERR1458720	9735.0
+ERR2405037	f52b04e6d6cf531d	male	adult	20s	27192	Normal	USA	disease	ibd	ERR2405037	9050.0
+ERR1597111	02552e2c685ccf33	female	adult	50s	23833	Normal	USA	disease	ibd	ERR1597111	10073.0
+ERR1080354	b33d82ef4d4dee27	male	adult	30s	22027	Normal	Australia	disease	ibd	ERR1080354	11368.0
+ERR1316149	31e3b98a3cd1149b	male	adult	50s	40178	Normal	USA	disease	ibd	ERR1316149	2490.0
+ERR2696602	4e0385213442a4ba	male	adult	20s	48402	Overweight	USA	disease	ibd	ERR2696602	28061.0
+ERR1249775	79ae752f7a0a3e69	male	adult	60s	47779	Overweight	Italy	disease	ibd	ERR1249775	12988.0
+ERR2404917	0b5ff7f8899342f8	female	adult	60s	29532	Normal	United Kingdom	disease	ibd	ERR2404917	9156.0
+ERR1316205	2da33ca5e4612a24	male	adult	50s	41672	Normal	United Kingdom	disease	ibd	ERR1316205	1906.0
+ERR1075762	36f2d6f717cb61f1	male	adult	70+	53369	Normal	United Kingdom	disease	ibd	ERR1075762	15927.0
+ERR1678426	651cec11cc67f28f	male	adult	50s	54197	Overweight	United Kingdom	disease	ibd	ERR1678426	10992.0
+ERR2308899	643eea30be84cc64	male	adult	30s	22124	Overweight	Australia	disease	ibd	ERR2308899	24168.0
+ERR1091318	964983a59216021f	female	adult	50s	58606	Underweight	USA	disease	ibd	ERR1091318	35773.0
+ERR2697737	06860ea7ac5515f5	female	adult	20s	47196	Normal	United Kingdom	disease	ibd	ERR2697737	14664.0
+ERR1250602	9ed9e884808557e2	female	adult	40s	59968	Normal	Belgium	disease	ibd	ERR1250602	12892.0
+ERR2303917	34a817c3fe436d5f	female	adult	70+	98182	Normal	USA	disease	ibd	ERR2303917	17497.0
+ERR2057066	52e282e1cf49e7b1	Not provided		Not provided	22386	Normal	Australia	disease	ibd	ERR2057066	12813.0
+ERR1073689	b3dcaf288f0c1d14	male	adult	30s	47160	Normal	United Kingdom	disease	ibd	ERR1073689	13958.0
+ERR2303891	6b0740de1e734d4d	female	adult	30s	22036	Normal	Australia	disease	ibd	ERR2303891	22350.0
+ERR1316248	2135e574d6aafa28	male	adult	40s	51127	Underweight	USA	disease	ibd	ERR1316248	4049.0
+ERR1459080	5297dbe91d659556	male	adult	50s	9655	Normal	USA	disease	ibd	ERR1459080	16886.0
+ERR1459093	03cb5ecaa4128b68	female	adult	40s	41951	Overweight	USA	disease	ibd	ERR1459093	1534.0
+ERR1458915	c704817a45c2e1c7	female	adult	40s	32801	Normal	United Kingdom	disease	ibd	ERR1458915	8924.0
+ERR1854780	a176c5fe063eb4b4	female	adult	40s	43099	Overweight	USA	disease	ibd	ERR1854780	15139.0
+ERR2032201	b97bf245204f5211	female	adult	60s	29572	Overweight	United Kingdom	disease	ibd	ERR2032201	21911.0
+ERR1080325	28cb61e207cb7c90	male	adult	40s	32702	Overweight	Sweden	disease	ibd	ERR1080325	3374.0
+ERR2579959	1523150e893d38a2	female	adult	40s	29371	Normal	United Kingdom	disease	ibd	ERR2579959	31727.0
+ERR1842894	5dff378b4fd66f8b	female	adult	60s	29511	Normal	United Kingdom	disease	ibd	ERR1842894	5765.0
+ERR2308885	18ae42de1c3f78e0	female	adult	40s	33259	Normal	United Kingdom	disease	ibd	ERR2308885	15306.0
+ERR1075530	b3205db18e605b65	male	adult	60s	23234	Overweight	USA	disease	ibd	ERR1075530	18354.0
+ERR2091910	16edaefed9b267a1	male	adult	20s	33496	Underweight	Switzerland	disease	ibd	ERR2091910	14523.0
+ERR2696525	c546d9eff1137fab	female	adult	60s	35466	Overweight	USA	disease	ibd	ERR2696525	22002.0
+ERR1074242	41f85e00c9a203cf	male	adult	30s	40010	Underweight	USA	disease	ibd	ERR1074242	15103.0
+ERR1845818	48fe69a2f39db5bb	female	adult	30s	21969	Normal	Australia	disease	ibd	ERR1845818	7232.0
+ERR1075432	b831221df673dccd	female	adult	40s	87288	Normal	USA	disease	ibd	ERR1075432	5865.0
+ERR1458983	4598ca6bf04ffecb	male	adult	30s	21983	Normal	Australia	disease	ibd	ERR1458983	11258.0
+ERR1846091	ddbfcabca4f293eb	male	adult	20s	37595	Normal	USA	disease	ibd	ERR1846091	9628.0
+ERR1091742	26e3a9d95ddc12d3	male	adult	70+	26637	Overweight	USA	disease	ibd	ERR1091742	30995.0
+ERR1678409	4b970d3f4da51398	male	adult	50s	38425	Normal	USA	disease	ibd	ERR1678409	11829.0
+ERR1080373	8658bf2dcfa9643f	male	adult	30s	32812	Normal	Netherlands	disease	ibd	ERR1080373	7355.0
+ERR2580052	807b3478080f18af	male	adult	30s	48354	Overweight	USA	disease	ibd	ERR2580052	13231.0
+ERR1074832	a08cff061ed2958a	male	adult	30s	23521	Normal	Australia	disease	ibd	ERR1074832	11634.0
+ERR1843841	776b1d68cfd2cbba	male	adult	50s	43173	Normal	USA	disease	ibd	ERR1843841	16448.0
+ERR2698023	e6de93834ed7c99e	female	adult	40s	23460	Normal	USA	disease	ibd	ERR2698023	14269.0
+ERR2697905	ac086062e02d51fa	female	adult	60s	22339	Overweight	Australia	disease	ibd	ERR2697905	13174.0
+ERR2696730	3a70651806267634	male	adult	40s	30165	Normal	United Kingdom	disease	ibd	ERR2696730	19720.0
+ERR2304164	aae2af6795d27d02	female	adult	40s	22609	Normal	USA	disease	ibd	ERR2304164	10145.0
+ERR2092638	95fa8b895a3cf703	Not provided	adult	70+	20332	Normal	USA	disease	ibd	ERR2092638	18207.0
+ERR1458996	e41b09869601798e	male	adult	50s	41772	Normal	United Kingdom	disease	ibd	ERR1458996	8660.0
+ERR1075847	99f65521528b7887	female	adult	70+	51174	Normal	USA	disease	ibd	ERR1075847	12442.0
+ERR1249830	95c442404914ccf9	female	adult	20s	33804	Normal	USA	disease	ibd	ERR1249830	10664.0
+ERR2579929	e206387b4caac3ab	female	adult	30s	20515	Normal	United Kingdom	disease	ibd	ERR2579929	23608.0
+ERR1073713	c84d6c46cfd51a15	female	adult	30s	18078	Underweight	USA	disease	ibd	ERR1073713	13630.0
+ERR1080364	e0e7b7ea13297f12	female	adult	30s	41335	Normal	USA	disease	ibd	ERR1080364	6275.0
+ERR1075979	76397f87e4f469ff	female	adult	70+	48303	Normal	United Kingdom	disease	ibd	ERR1075979	11701.0
+ERR1315974	e2857c012b6fecdb	female	adult	60s	30315	Normal	United Kingdom	disease	ibd	ERR1315974	2709.0
+ERR2092144	dcc41bb668ca2512	male	adult	70+	58359	Not provided	United Kingdom	disease	ibd	ERR2092144	14628.0
+ERR2319259	e3901c69e51419fa	male	adult	70+	84446	Normal	USA	disease	ibd	ERR2319259	11794.0
+ERR1074970	87a33323ac6d4cb5	female	adult	30s	30208	Not provided	United Kingdom	disease	ibd	ERR1074970	12460.0
+ERR1076682	b39be07f62f1184a	male	adult	30s	41305	Normal	USA	disease	ibd	ERR1076682	15804.0
+ERR1249666	af8ca4535baf9700	female	adult	40s	52795	Overweight	USA	disease	ibd	ERR1249666	7259.0
+ERR2032727	a319a61e0f6abaea	male	adult	20s	33794	Normal	USA	disease	ibd	ERR2032727	22735.0
+ERR2032461	1bdebf9f156df326	female	adult	30s	20499	Normal	United Kingdom	disease	ibd	ERR2032461	22731.0
+ERR1233441	15f854e9b77878a1	female	adult	40s	37980	Normal	France	disease	ibd	ERR1233441	108577.0
+ERR2309187	2c8d74e2a4e17c83	male	child	teen	27588	Underweight	USA	disease	ibd	ERR2309187	27210.0
+ERR2314159	585988abc8076834	female	adult	60s	40378	Normal	USA	disease	ibd	ERR2314159	25268.0

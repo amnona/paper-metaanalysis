@@ -1,0 +1,47 @@
+#SampleID	type	Database	Cohort	sample_ID	Country	Organism	Dx	FFPE_fresh	Source	Enzyme	remark	remarks2	DUPLICATE_code	Date	Swab	pn_ID	Time	Time2	amount	Age_	Gender	Family	Description	age	_sample_id	_calour_original_abundance
+DB1.018	disease	DB1	Hospitalized	1590	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					58.0	Female		DB1.018	adult	DB1.018	10569.0
+DB1.192	disease	DB1	Hospitalized	2721	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					8.0	Male		DB1.192	adult	DB1.192	11307.0
+DB1.181	disease	DB1	Hospitalized	2581	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					57.0	Female		DB1.181	adult	DB1.181	5887.0
+DB1.191	disease	DB1	Hospitalized	2720	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					54.0	Male		DB1.191	adult	DB1.191	12178.0
+DB1.231	disease	DB1	Hospitalized	2973	Israel	Human	Hospitalized	Fresh	stool	_	second seq	neg	_	_	_								DB1.231	adult	DB1.231	5237.0
+DB1.117	disease	DB1	Hospitalized	1993	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					4.0	Female		DB1.117	adult	DB1.117	6156.0
+DB1.103	disease	DB1	Hospitalized	2806 e	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					83.0	Female		DB1.103	adult	DB1.103	7095.0
+DB1.054	disease	DB1	Hospitalized	1812	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					4.0	Male		DB1.054	adult	DB1.054	4498.0
+DB1.228	disease	DB1	Hospitalized	2969	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					77.0	Male		DB1.228	adult	DB1.228	11008.0
+DB1.009	disease	DB1	Hospitalized	1498	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					64.0	Male		DB1.009	adult	DB1.009	13007.0
+DB1.224	disease	DB1	Hospitalized	2909	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					34.0	Female		DB1.224	adult	DB1.224	18738.0
+DB1.135	disease	DB1	Hospitalized	2114	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					87.0	Male		DB1.135	adult	DB1.135	9118.0
+DB1.115	disease	DB1	Hospitalized	1991	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					46.0	Female		DB1.115	adult	DB1.115	4299.0
+DB1.232	disease	DB1	Hospitalized	2980	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					20.0	Male		DB1.232	adult	DB1.232	6757.0
+DB1.254	disease	DB1	Hospitalized	1588	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					44.0	Female		DB1.254	adult	DB1.254	16435.0
+DB1.260	disease	DB1	Hospitalized	3074	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					62.0	Male		DB1.260	adult	DB1.260	8790.0
+DB1.062	disease	DB1	Hospitalized	1828	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					57.0	Female		DB1.062	adult	DB1.062	6467.0
+DB1.199	disease	DB1	Hospitalized	2748	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					22.0	Male		DB1.199	adult	DB1.199	5135.0
+DB1.237	disease	DB1	Hospitalized	2963	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					20.0	Male		DB1.237	adult	DB1.237	9833.0
+DB1.007	disease	DB1	Hospitalized	1483	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_						Male		DB1.007	adult	DB1.007	4805.0
+DB1.028	disease	DB1	Hospitalized	1644	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					84.0	Female		DB1.028	adult	DB1.028	4180.0
+DB1.259	disease	DB1	Hospitalized	3071	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					20.0	Male		DB1.259	adult	DB1.259	10335.0
+DB1.171	disease	DB1	Hospitalized	2451	Israel	Human	Hospitalized	Fresh	stool	_	first	neg	_	_	_					28.0	Female		DB1.171	adult	DB1.171	8067.0
+DB2.244	HC	DB2	Lena	LD-6b	Israel	Human	Control	Fresh	stool	_	_	_	_	28/03/16	_	Control_No24				62.0	Male		DB2.244	adult	DB2.244	129424.0
+DB3.235	HC	DB3	local_Control	BM	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	MB				32.0	Female	Family_5	DB3.235	adult	DB3.235	14472.0
+DB3.216	HC	DB3	local_Control	HP	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	PH				11.0	Male	Family_1	DB3.216	child	DB3.216	19297.0
+DB3.236	HC	DB3	local_Control	BS	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	SB				35.0	Male	Family_5	DB3.236	adult	DB3.236	16220.0
+DB3.227	HC	DB3	local_Control	Cya	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	yaC				7.0	Female	Family_2	DB3.227	child	DB3.227	14484.0
+DB3.226	HC	DB3	local_Control	CR	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	RC				11.0	Female	Family_2	DB3.226	child	DB3.226	33256.0
+DB3.215	HC	DB3	local_Control	HR_fresh	Israel	Human	Control	Fresh	stool	_	_	Control	_	_	blue	RH	0h			41.0	Male	Family_1	DB3.215	adult	DB3.215	23168.0
+DB5.016	HC	DB5	Melanoma	GM-Control3	Israel	Human	Control	Fresh	stool	hikappa	_	_	_		Red	GM-Control3				32.0	Male		DB5.016	adult	DB5.016	41526.0
+DB5.008	HC	DB5	Melanoma	Control-30	Israel	Human	Control	Fresh	stool	hikappa	blue_swab	_	_	28/01/18	Blue	SP				40.0	Male		DB5.008	adult	DB5.008	48387.0
+DB5.022	HC	DB5	Melanoma	GM-Control11	Israel	Human	Control	Fresh	stool	hikappa	_	_	_		Red	GM-Control11					Male		DB5.022		DB5.022	34232.0
+DB5.015	HC	DB5	Melanoma	GM-Control2	Israel	Human	Control	Fresh	stool	hikappa	_	_	_		Red	GM-Control2				38.0	Male		DB5.015	adult	DB5.015	58745.0
+DB5.014	HC	DB5	Melanoma	GM-Control1	Israel	Human	Control	Fresh	stool	hikappa	_	_	_		Red	GM-Control1				32.0	Male		DB5.014	adult	DB5.014	45583.0
+DB5.007	HC	DB5	Melanoma	GM-C107	Israel	Human	Control	Fresh	stool	hikappa	_	_	_	24/01/18	Red	CW				59.0	Female		DB5.007	adult	DB5.007	23253.0
+DB5.009	HC	DB5	Melanoma	Control-31	Israel	Human	Control	Fresh	stool	hikappa	blue_swab	_	_	29/01/18	Blue	SL				36.0	Female		DB5.009	adult	DB5.009	54610.0
+DB6.232	HC	DB6	Red_blue_swabs	BS_GE	Israel	Human	Control	Fresh	stool	hikappa	_	_	_	17.10.18	blue	GE					Female		DB6.232		DB6.232	21149.0
+DB8.071	HC	DB8	source	A023		Human	Control	Fresh	Stool	hikappa					blue	A023									DB8.071	38954.0
+DB8.058	HC	DB8	source	A022		Human	Control	Fresh	Stool	hikappa					blue	A022									DB8.058	28546.0
+DB8.057	HC	DB8	source	A026		Human	Control	Fresh	Stool	hikappa					blue	A026									DB8.057	21519.0
+DB8.066	HC	DB8	source	A018		Human	Control	Fresh	Stool	hikappa					blue	A018									DB8.066	33162.0
+DB8.069	HC	DB8	source	A021		Human	Control	Fresh	Stool	hikappa					blue	A021									DB8.069	9841.0
+DB8.055	HC	DB8	source	A006		Human	Control	Fresh	Stool	hikappa					blue	A006									DB8.055	41238.0
+DB8.061	HC	DB8	source	A012		Human	Control	Fresh	Stool	hikappa					blue	A012									DB8.061	21305.0
+DB8.062	HC	DB8	source	A013		Human	Control	Fresh	Stool	hikappa					blue	A013									DB8.062	21338.0
