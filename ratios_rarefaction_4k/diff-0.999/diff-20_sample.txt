@@ -1,0 +1,71 @@
+#SampleID	Sample_Name	tp	BMI	Subject.ID	BMI.M6	Recruitment.Location	Sample.Month	Type.location.before.US	Age.at.Arrival	Birth.Location	Years.in.US	type	Sub.Study	sampid	age	_sample_id	_calour_original_abundance
+ERR2836910	T.CS.085	T	24.77	T.CS.085		Khun Chiang Kian		Rural Village		Nong Hoi Gao Village, Mae Rim District, Chiang Mai Province, Thailand		HC	CS	T.CS.085	adults	ERR2836910	7122.0
+ERR2836990	T.CS.166	T	30.39	T.CS.166		Maela Camp		Refugee Camp		Kwan Bin, Hlaing Bwe, Kaxon, Burma		disease	CS	T.CS.166	adults	ERR2836990	7461.0
+ERR2837011	TFS.028	TFS	28.2	T.FS.CS.028		Khun Chiang Kian		Rural Village		Tung Sai Village, Chiang Khong district, Chiang Rai Province, Thailand		HC	CS	TFS.028	adults	ERR2837011	6913.0
+ERR2836892	T.CS.066	T	32.33	T.CS.066		Khun Chiang Kian		Rural Village		Khun Chiang Kian, Chiang Mai Province, Thailand		disease	CS	T.CS.066	adults	ERR2836892	4527.0
+ERR2836932	T.CS.107	T	18.81	T.CS.107		Maela Camp		Refugee Camp		Kwee la, Karen, Burma		HC	CS	T.CS.107	adults	ERR2836932	11676.0
+ERR2836942	T.CS.118	T	19.15	T.CS.118		Maela Camp		Refugee Camp		Tha Wall Tae, Hlaing Bwe, Karen, Burma		HC	CS	T.CS.118	adults	ERR2836942	8488.0
+ERR2836902	T.CS.076	T	23.31	T.CS.076		Khun Chiang Kian		Rural Village		Khun Chiang Kian, Chiang Mai Province, Thailand		HC	CS	T.CS.076	adults	ERR2836902	6076.0
+ERR2836888	T.CS.062	T	24.88	T.CS.062		Khun Chiang Kian		Rural Village		Churn Yen Village, Mae Tang District, Chiang Mai Province, Thailand		HC	CS	T.CS.062	adults	ERR2836888	4693.0
+ERR2836980	T.CS.156	T	23.84	T.CS.156		Maela Camp		Refugee Camp		Kaw Taw, Hpa-Ann, Karen. Burma		HC	CS	T.CS.156	adults	ERR2836980	6674.0
+ERR2836977	T.CS.153	T	19.7	T.CS.153		Maela Camp		Refugee Camp		Kru Kyi, Hpa-Ann, Tha Ton, Burma		HC	CS	T.CS.153	adults	ERR2836977	5640.0
+ERR2836931	T.CS.106	T	17.39	T.CS.106		Maela Camp		Refugee Camp		Shwe young pyar, Bee Lin, Mong, Burma		HC	CS	T.CS.106	adults	ERR2836931	10258.0
+ERR2836933	T.CS.108	T	21.6	T.CS.108		Maela Camp		Refugee Camp		Klaw Kyaw, Hlaing Bwe, Pa-an, Burma		HC	CS	T.CS.108	adults	ERR2836933	8453.0
+ERR2836870	T.CS.044	T	26.91	T.CS.044		Khun Chiang Kian		Rural Village		Khun Chiang Kian, Chiang Mai Province, Thailand		HC	CS	T.CS.044	adults	ERR2836870	5975.0
+ERR2836842	T.CS.016	T	21.42	T.CS.016		Khun Chiang Kian		Rural Village		Huay Tao Lu, Mae Rim district, Chiang Mai Province, Thailand		HC	CS	T.CS.016	adults	ERR2836842	7639.0
+ERR2836956	T.CS.132	T	20.24	T.CS.132		Maela Camp		Refugee Camp		Noh Pa Doh, Hoin Toe Kyi, Ta Nin Thas Yee, Burma		HC	CS	T.CS.132	adults	ERR2836956	8385.0
+ERR2836950	T.CS.126	T	24.06	T.CS.126		Maela Camp		Refugee Camp		Kyan Doe Chaung Pya, Kaw Ka Rate, Karen, Burma		HC	CS	T.CS.126	adults	ERR2836950	8550.0
+ERR2836948	T.CS.124	T	19.61	T.CS.124		Maela Camp		Refugee Camp		Lee Kweh, Ka Ma Maung, Karen, Burma		HC	CS	T.CS.124	adults	ERR2836948	4789.0
+ERR2836864	T.CS.038	T	21.38	T.CS.038		Khun Chiang Kian		Rural Village		Galare Village, Chiang Rai Province, Thailand		HC	CS	T.CS.038	adults	ERR2836864	5516.0
+ERR2837003	TFS.020	TFS	31.77	T.FS.CS.020		Khun Chiang Kian		Rural Village		Mae Pam Village, Thailand		disease	CS	TFS.020	adults	ERR2837003	5280.0
+ERR2836940	T.CS.116	T	23.36	T.CS.116		Maela Camp		Refugee Camp		Tauu Ni, Bee Lin, Mong, Burma		HC	CS	T.CS.116	adults	ERR2836940	4732.0
+ERR2836997	T.CS.178	T	18.49	T.CS.178		Maela Camp		Refugee Camp		Takay, Kyan Inn Sain Kyi, Karen, Burma		HC	CS	T.CS.178	adults	ERR2836997	5324.0
+ERR2836945	T.CS.121	T	23.25	T.CS.121		Maela Camp		Refugee Camp		Thoo Ka Bee, Bee Lin, Tha Hoon, Burma		HC	CS	T.CS.121	adults	ERR2836945	7800.0
+ERR2836905	T.CS.079	T	23.51	T.CS.079		Khun Chiang Kian		Rural Village		Tung Sai Village, Chiang Khong district, Chiang Rai Province, Thailand		HC	CS	T.CS.079	adults	ERR2836905	5176.0
+ERR2836926	T.CS.101	T	28.34	T.CS.101		Maela Camp		Refugee Camp		Shwe Kyi Kaw Trae Say		HC	CS	T.CS.101	adults	ERR2836926	6705.0
+ERR2837009	TFS.026	TFS	26.44	T.FS.CS.026		Khun Chiang Kian		Rural Village		Pha Noh Kok Village, Mae Rim District, Chiang Mai Province, Thailand		HC	CS	TFS.026	adults	ERR2837009	4964.0
+ERR2836937	T.CS.112	T	20.82	T.CS.112		Maela Camp		Refugee Camp		Lex Day, Pa Pon, Burma		HC	CS	T.CS.112	adults	ERR2836937	7018.0
+ERR2836953	T.CS.129	T	19.15	T.CS.129		Maela Camp		Refugee Camp		Lei Hlar Say, Tha Yet Chaung, Ta Ni Thar Yee, Burma		HC	CS	T.CS.129	adults	ERR2836953	7144.0
+ERR2836845	T.CS.019	T	23.26	T.CS.019		Khun Chiang Kian		Rural Village		Phra-bhat Si Roy Village, Mae Tang District, Chiang Mai Province, Thailand		HC	CS	T.CS.019	adults	ERR2836845	4823.0
+ERR2836916	T.CS.091	T	19.94	T.CS.091		Maela Camp		Refugee Camp		Tea Poe Kee, Hlaing Bwe, Karen, Burma		HC	CS	T.CS.091	adults	ERR2836916	7226.0
+ERR2836929	T.CS.104	T	21.88	T.CS.104		Maela Camp		Refugee Camp		Noe Net, Hlaing Bwe, Paan, Burma		HC	CS	T.CS.104	adults	ERR2836929	5578.0
+ERR2836851	T.CS.025	T	24.37	T.CS.025		Khun Chiang Kian		Rural Village		Khun Chiang Kian, Chiang Mai Province, Thailand		HC	CS	T.CS.025	adults	ERR2836851	4894.0
+ERR2836843	T.CS.017	T	25.26	T.CS.017		Khun Chiang Kian		Rural Village		Khun Chiang Kian, Chiang Mai Province, Thailand		HC	CS	T.CS.017	adults	ERR2836843	5294.0
+ERR2836954	T.CS.130	T	21.51	T.CS.130		Maela Camp		Refugee Camp		Et Et, Tha Yet Chaung, Ta Nin Thar Yee, Burma		HC	CS	T.CS.130	adults	ERR2836954	5186.0
+ERR2836946	T.CS.122	T	19.5	T.CS.122		Maela Camp		Refugee Camp		Htuk Kyant Kuoin, Inn Ka Pu, Delta, Burma		HC	CS	T.CS.122	adults	ERR2836946	7530.0
+ERR2836969	T.CS.145	T	28.53	T.CS.145		Maela Camp		Refugee Camp		Lay Pior Chang, Ah-Max, Delta, Burma		HC	CS	T.CS.145	adults	ERR2836969	86897.0
+ERR2836955	T.CS.131	T	22.83	T.CS.131		Maela Camp		Refugee Camp		Lar Baw, Pa lauk, Ta Nin Thar Yee, Burma		HC	CS	T.CS.131	adults	ERR2836955	7968.0
+ERR2836949	T.CS.125	T	19.24	T.CS.125		Maela Camp		Refugee Camp		Kar Pan Ni, Hlaing Powe, Karen, Burma		HC	CS	T.CS.125	adults	ERR2836949	4683.0
+ERR2836947	T.CS.123	T	22.46	T.CS.123		Maela Camp		Refugee Camp		Kachin, Burma		HC	CS	T.CS.123	adults	ERR2836947	5957.0
+ERR2836934	T.CS.109	T	32.5	T.CS.109		Maela Camp		Refugee Camp		Lar Nay, Hlaing Bwe, Paan, Burma		disease	CS	T.CS.109	adults	ERR2836934	8329.0
+ERR2836878	T.CS.052	T	20.87	T.CS.052		Khun Chiang Kian		Rural Village		Mae Sa Gao Village, Mae Rim District, Chiang Mai Province, Thailand		HC	CS	T.CS.052	adults	ERR2836878	5015.0
+ERR2836906	T.CS.080	T	20.16	T.CS.080		Khun Chiang Kian		Rural Village		Mae To Village, Hod District, Chiang Mai Province, Thailand		HC	CS	T.CS.080	adults	ERR2836906	4626.0
+ERR2836981	T.CS.157	T	31.01	T.CS.157		Maela Camp		Refugee Camp		Pwa wall, Shwe Gon, Hpa-Ann, Burma		disease	CS	T.CS.157	adults	ERR2836981	4026.0
+ERR2836860	T.CS.034	T	24.49	T.CS.034		Khun Chiang Kian		Rural Village		Laos		HC	CS	T.CS.034	adults	ERR2836860	6059.0
+ERR2836861	T.CS.035	T	22.24	T.CS.035		Khun Chiang Kian		Rural Village		Khun Klang Village, Mae Wang district, Chiang Mai Province, Thailand		HC	CS	T.CS.035	adults	ERR2836861	5243.0
+ERR2836982	T.CS.158	T	32.72	T.CS.158		Maela Camp		Refugee Camp		Ya That Byin, Hpa-Aron, Karen, Burma		disease	CS	T.CS.158	adults	ERR2836982	6572.0
+ERR2836884	T.CS.058	T	23.21	T.CS.058		Khun Chiang Kian		Rural Village		Lampang Province, Thailand		HC	CS	T.CS.058	adults	ERR2836884	5504.0
+ERR2836863	T.CS.037	T	29.73	T.CS.037		Khun Chiang Kian		Rural Village		Doi Pha Mon Village, Wiang Kaen District, Chiang Rai Province, Thailand		HC	CS	T.CS.037	adults	ERR2836863	7562.0
+ERR2836850	T.CS.024	T	21.61	T.CS.024		Khun Chiang Kian		Rural Village		Pha Mon Village, Chiang Mai Province, Thailand		HC	CS	T.CS.024	adults	ERR2836850	5576.0
+ERR2836834	T.CS.005	T	25.04	T.CS.005		Khun Chiang Kian		Rural Village		Khun Chiang Kian, Chiang Mai Province, Thailand		HC	CS	T.CS.005	adults	ERR2836834	4340.0
+ERR2836991	T.CS.167	T	23.65	T.CS.167		Maela Camp		Refugee Camp		Shoklo, Thailand		HC	CS	T.CS.167	adults	ERR2836991	7608.0
+ERR2837007	TFS.024	TFS	24.81	T.FS.CS.024		Khun Chiang Kian		Rural Village		Baan Kad Village, Mae Wang district, Chiang Mai Province, Thailand		HC	CS	TFS.024	adults	ERR2837007	5828.0
+ERR2836859	T.CS.033	T	28.83	T.CS.033		Khun Chiang Kian		Rural Village		Mon Ngaoh Village, Mae Tang District, Chiang Mai Province		HC	CS	T.CS.033	adults	ERR2836859	4016.0
+ERR2836996	T.CS.177	T	17.71	T.CS.177		Maela Camp		Refugee Camp		Gyo Bin, Ingaba, Delta, Burma		HC	CS	T.CS.177	adults	ERR2836996	6246.0
+ERR2836941	T.CS.117	T	23.05	T.CS.117		Maela Camp		Refugee Camp		Ta Thoo Kae, Hpa-Ann, Karen, Burma		HC	CS	T.CS.117	adults	ERR2836941	5387.0
+ERR2836993	T.CS.169	T	28.83	T.CS.169		Maela Camp		Refugee Camp		No Klex, Hlaing Bwe, Karen, Burma		HC	CS	T.CS.169	adults	ERR2836993	6600.0
+ERR2836853	T.CS.027	T	29.21	T.CS.027		Khun Chiang Kian		Rural Village		Phra-bhat Si Roy Village, Mae Tang District, Chiang Mai Province, Thailand		HC	CS	T.CS.027	adults	ERR2836853	7209.0
+ERR2836839	T.CS.012	T	23.23	T.CS.012		Khun Chiang Kian		Rural Village		Khun Klang Village, Mae Wang district, Chiang Mai Province, Thailand		HC	CS	T.CS.012	adults	ERR2836839	6129.0
+ERR2836998	T.CS.179	T	26.33	T.CS.179		Maela Camp		Refugee Camp		Shokho, Taung Goo, RaGo, Burma		HC	CS	T.CS.179	adults	ERR2836998	5242.0
+ERR2836976	T.CS.152	T	34.33	T.CS.152		Maela Camp		Refugee Camp		Inn-Noe, Hlaing Bwe, Hpa-Ann, Burma		disease	CS	T.CS.152	adults	ERR2836976	7127.0
+ERR2836939	T.CS.115	T	20.11	T.CS.115		Maela Camp		Refugee Camp		Kaw Hei, Kamamon, Karen, Burma		HC	CS	T.CS.115	adults	ERR2836939	8108.0
+ERR2836985	T.CS.161	T	21.74	T.CS.161		Maela Camp		Refugee Camp		Katty Ya, Panta Naw, Delta, Burma		HC	CS	T.CS.161	adults	ERR2836985	4168.0
+ERR2836898	T.CS.072	T	23.55	T.CS.072		Khun Chiang Kian		Rural Village		Khun Chiang Kian, Chiang Mai Province, Thailand		HC	CS	T.CS.072	adults	ERR2836898	4624.0
+ERR2836872	T.CS.046	T	21.13	T.CS.046		Khun Chiang Kian		Rural Village		Khun Chiang Kian, Chiang Mai Province, Thailand		HC	CS	T.CS.046	adults	ERR2836872	5506.0
+ERR2836984	T.CS.160	T	24.46	T.CS.160		Maela Camp		Refugee Camp		Aung Gone, Amar, Delta, Burma		HC	CS	T.CS.160	adults	ERR2836984	5990.0
+ERR2836854	T.CS.028	T	23.75	T.CS.028		Khun Chiang Kian		Rural Village		Khun Sa Nai Village, Pai District, Mae Hong Son Province, Thailand		HC	CS	T.CS.028	adults	ERR2836854	7345.0
+ERR2836908	T.CS.082	T	18.71	T.CS.082		Khun Chiang Kian		Rural Village		Pa Tueng Village, Kuan Pak sub-district, Phrao district, Chiang Mai Province, Thailand		HC	CS	T.CS.082	adults	ERR2836908	5640.0
+ERR2836852	T.CS.026	T	30.1	T.CS.026		Khun Chiang Kian		Rural Village		Mon Ngaoh Village, Mae Tang District, Chiang Mai Province		disease	CS	T.CS.026	adults	ERR2836852	5668.0
+ERR2836865	T.CS.039	T	25.24	T.CS.039		Khun Chiang Kian		Rural Village		Mon Ngaoh Village, Mae Tang District, Chiang Mai Province		HC	CS	T.CS.039	adults	ERR2836865	6369.0
+ERR2836900	T.CS.074	T	25.33	T.CS.074		Khun Chiang Kian		Rural Village		Nong Hoi Mai Village, Mae Rim District, Chiang Mai Province, Thailand		HC	CS	T.CS.074	adults	ERR2836900	4966.0
+ERR2836938	T.CS.114	T	23.47	T.CS.114		Maela Camp		Refugee Camp		Ta Dwee Koh, Hlamy, Pa-an		HC	CS	T.CS.114	adults	ERR2836938	4305.0
