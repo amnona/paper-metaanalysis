@@ -1,0 +1,47 @@
+#SampleID	survey_id	sex	age	age_cat	anonymized_name	bmi_cat	country	type	disease_cohort	_sample_id	_calour_original_abundance
+ERR1846214	2aeca9da360ad579	female	adult	50s	68682	Normal	United Kingdom	disease	cancer	ERR1846214	11650.0
+ERR2404938	5cb2e7d6dbb2a206	male		Unspecified	71413	Unspecified	USA	disease	cancer	ERR2404938	6858.0
+ERR2309384	ef92b1b0ced85b41	male	adult	50s	43205	Overweight	USA	disease	cancer	ERR2309384	26735.0
+ERR1073996	078af0543228d1be	female	adult	60s	97332	Normal	United Kingdom	disease	cancer	ERR1073996	11687.0
+ERR1073047	a45df9c2b9c4766f	Not provided	child	child	9209	Normal	USA	HC	cancer	ERR1073047	10509.0
+ERR2314323	faf6abb57774e0d2	male	adult	40s	37961	Normal	United Kingdom	HC	cancer	ERR2314323	16830.0
+ERR1073658	22955246bd8b9aa0	female	adult	30s	22272	Normal	Australia	HC	cancer	ERR1073658	24256.0
+ERR1079962	9610473e94bfc091	male	adult	70+	72251	Normal	USA	disease	cancer	ERR1079962	6366.0
+ERR2523889	ce93c4a752607156	male	adult	40s	15220	Overweight	USA	HC	cancer	ERR2523889	13722.0
+ERR1458822	05a10a487b0a3ec9	female	adult	50s	38196	Overweight	United Kingdom	HC	cancer	ERR1458822	7393.0
+ERR2314201	c9616e276bd2d459	male	adult	50s	79416	Normal	USA	disease	cancer	ERR2314201	12867.0
+ERR1075923	8274a792f20909d3	female	adult	70+	60244	Normal	United Kingdom	disease	cancer	ERR1075923	9908.0
+ERR1845769	4f8f051f1b63fcd9	female	adult	60s	42644	Normal	United Kingdom	disease	cancer	ERR1845769	10538.0
+ERR1842406	bc6a55ab2edbd299	male	adult	50s	36040	Normal	USA	HC	cancer	ERR1842406	7407.0
+ERR2404981	dba886cc6470faa8	male	adult	60s	97736	Normal	Ireland	disease	cancer	ERR2404981	10659.0
+ERR1854695	25c47d9dd555f4cd	male	adult	40s	42605	Overweight	United Kingdom	HC	cancer	ERR1854695	4003.0
+ERR1250568	a0cd3a2d76686185	female	adult	40s	40405	Normal	USA	disease	cancer	ERR1250568	11780.0
+ERR1459135	0b25ad7acfd305dc	female	adult	50s	2449	Normal	USA	HC	cancer	ERR1459135	10399.0
+ERR2318040	65fc11d24f825350	female	adult	60s	22240	Overweight	Australia	disease	cancer	ERR2318040	26142.0
+ERR1845811	860beb2303a6f969	female	adult	20s	41531	Underweight	USA	HC	cancer	ERR1845811	10146.0
+ERR2697946	5d7cb5846e2d271f	female	adult	40s	69352	Normal	USA	disease	cancer	ERR2697946	12694.0
+ERR2308845	7e75c03613033445	male	adult	50s	50340	Overweight	USA	disease	cancer	ERR2308845	14695.0
+ERR1076684	dd39f8c43efbae6b	male	adult	70+	6668	Normal	USA	HC	cancer	ERR1076684	17127.0
+ERR1091261	cc591d64177e89e9	male	adult	40s	62156	Normal	United Kingdom	HC	cancer	ERR1091261	33886.0
+ERR1076005	20d3ecd045eb084d	male	adult	30s	13254	Normal	USA	HC	cancer	ERR1076005	19995.0
+ERR2523867	331491eea5713f1c	male	adult	60s	90016	Overweight	Canada	disease	cancer	ERR2523867	26768.0
+ERR2579455	0c3c852682c7886d	male	adult	60s	31457	Underweight	USA	HC	cancer	ERR2579455	27194.0
+ERR1842417	393139dd2c222f11	female	adult	50s	41963	Overweight	USA	HC	cancer	ERR1842417	8191.0
+ERR1842912	f97d7fc705a5c1b4	male	adult	70+	50282	Normal	United Kingdom	disease	cancer	ERR1842912	4258.0
+ERR1841548	9b847261873c5b85	female	adult	70+	59198	Normal	USA	HC	cancer	ERR1841548	8831.0
+ERR2696497	b638021a9cbbede6	female	adult	40s	72330	Normal	USA	disease	cancer	ERR2696497	15078.0
+ERR1459032	378c8081deeeef8d	male		Not provided	28505	Not provided	United Kingdom	HC	cancer	ERR1459032	6701.0
+ERR1091739	126927d36e84c936	female	adult	60s	23536	Normal	Australia	disease	cancer	ERR1091739	19926.0
+ERR2405235	d6dcbbdeb487556c	female	adult	60s	58394	Normal	United Kingdom	HC	cancer	ERR2405235	10285.0
+ERR2314087	74a04b46d802497a	male	child	child	13234	Underweight	USA	HC	cancer	ERR2314087	20081.0
+ERR2579880	50479aaf434a8540	female	adult	40s	15933	Overweight	USA	HC	cancer	ERR2579880	9171.0
+ERR1091481	5e0513c2d413dadb	male		Unspecified	93021	Underweight	United Kingdom	HC	cancer	ERR1091481	43115.0
+ERR1075540	df945403274a7594	female	adult	40s	8204	Normal	USA	HC	cancer	ERR1075540	6248.0
+ERR1073732	cdd72d2279234fe2	female	adult	60s	67074	Normal	Australia	disease	cancer	ERR1073732	14053.0
+ERR1249872	9ddb36c98b61eddf	male	adult	60s	1507	Normal	USA	disease	cancer	ERR1249872	15192.0
+ERR2319343	7eb05330eed1f513	male	child	child	3490	Underweight	USA	HC	cancer	ERR2319343	20144.0
+ERR2303985	bce74a9cc306b865	female		Not provided	50288	Not provided	United Kingdom	disease	cancer	ERR2303985	21901.0
+ERR2032705	d553ebaa978207b8	female	adult	40s	69739	Overweight	USA	disease	cancer	ERR2032705	23635.0
+ERR2697805	9b1c4d979ec1ce08	male	adult	50s	92678	Overweight	United Kingdom	disease	cancer	ERR2697805	12120.0
+ERR1842504	674533d367f222d2	female	adult	40s	23129	Normal	USA	HC	cancer	ERR1842504	7176.0
+ERR1073919	01a63c1872d3a699	male	adult	30s	47140	Normal	United Kingdom	disease	cancer	ERR1073919	11647.0
