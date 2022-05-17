@@ -55,7 +55,7 @@ def dbi_binary(exp, nsf, thresh=0, outfile=None):
     return df
 
 def dbi_freqs(exp, nsf, thresh=0, outfile=None):
-    '''Binary index:
+    '''frequency based index for determine health according to microbiome:
     Parameters
     ----------
     exp: ca.Experiment
