@@ -18,9 +18,9 @@ import_nsf <- function(downlistpath, uplistpath){
 }
 
 #' Calculate the Binary health index for each sample in an experiment.
-#' @param exp data.frame of otu exeriment. ASV are rows and samples are the columns.
+#' @param exp data.frame of ASV experiment. ASV are rows and samples are the columns.
 #' @param ns data.frame of "good" and "bad" bacteria with "dir".
-#' @param thresh floa. Threshold to consider level of bacteria absent/not.
+#' @param thresh float. Threshold to consider level of bacteria absent/not.
 #' @return data.frame. Binary table with score for each sample.
 #' @export binary_health_index
 binary_health_index <- function(exp, ns, thresh = 0){
@@ -42,13 +42,14 @@ binary_health_index <- function(exp, ns, thresh = 0){
 
 
 #' Calculate frequency based Health Index for each sample in an ASV table.
-#' @param exp data.frame of otu exeriment. ASV are rows and samples are the columns.
+#' @param exp data.frame of ASV exeriment. ASV are rows and samples are the columns.
 #' @param ns data.frame of "good" and "bad" bacteria with "dir".
 #' @param thresh floa. Threshold to consider level of bacteria absent/not.
-#' @return data.frame. Binary table with score for each sample.
+#' @return data.frame. Health index score calculated for each sample.
 #' @export freq_health_index
 #' @author Rotem Hadar
-freq_health_index <- function(exp, ns, thresh = 0){
+freq_health_index <- function(exp, ns){
+  if(missing(ns)) ns <- import_nsf()
   # filter only relevant ASV, and pivot_longer
   exp <- exp %>% data.frame() %>% 
     tibble::rownames_to_column("Feature_ID") %>% 
@@ -63,7 +64,16 @@ freq_health_index <- function(exp, ns, thresh = 0){
 }
 
 
-# Need to implement the ranked version. sometime in the future.
+#' Calculate the ranked health index for each sample in an experiment.
+#' @param exp data.frame of ASV exeriment. ASV are rows and samples are the columns.
+#' @param ns data.frame of "good" and "bad" bacteria with "dir".
+#' @param thresh floa. Threshold to consider level of bacteria absent/not.
+#' @return data.frame. Binary table with score for each sample.
+#' @export binary_health_index
+ranked_health_index <- function(exp, ns, thresh = 0){
+  res <- binary_health_index(exp, ns, thresh)
+  res <- data.frame(sampleid = res$sampleid, ranked_HI = rank(res$freq_HI))
+}
 
 #' Convert AmpliconExperiment type from python calour to standard data.frame ASV table.
 #' @param AmpliconExperiment calour object to transorm to data.frame.
@@ -76,3 +86,5 @@ calour_to_df <- function(AmpliconExperiment){
   colnames(df) <-  AmpliconExperiment$feature_metadata$`_feature_id`
   data.frame(t(df))
 }
+
+
